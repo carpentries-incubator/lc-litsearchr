@@ -1,5 +1,5 @@
 ---
-title: "Introduction to litsearchr"
+title: "An overview of systematic reviews"
 teaching: 
 exercises: 0
 questions:
