@@ -43,11 +43,11 @@ keypoints:
 >Environment & History Pane (top right)
 >This pane includes two different but important functions.
 
-* Environment: This will display the objects that you’ve read into what is called the “global environment.” When you read a file into R, or manually create an R object, it enters into the computer’s working memory. When we manipulate or run operations on that data, it isn’t actually written to a file until we tell it to. It is kept here in the environment.
+>* Environment: This will display the objects that you’ve read into what is called the “global environment.” When you read a file into R, or manually create an R object, it enters into the computer’s working memory. When we manipulate or run operations on that data, it isn’t actually written to a file until we tell it to. It is kept here in the environment.
 
-* The environment pane will also include any objects you have defined. For example, if you type y <- 5 into the console, you will now see y defined as a value in your environment.
+>* The environment pane will also include any objects you have defined. For example, if you type y <- 5 into the console, you will now see y defined as a value in your environment.
 
-* You can list all objects in the environment by typing ls() in the console and pressing Enter on your keyboard. You can clear all objects in the environment by clicking the broom icon to the right of the words “Import Dataset.”" Clear individual objects by using the rm function; for example: rm(y) will delete the y object from your environment.
+>* You can list all objects in the environment by typing ls() in the console and pressing Enter on your keyboard. You can clear all objects in the environment by clicking the broom icon to the right of the words “Import Dataset.”" Clear individual objects by using the rm function; for example: rm(y) will delete the y object from your environment.
 
 ~~~
 ## create object y
@@ -64,9 +64,9 @@ rm(y)
 >Navigation pane (lower right)
 >This pane has multiple functions:
 
-* Files: Navigate to files saved on your computer
-* Plots: View plots (charts and graphs) you have created
-* Packages: view add-on packages you have installed, or install new packages
-* Help: Read help pages for R functions
-* Viewer: View local web content
+>* Files: Navigate to files saved on your computer
+>* Plots: View plots (charts and graphs) you have created
+>* Packages: view add-on packages you have installed, or install new packages
+>* Help: Read help pages for R functions
+>* Viewer: View local web content
 {
