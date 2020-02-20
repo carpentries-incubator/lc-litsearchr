@@ -37,7 +37,7 @@ keypoints:
 >## RStudio Console
 >After you install and open RStudio, you will see a window with four panes. You may need to open the top left "Source" pane by clicking on the maximize icon.
 
-![](../fig/R_console_image_open_pane.png)
+![](../fig/R_console_image_open_pane.PNG)
 
 ![](../fig/R_console_image.png)
 
