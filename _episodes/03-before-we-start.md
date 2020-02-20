@@ -54,7 +54,7 @@ keypoints:
 v <- 5
 
 ## list all objects in the enviroment
-1s()
+ls()
 
 ## remove object y
 rm(y)
