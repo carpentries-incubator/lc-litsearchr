@@ -12,9 +12,10 @@ objectives:
 - "Successfully install packages in RStudio"
 - "Successfully navigate and run r code"
 keypoints:
-- "Use install.packages("tidyverse"), a package of packages, including many that you are likely to use as you come to work with R"
-- "Use install.packages("devtools"), a package needed to install litsearchr"
-- "Use devtools::install_github("elizagrames/litsearchr"), part of the metaverse, which is a set of R packages that span the entire scope of evidence synthesis in R"
+- "Install tidyverse, a package of packages, including many that you are likely to use as you come to work with R"
+- "Install devtools, a package needed to install litsearchr"
+- "Install litsearchr, part of the metaverse, which is a set of R packages that span the entire scope of evidence synthesis in R"
+-
 ---
 
 ## About R and RStudio
