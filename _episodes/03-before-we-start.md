@@ -26,12 +26,18 @@ keypoints:
 >R is also free and open source, distributed under the terms of the GNU General Public License. This means it is free to download and use the software for any purpose, modify it, and share it. As a result, R users have created thousands of packages and software to enhance user experience and functionality. 
 >
 >When using R, you have a console window with a blinking cursor, and you type in a command according to the R syntax in order to make it do something. This can be intimidating for people who are used to Graphical User Interface (GUI) software such as Excel, where you use the mouse to point and click, and never or seldom have to type anything into the interface in order to get it to do something. While this can be seen as a drawback, it actually becomes a great advantage once you learn the R language, as you are not bound by the options presented to you in a GUI, but can craft flexible and creative commands.
+>
+>By expanding the tools you use to manipulate data, you also open new possibilities for data interpretation, analysis, visualization, and, crucially, communication. In the model of data analysis presented in Hadley Wickam’s book Data Wrangling with R, data wrangling is the getting, cleaning, and transforming phase, which feeds into the visualization and modeling phases, to be followed by the communicating phase.
+
+![](..fig/tidy_data_R.png)
 
 >## What is RStudio?
 >RStudio is a user interface for working with R. You can use R without RStudio, but it’s much more limiting. RStudio makes it easier to import datasets, create and write scripts, and has an autocomplete activated for functions and variables you’ve already assigned. RStudio makes using R much more effective, and is also free and open source.
 
 >## RStudio Console
 >After you install and open RStudio, you will see a window with four panes. You may need to open the top left "Source" pane by clicking on the maximize icon.
+
+![](../fig/R_console_image_open_pane.png)
 
 ![](../fig/R_console_image.png)
 
