@@ -28,3 +28,45 @@ keypoints:
 
 >## What is RStudio?
 >RStudio is a user interface for working with R. You can use R without RStudio, but it’s much more limiting. RStudio makes it easier to import datasets, create and write scripts, and has an autocomplete activated for functions and variables you’ve already assigned. RStudio makes using R much more effective, and is also free and open source.
+
+>## RStudio Console
+>After you install and open RStudio, you will see a window with four panes. You may need to open the top left "Source" pane by clicking on the maximize icon.
+
+![](../fig/R_console_image.png)
+
+>Console Pane (bottom left)
+>If you were just using the basic R interface, without RStudio, this is all you would see. You use this to type in a command and press enter to immediately evaluate it. It includes a > symbol and a blinking cursor prompting you to enter some code. Code that you type directly in the console will not be saved, though it is available in the History Pane. You can try it out by typing 2 + 2 into the console. 
+
+>Script Pane (top left)
+>This is sort of like a text editor, or a place to draft and save code. You then tell RStudio to run the line of code, or multiple lines of code, and you can see it appear in the console as it is running. Then save the script as a .R file for future use, or to share with others. To create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save.
+
+>Environment & History Pane (top right)
+>This pane includes two different but important functions.
+
+* Environment: This will display the objects that you’ve read into what is called the “global environment.” When you read a file into R, or manually create an R object, it enters into the computer’s working memory. When we manipulate or run operations on that data, it isn’t actually written to a file until we tell it to. It is kept here in the environment.
+
+* The environment pane will also include any objects you have defined. For example, if you type y <- 5 into the console, you will now see y defined as a value in your environment.
+
+* You can list all objects in the environment by typing ls() in the console and pressing Enter on your keyboard. You can clear all objects in the environment by clicking the broom icon to the right of the words “Import Dataset.”" Clear individual objects by using the rm function; for example: rm(y) will delete the y object from your environment.
+
+~~~
+## create object y
+v <- 5
+
+## list all objects in the enviroment
+1s()
+
+## remove object y
+rm(y)
+~~~
+{: .language-r}
+
+>Navigation pane (lower right)
+>This pane has multiple functions:
+
+* Files: Navigate to files saved on your computer
+* Plots: View plots (charts and graphs) you have created
+* Packages: view add-on packages you have installed, or install new packages
+* Help: Read help pages for R functions
+* Viewer: View local web content
+{
