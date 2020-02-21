@@ -106,11 +106,36 @@ Using consistent filing naming and folder structure across your projects will he
 You may want additional directories or subdirectories depending on your project
 needs, but these should form the backbone of your working directory for this lesson.
 
+We can create these folders using the RStudio interface by clicking on the "New Folder" button in the file pane (bottom right), or directly from R by typing in the console:
+
+~~~
+dir.create("data")
+dir.create("data_output")
+dir.create("documents")
+dir.create("scripts")
+~~~
+{: .language-r}
+
 # Download the data for this lesson
+For this lesson we will be using a...
+
+Place this downloaded file in the `data/` you just created. You can do this by opening your downloads folder, locating the file you just downloaded, and dragging and dropping it into your newly created R Project folder. You can also do this directly from R by copying and pasting this in your terminal:
+
+~~~
+download.file(ENTER IN URL)
+~~~
+{: .language-r}
 
 # Installing packages
+There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as...
+
+# Excercise
+> Install the 'tidyverse' and the 'devtools' packages. 
+>
+> > ## Soltuion
+> > From the...
 
 # Interacting with R
 
-# Excercise
+
 
