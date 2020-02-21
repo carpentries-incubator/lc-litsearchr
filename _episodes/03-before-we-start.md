@@ -72,10 +72,39 @@ This pane has multiple functions:
 * Viewer: View local web content
 
 # Getting set up
+You will need to create and set up your working directory in RStudio for this lesson. The working directory is very important, as it is the place where you will store, save, and retrieve your files. RStudio projects makes it easy to set up your working directory.
+
+If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". Alternatively you can use `setwd("/path/to/working/directory")` to reset your working directory.
 
 # Create a new project
+* Under the `File` menu, click on `New project`, choose `New directory`, then
+  `New project`
+* Enter a name for this new folder (or "directory"), for example `litsearchr-lesson`, and choose a convenient
+  location for it. This will be your **working directory** for the rest of the
+  day (e.g., `~/library-carpentry`)
+* Click on `Create project`
+* Create a new file where we will type our scripts. Go to File > New File > R
+  script. Click the save icon on your toolbar and save your script as
+  "`script.R`".
 
 # Organize your working directory
+Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you may create directories or folders for **scripts**, **data**, and **documents**. Create the following folders in your working directory:
+
+ - **`data/`** Use this folder to store your raw data or the original files you export from a bibliographic database. For the sake of
+   transparency and [provenance](https://en.wikipedia.org/wiki/Provenance), you
+   should *always* keep a copy of your raw data accessible and do as much of
+   your data cleanup and preprocessing programmatically (i.e., with scripts,
+   rather than manually) as possible.
+ - **`data_output/`** When you need to modify your raw data for your analyses,
+   it might be useful to store the modified versions of the datasets generated
+   by your scripts in a different folder.
+ - **`documents/`** This would be a place to keep outlines, drafts, and other
+   text.
+ - **`scripts/`** This would be the location to keep your R scripts for
+   different analyses or plotting.
+
+You may want additional directories or subdirectories depending on your project
+needs, but these should form the backbone of your working directory for this lesson.
 
 # Download the data for this lesson
 
