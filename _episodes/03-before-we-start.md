@@ -90,12 +90,12 @@ If for some reason your working directory is not set up correctly you can change
 # Organize your working directory
 Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you may create directories or folders for **scripts**, **data**, and **documents**. Create the following folders in your working directory:
 
- - **`data/`** Use this folder to store your raw data or the original files you export from a bibliographic database. For the sake of
+ - **`search_results_data/`** Use this folder to store your raw data or the original files you export from a bibliographic database. For the sake of
    transparency and [provenance](https://en.wikipedia.org/wiki/Provenance), you
    should *always* keep a copy of your raw data accessible and do as much of
    your data cleanup and preprocessing programmatically (i.e., with scripts,
    rather than manually) as possible.
- - **`data_output/`** When you need to modify your raw data for your analyses,
+ - **`search_results_data_output/`** When you need to modify your raw data for your analyses,
    it might be useful to store the modified versions of the datasets generated
    by your scripts in a different folder.
  - **`documents/`** This would be a place to keep outlines, drafts, and other
@@ -109,8 +109,8 @@ needs, but these should form the backbone of your working directory for this les
 We can create these folders using the RStudio interface by clicking on the "New Folder" button in the file pane (bottom right), or directly from R by typing in the console:
 
 ~~~
-dir.create("data")
-dir.create("data_output")
+dir.create("search_results_data")
+dir.create("search_results_data_output")
 dir.create("documents")
 dir.create("scripts")
 ~~~
