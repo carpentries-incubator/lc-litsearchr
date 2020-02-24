@@ -15,3 +15,19 @@ keypoints:
 - "..."
 - 
 ---
+
+# Calling a function
+
+# Data frames
+
+# Create a data frame
+
+# Exploring data frames
+
+# Ways to get data into R
+
+# Data Exploration
+
+# Data cleaning & transformation
+
+# Data visualization
