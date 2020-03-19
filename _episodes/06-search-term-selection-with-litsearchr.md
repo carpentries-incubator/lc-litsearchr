@@ -16,7 +16,9 @@ Coming up with a naive search is very similar to developing a search strategy wi
 
 ## Exercise: Develop a naive search
 
-Working either alone or in small groups of 2-3, learners should take 10 minutes to develop a naive search either for a project they are working on, or one of the options below that is most closely matched to their expertise. The topics listed below come from published systematic reviews that we will use throughout the lesson to identify terms, and later, to check the performance of different search strings (Part 08 -- Test a search strategy with litsearchr). We encourage learners to stick with the same topic throughout the lesson because it will make the connections between parts more apparent, and, if learners choose one of the options below, they can contribute data to a project testing the sensitivity of litsearchr to different decisions made by different groups of learners (completely optional).
+Working either alone or in small groups of 2-3, learners should take 10 minutes to develop a naive search either for a project they are working on, or one of the options below that is most closely matched to their expertise. Start by identifying the PICO (or one of its variants, such as PICOTS or PECO) components of the question and then generate all of the most precise synonyms. For example, if working with the second option below, learners will likely opt for PECO and will identify the population as adolescents, exposure as alcohol advertising, and the outcome as alcohol use, but not include a comparator in the search terms.
+
+The topics listed below come from published systematic reviews that we will use throughout the lesson to identify terms, and later, to check the performance of different search strings (Part 08 -- Test a search strategy with litsearchr). We encourage learners to stick with the same topic throughout the lesson because it will make the connections between parts more apparent, and, if learners choose one of the options below, they can contribute data to a project testing the sensitivity of litsearchr to different decisions made by different groups of learners (completely optional). These particular systematic reviews were chosen because they are open access, represent several disciplines, and the topics are of general public interest.
 
 Are current management recommendations for saproxylic invertebrates effective? A systematic review
 
@@ -24,7 +26,7 @@ Impact of alcohol advertising and media exposure on adolescent alcohol use: a sy
 
 Dietary sugars and body weight: systematic review and meta-analyses of randomised controlled trials and cohort studies
 
-Evidence-based interventions for immigrant students experiencing behavioral and academic problems: a systematic review of the iterature
+Evidence-based interventions for immigrant students experiencing behavioral and academic problems: a systematic review of the literature
 
 NOTE: Eliza still has to pull together the descriptions for this and a plan for people to contribute data (presumably a website that explains it more). The idea is for lesson participants to anonymously upload their naive search, final keywords, and how well the final search string did at retrieving the benchmark articles at the end of the lesson. Eliza, and whoever else is interested, will eventually review/score all of the naive searches then test this score of quality/completeness in relation to recall of the original articles included in the published systematic review to see how sensitive litsearchr is to different initial inputs.
 
@@ -37,16 +39,16 @@ Before we can work with bibliographic data in R, we first need to import it and 
 ```{r}
 library(litsearchr)
 
-# the functions for importing and removing duplicates in litsearchr are import_results() and remove_duplicates()
+# most functions in litsearchr have sensible names (but not all!)
+# the function import_results() will import a file or directory of results 
+# and the function remove_duplicates() will deduplicate them
 
 ```
 
 ## Extracting keywords from naive search results
 
-
-
-
 ```{r}
+
 
 ```
 
@@ -54,5 +56,4 @@ library(litsearchr)
 
 ```{r}
 
-```
 ```
