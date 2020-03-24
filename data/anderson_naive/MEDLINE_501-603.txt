@@ -1,0 +1,2284 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 8758885
+TI Adolescent counterarguing of TV beer advertisements: evidence for effectiveness of alcohol education and critical viewing discussions.
+AU Slater, M D
+   Rouner, D
+   Murphy, K
+   Beauvais, F
+   Van Leuven, J
+   Domenech-Rodriguez, M M
+SO Journal of drug education
+VL 26
+IS 2
+PS 143-58
+PY 1996
+PD 1996 
+AB The pervasiveness of American youth's exposure to alcohol advertising is well-documented, as is the correlational evidence linking such exposure to alcohol-related attitudes, use, and expectancies. While efforts to train young people to resist persuasive appeals are often made in alcohol education programs, little evidence exists concerning the effectiveness of such efforts. The present study (N = 83) found that recency of exposure to alcohol education classes and discussion of alcohol advertising in such classes predicts cognitive resistance (counterarguing) of such advertisements months or even years after class exposure. Age, gender, and ethnicity were statistically controlled. While females tended to counterargue the alcohol advertisements more than did males, there was no statistically significant difference in the impact of education on males and females. 
+RI Domenech-Rodriguez, Melanie M./B-1575-2010; Slater, Michael D/A-6994-2008; Slater, Michael/A-5450-2011
+OI Domenech-Rodriguez, Melanie M./0000-0002-6610-6890; Slater, Michael D/0000-0003-4279-346X; Slater, Michael/0000-0003-4279-346X
+SN 0047-2379
+JC 1300031
+SA MEDLINE
+DI 10.2190/8382-ELN0-1FDW-V2CA
+UT MEDLINE:8758885
+ER
+
+PT J
+AN 8711184
+TI Acute ethanol poisonings during the New Year's Eve party "95/'96 in Krakow.
+AU Pach, J
+   Sancewicz-Pach, K
+   Targosz, D
+   Osuch, M
+   Adamaszek, Z
+SO Przeglad lekarski
+VL 53
+IS 4
+PS 324-8
+PY 1996
+PD 1996 
+AB Distilled spirits are the major source of ethanol consumption in Poland. Such concentrated alcohol is drunk quickly, especially in teenager groups who consider consumption of 250 or 500 ml of vodka during one hour or one hour and half as quite normal. For two years the New Years Eve party has been celebrated in the Main Market Square in Krakow. In 1995 unfavourable weather conditions had been observed for at least 14 days before the New Year's Eve night. During that night only 15 people-participants of the party were admitted to the Department of Toxicology. The aim of this study is to present the cases of poisoned people with ethanol during the last night of the year 1995. All the patients were young (10 poisoned patients were below 17 years of age), considerably low body temperature, and relatively low coma grade. 80% of the patients were admitted between 0:00 and 5:00 a.m. after 200 minutes since the moment they started to drink alcohol. Blood ethanol concentration ranged from 1.2 to 4.23 g/L and serum osmolality from 338 to 440 mOsm/kg H2O. Both ethanol concentration and serum osmolality progressively rose reaching the highest values in the group of patient with III coma degree (p < 0.001). All the cases of acute ethanol poisoning presented in the study had a good outcome, as patient were admitted at the Clinic in relatively short time after symptoms of poisoning have occurred. 
+SN 0033-2240
+JC 19840720R
+SA MEDLINE
+UT MEDLINE:8711184
+ER
+
+PT J
+AN 8855703
+TI Alcohol and the media.
+AU Montonen, M
+SO WHO regional publications. European series
+VL 62
+PS 1-165
+PY 1996
+PD 1996 
+SN 0378-2255
+JC 7612236
+SA MEDLINE
+UT MEDLINE:8855703
+ER
+
+PT J
+AN 8748101
+TI Alcohol and the young. Summary of a report of a joint working party of the Royal College of Physicians and the British Paediatric Association.
+AU [Anonymous]
+SO Journal of the Royal College of Physicians of London
+VL 29
+IS 6
+PS 470-4
+PY 1995
+PD 1995 
+AB Drinking alcohol is an accepted and pleasurable part of social life. Most adults have at least an occasional drink with friends and, apart from those who may abstain for religious and other reasons, many would expect alcohol to be provided at a family celebration or a party. Yet, as is well known, alcohol in excess can kill. As has already been highlighted by four major reports it can affect an individual even before birth, and is responsible for significant ill health and unhappiness, destroying careers and wrecking family life. Heavy alcohol consumption sometimes begins in adolescence. It is therefore important both to educate young people about alcohol so that they can take informed decisions and to protect young children from its harmful effects. 
+SN 0035-8819
+JC 7503108
+SA MEDLINE
+UT MEDLINE:8748101
+ER
+
+PT J
+AN 8557434
+TI Epidemiological measures of participation in community health promotion projects.
+AU Oddy, W H
+   Holman, C D
+   Corti, B
+   Donovan, R J
+SO International journal of epidemiology
+VL 24
+IS 5
+PS 1013-21
+PY 1995
+PD 1995 Oct
+AB BACKGROUND: The paper is concerned with the use of epidemiological methods to measure the rates at which different strata of a defined population participate in community health promotion projects. The specific aim was to estimate the incidence rates of participation in projects sponsored by the Western Australian Health Promotion Foundation (Healthway), separately for sociodemographic and health-related behavioural subgroups.; METHODS: Data were drawn from Healthway sponsorship projects in 1992. Each sport, arts and racing project was associated with promotion of a health message and creation of a health promoting environment. The study used a two-stage sampling design. Thirteen of 57 large sponsorship projects and 30 of 129 small projects were selected. In the second stage, respondents were randomly surveyed from among project participants. A total of 4060 respondents aged > or = 10 years was sampled from the 43 selected projects. Population-based incident participants were estimated and were related to person-years at risk.; RESULTS: The total participation rate was 4.01 per person-year. The rate was very high at ages 10-14 years and thereafter declined with increasing age. Compared with the least socially disadvantaged 25% of population, the participation rate fell by around one-third in the medium and high disadvantage groups, but exceeded the baseline by a ratio of 1.85 (95% confidence interval: 1.57-2.18) in the most disadvantaged 10% of population. The effect was most pronounced at ages 10-19 years. Participation was higher in those who smoked, drank alcohol unsafely, reported sunburn and reported low consumption of fruit and vegetables. However, participation was reduced in people who were sedentary.; CONCLUSIONS: Epidemiological methods can be used to evaluate the distribution of participation of a population in community health promotion projects. The Western Australian Health Promotion Foundation has been successful in reaching disadvantaged youth. 
+A2 The paper is concerned with the use of epidemiological methods to
+   measure the rates at which different strata of a defined population
+   participate in community health promotion projects. The specific aim was
+   to estimate the incidence rates of participation in projects sponsored
+   by the Western Australian Health Promotion Foundation (Healthway),
+   separately for sociodemographic and health-related behavioral subgroups.
+   Data were drawn from Healthway sponsorship projects in 1992. Each sport,
+   arts, and racing project was associated with promotion of a health
+   message and creation of a health promoting environment. The study used a
+   2-stage sampling design. 13 of 57 large sponsorship projects and 30 of
+   129 small projects were selected. In the second stage, respondents were
+   randomly surveyed from among project participants. A total of 4060
+   respondents at least 10 years old was sampled from the 43 selected
+   projects. Population-based incident participation were estimated and
+   were related to person-years at risk. The total participation rate was
+   4.01 per person-year in people or= 10 years old. The rate was very high
+   at ages 10-14 years and thereafter declined with increasing age.
+   Compared with the least socially disadvantaged 25% of the population,
+   the participation rate fell by around 1/3 in the medium and high
+   disadvantaged groups, but exceeded the baseline by a ratio of 1.85 (95%
+   confidence interval: 1.57-2.18) in the most disadvantaged 10% of the
+   population. The comparatively high rate of participation in the most
+   disadvantaged group occurred only at ages  50 years and the effect was
+   most pronounced at ages 10-19 years. Compared with the least
+   disadvantaged 25%, the rate ratio in the most disadvantaged 10% of the
+   population was 2.50 in the metropolitan area and 1.25 in the country
+   regions of western Australia.  Participation was higher in those who
+   smoked, drank alcohol unsafely, reported sunburn, and reported low
+   consumption of fruit and vegetables. Epidemiological methods can be used
+   to evaluate the distribution of participation of a population in
+   community health promotion projects.
+RI Holman, Cashel DJ/B-6173-2009
+OI Holman, Cashel DJ/0000-0001-7247-3331; Giles-Corti, Billie/0000-0003-0102-0225
+SN 0300-5771
+JC 7802871
+SA MEDLINE
+DI 10.1093/ije/24.5.1013
+UT MEDLINE:8557434
+ER
+
+PT J
+AN 8524720
+TI Recognition and liking of tobacco and alcohol advertisements among adolescents: relationships with susceptibility to substance use.
+AU Unger, J B
+   Johnson, C A
+   Rohrbach, L A
+SO Preventive medicine
+VL 24
+IS 5
+PS 461-6
+PY 1995
+PD 1995 Sep
+AB BACKGROUND: Exposure to tobacco and alcohol advertising has been associated with adolescent substance use. However, it is not clear whether favorable reactions to advertising are an antecedent to or a consequence of substance use. This study investigated relationships between adolescents' levels of susceptibility to substance use and their recognition and liking of tobacco and alcohol advertising.; METHOD: Eighth-grade students viewed pictures of tobacco and alcohol advertisements with brand names and identifying information obscured, attempted to identify the brand name and type of product being advertised, and rated their liking of the advertisements. Subjects were divided into three substance use status groups: nonsusceptible nonusers (have never used and do not intend to do so), susceptible nonusers (have not used but have not made a firm commitment not to experiment in the future), and users (have tried the substance).; RESULTS: Susceptible nonusers liked the tobacco advertisements at a level that was significantly greater than that of the nonsusceptible nonsmokers and comparable to that of the users. Liking of the alcohol advertisements generally increased with alcohol use status.; CONCLUSIONS: These results suggest that tobacco advertisements ostensibly targeted to adult smokers may have the effect of recruiting new adolescent smokers. 
+OI Unger, Jennifer/0000-0001-9064-6603
+SN 0091-7435
+JC 0322116
+SA MEDLINE
+DI 10.1006/pmed.1995.1074
+UT MEDLINE:8524720
+ER
+
+PT J
+AN 7479624
+TI Recruitment to a university alcohol program: evaluation of social marketing theory and stepped approach model.
+AU Gries, J A
+   Black, D R
+   Coster, D C
+SO Preventive medicine
+VL 24
+IS 4
+PS 348-56
+PY 1995
+PD 1995 Jul
+AB BACKGROUND: This study was a first initiative to evaluate the application of social marketing theory (SMT) to increase attendance at an alcohol abuse education program for university residence hall students and to ascertain whether aggressive recruitment strategies are necessary as part of the stepped approach model (SAM) of service delivery.; METHOD: SMT and public health strategies that include focus groups, in-depth interviews, and intercept interviews were used to develop recruitment materials in a Test Hall. These new recruitment materials were introduced to the residents in the Treatment Hall (N = 727) and were compared to the Usual Care, Control Hall (N = 706) which received the recruitment materials normally provided to residents as well as to three Historical Halls separately and combined which had used the Usual Care recruitment materials in the past.; RESULTS: The Treatment Hall percentage attendance was significantly superior (0.001 < p < 0.05) in all comparisons. The percentage attendance did not differ significantly from marketing literature expectations. The projections for campus-wide attendance for residence hall students were between 207 and 243 participants and for nationwide attendance, 36,900 +/- 8,185.; CONCLUSIONS: The results suggest that the SMT and public health methods used are helpful in developing recruitment strategies and are an important initial step of the SAM and that a "minimal intervention" recruitment strategy is a cost-effective approach that can have a dramatic impact. 
+SN 0091-7435
+JC 0322116
+SA MEDLINE
+DI 10.1006/pmed.1995.1057
+UT MEDLINE:7479624
+ER
+
+PT J
+AN 7785531
+TI Commercial television bladder dysfunction.
+AU Vande Walle, J
+   Theunis, M
+   Renson, C
+   Raes, A
+   Hoebeke, P
+SO Acta urologica Belgica
+VL 63
+IS 2
+PS 105-11
+PY 1995
+PD 1995 May
+AB Bladderdysfunction seems to have an increasing frequency in infancy, and especially in children without obvious congenital organic or functional bladderdysfunction. The disorder seems is related with changes in our behaviour, that are stimulated by familial and social pseudo-reasons. Commercial interests and marketing play a major role. This leads to wrong dry-training, an exaggerated hygienic education, prudisheness, wrong toilet-posture, lack of time to void, post-poning, wrong drink- and void-pattern, wrong food-pattern and increasing constipation. Prevention is necessary by an adapted reeducation of parents ans society. 
+SN 0001-7183
+JC 0377045
+SA MEDLINE
+UT MEDLINE:7785531
+ER
+
+PT J
+AN 7726756
+TI [Alcohol beverage advertisements--survey of weekly magazines].
+AU Okazaki, N
+   Higuchi, S
+SO Arukoru kenkyu to yakubutsu izon = Japanese journal of alcohol studies & drug dependence
+VL 30
+IS 1
+PS 23-32
+PY 1995
+PD 1995 Feb
+AB This paper presents an analysis of alcohol beverage advertisements appearing in weekly magazines and comics. Few studies have be undertaken on this sector of the mass media in Japan. The results are compared with those of a similar study in the United States. We also review alcohol advertisements on television and the drinking scenes shown in comics. On the average, Japanese magazines tend to contain fewer alcohol advertisements than American magazines. However, 18 (53%) in 34 weekly magazines contained alcohol advertisements showing that such magazines are an important medium for alcoholic beverage advertising in Japan. There were also alcohol advertisements targeting to particular populations, youths and women, which may be connected with the increase in drinking in these groups. Alcohol advertisements in the mass media should be monitored continuously as public health issue. 
+SN 0389-4118
+JC 8213278
+SA MEDLINE
+UT MEDLINE:7726756
+ER
+
+PT J
+AN 12288944
+TI Accelerate social development to promote the advancement of society.
+AU Hao, J
+SO China population today
+VL 12
+IS 1
+PS 4-9
+PY 1995
+PD 1995 Feb
+A2 The statement of the vice minister of the Chinese State Planning
+   Commission emphasized the achievements made by the government in
+   improving the quality of life of the Chinese people, protecting the
+   environment, controlling population growth, improving health and
+   employment, improving public and social security, and promoting national
+   solidarity. The Chinese government will look forward to sharing the
+   Chinese experiences with social development at the forthcoming UN World
+   Summit on Social Development in March, 1995. Since 1980 a national
+   program for economic development has been in force. Since 1949 and the
+   founding of the People's Republic and particularly since 1978, many
+   advances have been made. The Chinese government has been able to provide
+   adequate food and clothing for a population comprising 22% of the
+   world's population living on 7% of the world's land. Not only have basic
+   living standards been met, but per capital disposable income has
+   increased. Ownership of durable consumer goods has increased to the
+   level of moderately developed countries. Radio messages reach about 80%
+   of the population, and television reaches about 83% of the population.
+   Family planning programs have promoted a balance among population with
+   ecology and socioeconomic development. The rate of natural increase has
+   declined from 25.83 in 1970 to 11.45 in 1993. The crude birth rate for
+   the same period declined from 33.43 to 18.09. The crude death rate has
+   remained at about 6-7 per 1000 population. The total fertility rate has
+   been reduced to 2.0. Life expectancy has increased from 65 years to 70
+   years. Illiteracy among the population 15 years and older has greater
+   improved; the illiteracy rate among youth and adults was 7% in 1993.
+   Environmental policies have brought industrial pollution under strict
+   control. Sewage treatment plants have been built. Natural gas and
+   centralized heating have been promoted. Sound agricultural practices
+   have been promoted. Reforestation efforts have resulted in the planting
+   of almost 10 billion new trees. 13.9% of land area was forested in 1993.
+   600,000 sq km of eroded land has been reclaimed. Natural preserves (776)
+   cover 661,800 km. 97.7% of school-age children were enrolled in school
+   in 1993. 53.7% of the senior middle school population was enrolled in
+   technical education. 80.8% of rural population has access to safe
+   drinking water.
+JC 9306692
+SA MEDLINE
+UT MEDLINE:12288944
+ER
+
+PT J
+AN 7500224
+TI Sources of alcohol and drug information among Israeli urban adolescents.
+AU Weiss, S
+   Moore, M
+SO Journal of drug education
+VL 25
+IS 3
+PS 211-22
+PY 1995
+PD 1995 
+AB This article describes a study which investigated sources of alcohol and drug information among Israeli urban adolescents in the north of Israel during the winter of 1993. Data were obtained from a sample of 1,346 students (50.9% males, 49.1% females), who were asked to indicate the amount of information (none, little, much) they had received from ten sources about eight categories of drugs. Among the findings: television is the primary source of information for all drugs, except inhalants, for which newspapers/magazines are the main source. Newspapers/magazines are of secondary importance for the rest of the seven categories of drugs. Teenagers are less likely to receive information from physicians/nurses and relatives than from other sources. Information based on personal experience is prominent concerning alcohol, cigarettes, inhalants and hashish/marijuana, and it prevails more among males than among females (p < .01). Females use school teachers as a source of information in all drug categories more than males (p < .01). There are differences in using various information sources among grades and types of places of living. Information based on personal experience with alcohol is notably correlated with that with cigarettes, whereas information based on personal experience with opiates is correlated with that with stimulants, hallucinogens and hashish/marijuana (p < .001). The mean number of sources of information used by the respondents is the highest concerning alcohol and the lowest concerning depressants. Implications for prevention are discussed. 
+SN 0047-2379
+JC 1300031
+SA MEDLINE
+DI 10.2190/WNK2-2GVM-VH59-1D3L
+UT MEDLINE:7500224
+ER
+
+PT J
+AN 7738159
+TI A review of national television PSA campaigns for preventing alcohol-impaired driving, 1987-1992.
+AU DeJong, W
+   Atkin, C K
+SO Journal of public health policy
+VL 16
+IS 1
+PS 59-80
+PY 1995
+PD 1995 
+AB We present a content analysis of 137 public service announcements (PSAs) focused on alcohol-impaired driving that aired nationally on U.S. television between 1987 and 1992. Our findings include the following: 1) Most PSAs were intended to reach an undifferentiated general audience, not necessarily those who are at greatest risk for driving after drinking. 2) Most PSAs were designed to create awareness of the problem of alcohol-impaired driving or to promote individual behavior change. 3) More PSAs were developed on the use of designated drivers than on any other subject. 4) About two-thirds of the PSAs included one or more celebrities who speak directly to the audience. Past media campaigns have tended to ignore the fact that people's behavior is profoundly shaped by their environment, which in turn is shaped by public policy. We recommend that future mass media campaigns against alcohol-impaired driving focus on building support for changes in institutional structures, public policy or law that will motivate, support, and sustain the efforts of individuals to alter their behavior. Television PSAs can play an important but somewhat limited role in support of this effort. Greater emphasis will need to be given instead to media advocacy strategies, including paid radio advertising. We further recommend that the principal organizations concerned about alcohol-impaired driving share their plans and develop a common communications strategy that will advance the public policy agenda proposed by the Surgeon General's Workshop on Drunk Driving. 
+SN 0197-5897
+JC 8006508
+SA MEDLINE
+DI 10.2307/3342977
+UT MEDLINE:7738159
+ER
+
+PT J
+AN 8546807
+TI Community and municipal action on alcohol.
+AU Ritson, B
+SO WHO regional publications. European series
+VL 63
+PS 1-102
+PY 1995
+PD 1995 
+SN 0378-2255
+JC 7612236
+SA MEDLINE
+UT MEDLINE:8546807
+ER
+
+PT J
+AN 7866412
+TI Childhood sexual, physical, and psychological abuse and their relationship to comorbid psychopathology in bulimia nervosa.
+AU Rorty, M
+   Yager, J
+   Rossotto, E
+SO The International journal of eating disorders
+VL 16
+IS 4
+PS 317-34
+PY 1994
+PD 1994 Dec
+AB We examined the relationship between childhood sexual, physical, psychological, and "multiple" abuse (i.e., abuse in more than one form) and comorbid Axis I and personality psychopathology among women with a lifetime history of bulimia nervosa (BN group; n =s 80) and a control group of noneating-disordered women (n = 40). Subjects were recruited primarily by newspaper advertisement. They participated in structured clinical interviews for diagnosis of Axis I and personality pathology, and they completed child abuse questionnaires in the interview setting. At odds with prediction, child abuse in various forms was not associated with the presence of lifetime comorbid Axis I disorders in general (i.e., 1 or more) or disorder classes in particular (mood, alcohol/substance use, anxiety) among BN subjects, although sexual, psychological, and multiple abuse were associated with the diagnosis of a higher total number of Axis I conditions. A history of psychological and multiple abuse (but not physical or sexual abuse alone) among BN subjects was strongly associated with the presence of personality disorder diagnoses, especially those in the "anxious-fearful" cluster (Cluster C). Finally, we found that when a personality disorder was present in addition to the Axis I conditions in question, significant relationships emerged between abuse and Axis I pathology, particularly for psychological and multiple abuse. In general, control group findings were in accord with BN group findings, indicating that our findings were not specific to eating-disordered women. Our results suggest that childhood abuse, particularly psychological abuse and abuse in multiple forms, increase the likelihood of lifetime comorbid Axis I disorders and personality pathology among bulimic patients. Eating-disordered women with a history of child abuse may thus represent a subgroup of patients requiring especially intensive intervention. 
+SN 0276-3478
+JC 8111226
+SA MEDLINE
+DI 10.1002/1098-108X(199412)16:4<317::AID-EAT2260160402>3.0.CO;2-J
+UT MEDLINE:7866412
+ER
+
+PT J
+AN 7804086
+TI Alcohol in the mass media and drinking by adolescents: a longitudinal study.
+AU Connolly, G M
+   Casswell, S
+   Zhang, J F
+   Silva, P A
+SO Addiction (Abingdon, England)
+VL 89
+IS 10
+PS 1255-63
+PY 1994
+PD 1994 Oct
+AB Data from a longitudinal study carried out in Dunedin, New Zealand, were used to investigate associations between alcohol consumption at age 18 years and alcohol-related mass media communications recalled at ages 13 and 15 years. The respondents' recall of alcohol-related mass media material were categorized as: commercial alcohol advertising, alcohol moderation messages or the portrayal of alcohol in entertainment. An additional media variable was the number of hours spent watching television. Non-media variables, such as peer approval of drinking, living situation and occupation (all at age 18 years) were also included in the analyses. The period between the interviews at ages 13 and 15 years saw an increase in the broadcast of commercial alcohol advertisements on television in New Zealand and this was reflected in an increase in the proportion of the mass media material recalled which was categorized as commercial advertising. At age 15 years television advertising, mostly for beer companies, was the predominant material recalled. No relationships were found between the commercial advertising and wine and spirits consumption, among either men or women, but young women who had watched more hours of television drank more wine/spirits. Among women there were two unexpected negative relationships between recall of alcohol in the media at age 13 years and beer consumption. However, among men there was a consistent positive relationship such that those who had recalled more alcohol advertisements at age 15 years drank larger quantities of beer at age 18 years. 
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1111/j.1360-0443.1994.tb03304.x
+UT MEDLINE:7804086
+ER
+
+PT J
+AN 7942409
+TI Children and television.
+AU Leung, A K
+   Fagan, J E
+   Cho, H
+   Lim, S H
+   Robson, W M
+SO American family physician
+VL 50
+IS 5
+PS 909-12, 915-8
+PY 1994
+PD 1994 Oct
+SN 0002-838X
+JC 1272646
+SA MEDLINE
+UT MEDLINE:7942409
+ER
+
+PT J
+AN 10150454
+TI Reducing alcohol consumption among university students: recruitment and program design strategies based on Social Marketing Theory.
+AU Black, D R
+   Smith, M A
+SO Health education research
+VL 9
+IS 3
+PS 375-84
+PY 1994
+PD 1994 Sep
+AB Recruitment of program participants and development of appealing comprehensive alcohol abuse prevention programs is an exigent priority for university campuses due to the serious physical and emotional consequences related to alcohol consumption. A sample of 67 students from a large midwestern university completed a survey based on Social Marketing Theory (SMT) which was developed to improve recruitment and enhance the design of comprehensive alcohol abuse prevention programs. The results indicate that recruitment may be optimized by providing a flexible, convenient, low-cost program that encourages friends' participation, communicates alcohol-related risks and offers university credit or refund as participation incentives. The design of alcohol abuse prevention programs may be enhanced by emphasizing the positive outcomes of reducing alcohol consumption, improving the quality and quantity of alternatives to the social atmosphere connected with drinking, and soliciting respected opinion leaders (physicians and parents) to communicate alcohol reduction messages. This project is a first initiative to 'fill the gap' in the social marketing research literature by providing formative information pertinent to recruitment and design of alcohol reduction programs specifically for college students. 
+SN 0268-1153
+JC 8608459
+SA MEDLINE
+DI 10.1093/her/9.3.375
+UT MEDLINE:10150454
+ER
+
+PT J
+AN 7923324
+TI [Alcohol and drugs in Central Europe--problems and possible solutions].
+FT Alkohol a drogy ve stredni Evrope--problemy a mozna reseni.
+AU Nespor, K
+   Cs emy, L
+SO Casopis lekaru ceskych
+VL 133
+IS 16
+PS 483-6
+PY 1994
+PD 1994 Aug 22
+AB The high alcohol consumption and increasing abuse of other addictive inducing substances in Central Europe calls for broadley conceived preventive programmes and cheap and widely applicable therapeutic strategies (early treatment at the first contact level, self-help manuals, self-aid organizations). Social instability along with greater availability of alcohol and drugs create a dangerous combination. In addition to strategies of stress prevention at the societal level also strategy at the individual level is important (e.g. relaxation training, yoga, psychotherapy). It is also important to change the "image" of western society and commercial interests of those who make profits on alcohol and drugs should be under control and advertising should be greatly restricted if not prohibited. Prevention of problems caused by alcohol and drugs in particular in youths must be combined and really effective strategies should be used such as peer programmes. The authors mention also their own preventive programme FIT IN and print materials oriented specifically on certain population groups. 
+SN 0008-7335
+JC 0004743
+SA MEDLINE
+UT MEDLINE:7923324
+ER
+
+PT J
+AN 7932503
+TI Alcohol social issues worldwide--the drinks industry's involvement.
+AU Mitchell, P
+SO Journal of the Royal Society of Health
+VL 114
+IS 4
+PS 209-15
+PY 1994
+PD 1994 Aug
+SN 0264-0325
+JC 8303144
+SA MEDLINE
+DI 10.1177/146642409411400410
+UT MEDLINE:7932503
+ER
+
+PT J
+AN 8057622
+TI [Transcutaneous drainage of pancreatic pseudocysts guided by ultrasound and computed tomography].
+FT Chreskozhnoe drenirovanie psevdokist podzheludochnoi zhelezy pod kontrolem UZI i rentgenotelevideniia.
+AU Lotov, A N
+   Andrianov, V N
+   Kulezneva, Iu V
+   Kuzin, N M
+SO Khirurgiia
+IS 5
+PS 42-5
+PY 1994
+PD 1994 May
+AB The method of transcutaneous sanation of pancreatic pseudocysts under control of USE and CT has developed quite widely in the recent years and is applied in clinical practice. In the period from 1987 to May 1993 thirty-three patients underwent transcutaneous drainage (TD) of pancreatic cysts at the Burdenko Facultative Surgical Clinic, MMA; a total of 35 procedures were performed. In all cases TD was conducted under control of USE and roentgeno-television (RTV) by Seldinger's method or with various types of stylet catheters. The transperitoneal approach was preferable in cysts of the head, in cysts of the body of the gland hze transgastric approach was used under control of gastroscopy for later attempt to accomplish transcutaneous cystogastrostomy. Contrast examination of the cyst immediately after puncture revealed its connection with the pancreatic duct (PD). Fistulography was repeated every 5-7 days. In the absence of a cystopancreatic fistula the cyst was sclerosed with 96 degrees ethyl alcohol. Complications were encountered in 11% of cases and a recurrent cyst developed in one patient. The TD method under control of USE and RTV is effective in the treatment of pancreatic cysts attended by a low incidence of complications. A large size of the cyst, its infection or connection with the pancreatic duct are not contraindications for TD. 
+SN 0023-1207
+JC 0412765
+SA MEDLINE
+UT MEDLINE:8057622
+ER
+
+PT J
+AN 8025495
+TI The effects of order of questions on reported alcohol consumption.
+AU Harford, T C
+SO Addiction (Abingdon, England)
+VL 89
+IS 4
+PS 421-4
+PY 1994
+PD 1994 Apr
+AB This research note draws upon the US National Longitudinal Survey (NLS) of Labor Market Experience among youths aged 17-24 to report the effects of variation in the ordering of alcohol questions upon the prevalence of heavier drinking. A secondary analysis of the NLS indicated a substantial decrease in the prevalence of heavier drinking between 1984 and 1985 which is attributed to the order of presentation of two differently styled questions regarding heavier drinking. 
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1111/j.1360-0443.1994.tb00916.x
+UT MEDLINE:8025495
+ER
+
+PT J
+AN 20058429
+TI Health goals of U.S. Army soldiers: what they want.
+AU Jonas, W B
+SO Military medicine
+VL 159
+IS 4
+PS 318-22
+PY 1994
+PD 1994 Apr
+AB This study examined the personal health goals and needs of 1,299 soldiers during their periodic health exam at Fort Belvoir, Virginia, from January 1 to December 31, 1990. The two most important goals of this population were improving self-esteem (50%) and family relationships (43%). In contrast, smoking cessation (17%) and avoiding problems with alcohol (4.3%) were listed 14th and 19th priority, and were desired by only 56% and 61%, respectively, of those who needed help in these areas. Differences between soldiers' health goals and health needs must be considered when designing successful health-promotion programs. 
+SN 0026-4075
+JC 2984771R
+SA MEDLINE
+UT MEDLINE:20058429
+ER
+
+PT J
+AN 8188192
+TI Religious practices and alcoholism in a southern adult population.
+AU Koenig, H G
+   George, L K
+   Meador, K G
+   Blazer, D G
+   Ford, S M
+SO Hospital & community psychiatry
+VL 45
+IS 3
+PS 225-31
+PY 1994
+PD 1994 Mar
+AB OBJECTIVE: The study examined associations between religious variables and alcohol abuse and dependence among 2,969 North Carolina residents aged 18 to 97 who participated in the 1983-1984 National Institute of Mental Health Epidemiologic Catchment Area survey at its Piedmont location.; METHODS: Six-month and lifetime prevalence of alcohol disorders were compared among participants reporting varying levels of religious activity. Data were collected on frequency of Bible reading, prayer, and church attendance; time spent watching or listening to religious programming on television or radio; importance of religion; religious denomination; and identification as "born-again" Christians.; RESULTS: Recent and lifetime alcohol disorders were less common among weekly churchgoers and those who considered themselves born again. Recent, but not lifetime, alcohol disorders were also less common among respondents who frequently read the Bible or prayed privately. Alcohol disorders were more common among those who frequently watched or listened to religious television and radio. Lifetime, but not recent, alcohol disorders were more prevalent among members of Pentecostal denominations.; CONCLUSIONS: Longitudinal study is necessary to further clarify and explain these relationships between religious practices and alcohol disorders. 
+RI Koenig, Harold G/F-7379-2011
+SN 0022-1597
+JC 0040250
+SA MEDLINE
+UT MEDLINE:8188192
+ER
+
+PT J
+AN 8680157
+TI Teaching parents to look after children's teeth.
+AU Lloyd, S
+SO Professional care of mother and child
+VL 4
+IS 2
+PS 34-6
+PY 1994
+PD 1994 Mar
+AB Children's toothpastes with fluoride help to prevent decay, but parents should ask their dentist before giving fluoride supplements to children. Overdosage is harmful. Sugars eaten as part of a meal do less harm to teeth than those eaten frequently as snacks. Sugar-free infant drinks and children's confectionery are now on the market and are more "tooth friendly". Look out for the "happy tooth" symbol. Babies can be registered with NHS dentists as soon as the first teeth start to come through, and should be taken regularly to the dentist throughout childhood. Under the NHS scheme, dentists are paid a capitation fee to provide continuing preventive care and treatment for children free of charge. 
+SN 0964-4156
+JC 9301173
+SA MEDLINE
+UT MEDLINE:8680157
+ER
+
+PT J
+AN 8171348
+TI Health consequences of youth unemployment--review from a gender perspective.
+AU Hammarstrom, A
+SO Social science & medicine (1982)
+VL 38
+IS 5
+PS 699-709
+PY 1994
+PD 1994 Mar
+AB Current research is classified into different theoretical approaches, mainly economic deprivation theories, stress-related theories, gender theories and different psychological and sociological theories. The correlations between unemployment and ill-health are explained as a result of both selection and exposure. The societal consequences of youth unemployment have been studied in aggregate studies. The familial consequences is a neglected area, but there is evidence of increased illness as well as battering of wives and children. Almost all research has been focused on the individual and mainly on the psychological consequences. Consistent relationships are found between unemployment and minor psychological disorders. Few studies have included somatic health but the results indicate increased physiological illness, especially among unemployed girls. Increased health care consumption has been documented. There are evidence that unemployment is a risk indicator for both increasing alcohol consumption, particularly in young men. Unemployment is also associated with increased tobacco consumption, increased use of illicit drugs as well as deteriorated health behaviour. The mortality rate is significantly higher among unemployed young men and women, especially in suicides and accidents. Social consequences include increased risk of alienation, lack of financial resources, criminality and future exclusion from the labour market. As mediating factors social support, high employment rate, negative attitudes towards work and high possibility of control have been documented to have a protective effect on health. Research should now be directed towards more qualitative methods, based on theoretical models, in order to search for deeper mechanisms, mediating factors and explanatory theories of the unevenly distributed health in society, in which unemployment has been proved to be one important factor. 
+SN 0277-9536
+JC 8303205
+SA MEDLINE
+DI 10.1016/0277-9536(94)90460-X
+UT MEDLINE:8171348
+ER
+
+PT J
+AN 8296935
+TI Alcohol advertising and public health: an urgent call for action.
+AU Mosher, J F
+SO American journal of public health
+VL 84
+IS 2
+PS 180-1
+PY 1994
+PD 1994 Feb
+SN 0090-0036
+JC 1254074
+SA MEDLINE
+DI 10.2105/AJPH.84.2.180
+UT MEDLINE:8296935
+ER
+
+PT J
+AN 8296950
+TI Television beer advertising and drinking knowledge, beliefs, and intentions among schoolchildren.
+AU Grube, J W
+   Wallack, L
+SO American journal of public health
+VL 84
+IS 2
+PS 254-9
+PY 1994
+PD 1994 Feb
+AB OBJECTIVES: The relationships between television beer advertising and drinking knowledge, beliefs, and intentions were investigated in a survey of schoolchildren. The research was guided by a theoretical model specifying that awareness of advertising, and not mere exposure, is necessary for it to have an effect on beliefs or behaviors.; METHODS: Participants were a random sample of 468 fifth- and sixth-grade schoolchildren from a northern California community. Data were collected in the home with a combination of self-administered questionnaires and structured interviews.; RESULTS: Nonrecursive statistical modeling indicated that awareness of television beer advertising was related to more favorable beliefs about drinking, to greater knowledge of beer brands and slogans, and to increased intentions to drink as an adult. The effects of advertising awareness on knowledge, beliefs, and intentions were maintained when the reciprocal effects of beliefs, knowledge, and intentions on awareness were controlled.; CONCLUSIONS: The findings suggest that alcohol advertising may predispose young people to drinking. As a result, efforts to prevent drinking and drinking problems among young people should give attention to countering the potential effects of alcohol advertising. 
+OI Grube, Joel/0000-0003-1099-8743
+SN 0090-0036
+JC 1254074
+SA MEDLINE
+DI 10.2105/AJPH.84.2.254
+UT MEDLINE:8296950
+ER
+
+PT J
+AN 8302625
+TI Sex and drugs and rock'n'roll.
+AU Cassidy, J
+SO Nursing times
+VL 90
+IS 1
+PS 14-5
+PY 1994
+PD 1994 
+A2 The community center at the housing estate of St. Mellons in Cardiff,
+   Wales, has two projects serving youth.  A physician and nurse make up a
+   team operating family planning clinic at the youth center on Friday
+   afternoons.  Local graffiti artists have created brightly colored
+   posters to promote the drop-in center.  Teenagers come to the youth
+   center to play pool, drink coffee, and to listen to music.  In a room
+   next to this activity, the team distributes contraceptives (e.g.,
+   condoms).  They also counsel teens about sexuality, relationships,
+   self-respect, health, and disease.   They work to dispel any incorrect
+   information that they often hear.  Counseling provides the teens correct
+   information, which they can convey to their peers.  The director of
+   family planning and well-woman services for South Glamorgan finds peer
+   education to be more effective than sex education in schools.  A
+   psychiatric nurse and her community drug colleagues set up a drop-in
+   center for a needle exchange, but the team finds itself acting as a
+   drugs information service.  The advice it gives includes ho to use drugs
+   more safely, possible adverse reactions, referrals (medical,
+   detoxification, and counseling), and the nature of substances on the
+   street.  Clients trust the team so much that they share with the team
+   members when there is a bad drug on the market.  An outreach worker has
+   headed up a residential week-end with some teens to further discuss drug
+   use.  Despite their success and popularity, lack of financial or human
+   resources prevents expansion of both service.  The drug needle
+   exchange/information service tried to work out of another youth center,
+   but fear by neighbors that it would give the area a bad name hampered
+   its opening.
+SN 0954-7762
+JC 0423236
+SA MEDLINE
+UT MEDLINE:8302625
+ER
+
+PT J
+AN 8197895
+TI The effectiveness of same-sex versus opposite-sex role models in advertisements to reduce alcohol consumption in teenagers.
+AU Bochner, S
+SO Addictive behaviors
+VL 19
+IS 1
+PS 69-82
+PY 1994
+PD 1994 
+AB The differential effectiveness of same- versus opposite-sex role models in persuading teenagers to reduce alcohol consumption was investigated. Based on an actual set of commercials, four 1-min videos were constructed, in which either boys or girls discuss how alcohol adversely affects either boys or girls. These were shown to either teenage boys or girls, resulting in a 2(Sex of Source) x 2(Sex of Subjects [Ss]) factorial design. Ss rated the credibility of the source, the persuasibility of the message, said how much and how often they drank currently, and whether they intended to decrease their future alcohol consumption. Three studies were conducted, in a coeducational (N = 95), boys' (N = 98), and girls' (N = 102) school, respectively. The overall pattern in the data showed that as predicted, same-sex role models were more effective, and that moderate drinkers were more influenced than heavy drinkers; both findings having implications for teenage health education campaigns. 
+OI Bochner, Stephen/0000-0001-7205-1948
+SN 0306-4603
+JC 7603486
+SA MEDLINE
+DI 10.1016/0306-4603(94)90053-1
+UT MEDLINE:8197895
+ER
+
+PT J
+AN 12287665
+TI Country watch: South Africa.
+AU Everett, K
+   Schaay, N
+SO AIDS health promotion exchange
+IS 1
+PS 7-8
+PY 1994
+PD 1994 
+A2 Photo-comics are an ideal format for education of South African youth
+   about acquired immunodeficiency syndrome (AIDS) given their low literacy
+   rate and the widespread popularity of comic books.  An example of the
+   success of this strategy is "Roxy:  Life, Love, and Sex in the
+   Nineties," a comic produced as part of a school-based AIDS prevention
+   program run by the National AIDS Research Program.  The comic tells the
+   story of an adolescent girl who learns her friend committed suicide
+   because she was infected with the human immunodeficiency virus (HIV).
+   Roxy learns about AIDS and discusses the risk factors with her friends.
+   Focus group discussions were used to generate story ideas and pretesting
+   of the comic book took place among several student groups.  By July
+   1993, 30,000 copies of "Roxy" had been distributed to students,
+   churches, youth groups, civic associations, and organizations working
+   with street children.  In addition, the comic was reproduced in a
+   magazine, "Upbeat," that is popular among out-of-school youth.
+   Qualitative evaluation through 8 student focus groups revealed that
+   young people from various cultural backgrounds strongly identify with
+   the themes, characters, and situations depicted in "Roxy."  Of
+   particular significance were the realistic portrayals of romantic and
+   sexual relationships, relationships with parents, and dilemmas posed by
+   pressures to use drugs and alcohol.  The comic includes a sex education
+   chart with concise condom use instructions.
+SN 1013-7785
+JC 9007757
+SA MEDLINE
+UT MEDLINE:12287665
+ER
+
+PT J
+AN 8149192
+TI Prevention policies.
+AU Anderson, P
+   Lehto, G
+SO British medical bulletin
+VL 50
+IS 1
+PS 171-85
+PY 1994
+PD 1994 Jan
+AB Alcohol is a special commodity because of its dependence producing properties and the extent and severity of problems associated with its use, many of which are preventable. The elements of a comprehensive preventive policy include: controls to raise the price of alcohol; controls on the availability of alcohol, particularly minimum age limits for the purchase of alcohol and limits to the hours and days of sale of alcohol and numbers of outlets; controls on the use of alcohol, particularly restricting drinking and driving; product safety standards, particularly information on the alcohol content of beverages, controls on marketing, particularly restrictions on advertising and sponsorship and; education and information programmes, including those based at a community level to promote support for prevention policies and those based in schools and primary health care. 
+SN 0007-1420
+JC 0376542
+SA MEDLINE
+DI 10.1093/oxfordjournals.bmb.a072875
+UT MEDLINE:8149192
+ER
+
+PT J
+AN 8180919
+TI Public awareness of the risks of drinking alcohol during pregnancy: the effects of a television campaign. Child Health Committee, Manitoba Medical Association.
+AU Casiro, O G
+   Stanwick, R S
+   Pelech, A
+   Taylor, V
+SO Canadian journal of public health = Revue canadienne de sante publique
+VL 85
+IS 1
+PS 23-7
+PY 1994
+PD 1994 
+AB OBJECTIVE: To evaluate the impact of a television public awareness campaign on knowledge of the dangers of drinking alcohol during pregnancy.; DESIGN: A survey with five questions on alcohol and pregnancy and five health questions unrelated to alcohol was administered before and after the campaign.; PARTICIPANTS: Three thousand women aged 15-45 years.; INTERVENTION: A 30-second announcement with a message on alcohol and pregnancy was broadcast over ten weeks by five television stations in Manitoba.; RESULTS: More respondents after the campaign thought that alcohol consumption in pregnancy would put the baby at risk, and attributed this information to "television". There were no differences in the responses to the five health questions unrelated to alcohol.; CONCLUSIONS: An increase in awareness of the risks of drinking alcohol during pregnancy was observed after a mass media campaign. 
+SN 0008-4263
+JC 0372714
+SA MEDLINE
+UT MEDLINE:8180919
+ER
+
+PT J
+AN 7869221
+TI Network commercials promote legal drugs: outnumber anti-drug PSA's 45-to-1.
+AU Fedler, F
+   Phillips, M
+   Raker, P
+   Schefsky, D
+   Soluri, J
+SO Journal of drug education
+VL 24
+IS 4
+PS 291-302
+PY 1994
+PD 1994 
+AB During the week of September 16 to 22, 1990, commercials promoting drugs and alcohol outnumbered the networks' news stories, documentaries, and PSA's about illegal drugs by a ratio of almost 39-to-1. If you consider the PSA's alone, the commercials promoting drugs and alcohol outnumbered them by a ratio of almost 45-to-1. 
+SN 0047-2379
+JC 1300031
+SA MEDLINE
+DI 10.2190/TWWQ-JT4D-VX8P-H33E
+UT MEDLINE:7869221
+ER
+
+PT J
+AN 7869226
+TI The D'Youville College Campus School: alcohol collaboration or how to provide alcohol awareness at the elementary school level.
+AU Gamble, R J
+   Burgess, S
+SO Journal of drug education
+VL 24
+IS 4
+PS 363-8
+PY 1994
+PD 1994 
+SN 0047-2379
+JC 1300031
+SA MEDLINE
+DI 10.2190/934C-81TC-HJ41-TYUQ
+UT MEDLINE:7869226
+ER
+
+PT J
+AN 7716410
+TI [Health behavior of schoolchildren in a metropolitan area of Madrid].
+FT Habitos de salud de los escolares de una zona periurbana de Madrid.
+AU Andradas Aragones, V
+   Fernandez San Martin, I M
+SO Revista de sanidad e higiene publica
+VL 68
+IS 1
+PS 203-12
+PY 1994
+PD 1994 
+AB BACKGROUND: To describe health behavior of students about diet, alcohol and tobacco, dental-oral hygiene, leisure time activities and interpersonal relations.; METHODS: 942 Students have been carried out. Children come from six schools of the town of Parla (in the south of Madrid). They are from 9 to 14 years old. The instruments have been made for this study, helping by teachers of EGB.; RESULTS: 50% of the students doesn't eat any food at 12 o'clock, after drinking a glass of milk only at breakfast (8 o'clock). 10% never eats greens. 37% of the children in the upper level drinks alcohol sometimes and, in the same level, 12% smokes sometimes. Around 25% of children brush their teeth three times in the day. The students watch television three hours and half, means, in the day. The communication with the teacher is evaluated from "not too bad" to "bad" by 70% of the students of upper level. 42% and 39.4% of the children talks about abortion and contraceptives, respectively, with nobody.; CONCLUSIONS: In general, girls have better habits than boys. Only exercise is more prevalent in the boys than in the girls. 
+SN 0034-8899
+JC 0404276
+SA MEDLINE
+UT MEDLINE:7716410
+ER
+
+PT J
+AN 8091172
+TI Clinical caries studies with polyalcohols. A literature review.
+AU Imfeld, T N
+SO Schweizer Monatsschrift fur Zahnmedizin = Revue mensuelle suisse d'odonto-stomatologie = Rivista mensile svizzera di odontologia e stomatologia
+VL 104
+IS 8
+PS 941-5
+PY 1994
+PD 1994 
+AB Polyalcohols represent the most important group of sugar substitutes. Those most widely used in products advertising dental benefits compared to their sucrose containing homologues are sorbitol, mannitol (hexitols), xylitol (pentitol), maltitol, lactitol (12-carbon polyols), Lycasin (hydrogenated starch hydrolysate) and Palatinit (mixture of two 12-carbon polyols). All these polyalcohols have been proven to be non-cariogenic or extremely low cariogenic in rat caries experimentation, and some of them also in human clinical caries studies. They have also been shown to be non-acidogenic or hypoacidogenic in plaque pH telemetry. The low or non-cariogenicity of the above polyols can be termed a "passive" feature, because it is based on the fact that they are not, or only poorly and very slowly, fermented by the oral flora. More recent research, however, has also propagated "active", i.e. bacteriostatic and/or cariostatic properties of xylitol or mixtures of xylitol with other sugar substitutes. Such claims have not yet been substantiated in human caries trials. 
+SN 0256-2855
+JC 8709597
+SA MEDLINE
+UT MEDLINE:8091172
+ER
+
+PT J
+AN 10130846
+TI Policy elements as predictors of smoking and drinking behaviour: the Dutch Cohort Study of secondary schoolchildren.
+AU van Reek, J
+   Knibbe, R
+   van Iwaarden, T
+SO Health policy (Amsterdam, Netherlands)
+VL 26
+IS 1
+PS 5-18
+PY 1993
+PD 1993 Nov
+AB Changes in smoking and drinking behaviour in relation to policy and economic variables were investigated among Dutch secondary schoolchildren in two measurements. The response rate was 82% during the second measurement. In bivariate analyses the policy variables 'pressure by tobacco advertising' and 'incorrect knowledge about dangers of tobacco consumption' and the economic variables 'money' and 'free availability from parents' predicted weekly smoking (among all respondents), and 'the experienced anti-smoking campaigns' predicted weekly smoking (among non-smokers during the first measurement). Only the economic variables predicted weekly drinking. A general and a specific theory of different mechanisms were designed to investigate whether these predictors are independent of other influences. We assumed that changes in smoking and drinking behaviour are predicted at three levels: (a) previous behaviour, (b) socio-demographic variables and (c) possible causes and intermediary factors. In multivariate analyses, only the prediction of weekly smoking by 'experienced anti-smoking campaigns' and weekly drinking by economic variables remained significant. The findings are relevant when policy priorities are developed. 
+SN 0168-8510
+JC 8409431
+SA MEDLINE
+DI 10.1016/0168-8510(93)90074-Y
+UT MEDLINE:10130846
+ER
+
+PT J
+AN 8256646
+TI Mental illness and social integration among suicide attempters in Copenhagen. Comparison with the general population and a four-year follow-up study of 100 patients.
+AU Nordentoft, M
+   Rubin, P
+SO Acta psychiatrica Scandinavica
+VL 88
+IS 4
+PS 278-85
+PY 1993
+PD 1993 Oct
+AB In order to describe a population of suicide attempters in an affluent suburb of Copenhagen, 100 patients were interviewed, randomly chosen from a group of 246 patients referred to psychiatric consultation after a suicide attempt. The group consisted of 71 women and 29 men. Single status, abuse, and previous suicide attempts occurred frequently as did suicide among first-degree relatives. The most frequent reason for a suicide attempt was conflict with partners. In comparison with the normal population in the same catchment area, the patients were alone and felt lonely, but no difference was found in the group's relation to the labor market. After a four-year follow-up period, 9 persons had died by suicide. Borderline personality disorder and affective psychosis, no employment, 2 or more previous attempts, violent method and potential lethal attempt proved to be predictors of suicide later on. Alcohol and drug abuse, lack of social support and loneliness did not influence the risk. 
+RI Nordentoft, Merete/AAH-3253-2019
+OI Nordentoft, Merete/0000-0003-4895-7023
+SN 0001-690X
+JC 0370364
+SA MEDLINE
+DI 10.1111/j.1600-0447.1993.tb03457.x
+UT MEDLINE:8256646
+ER
+
+PT J
+AN 8272655
+TI A clinical follow up of unemployed. I: Lifestyle, diagnoses, treatment and re-employment.
+AU Claussen, B
+SO Scandinavian journal of primary health care
+VL 11
+IS 3
+PS 211-8
+PY 1993
+PD 1993 Sep
+AB OBJECTIVE: To describe morbidity, lifestyle and re-employment in a representative sample of unemployed people.; DESIGN: A two-year follow up of a routine health examination consisting of a structured interview, a clinical examination and the doctor's conclusions and advice.; SETTING: Four municipalities in Greenland, southern Norway.; PARTICIPANTS: A representative sample aged 16 to 63 who had been registered with the labour market authorities for more than 12 weeks.; RESULTS: Self-reported diseases were more common in the study group than were found in employed people, especially musculoskeletal and mental disorders. The prevalence of medical diagnoses was high. Smoking was reported by nearly twice as many unemployed as the reference population. Heavy alcohol consumption was more prevalent in the unemployed men. Blood pressure was lower than in the reference population. Cholesterol was higher in the unemployed women. Many needed counselling or referrals. Having a medical diagnosis reduced the chances of re-employment two years later. Thus, health-related selection for re-employment seems to explain some of the excess morbidity among unemployed people.; CONCLUSION: The long-term unemployed is a group with high morbidity and unhealthy lifestyle. General practitioners should be aware of this pattern in clinical and preventive work. 
+SN 0281-3432
+JC 8510679
+SA MEDLINE
+DI 10.3109/02813439308994833
+UT MEDLINE:8272655
+ER
+
+PT J
+AN 8373562
+TI ["Alco Screen"--a reliable method for determining blood alcohol concentration by saliva alcohol concentration?].
+FT "Alco Screen"--eine brauchbare Methode, uber die Speichelalkoholkonzentration (SAK) die Blutalkoholkonzentration zu ermitteln?
+AU Lutz, F U
+   Frohlich, S
+   Reuhl, J
+SO Blutalkohol
+VL 30
+IS 4
+PS 240-3
+PY 1993
+PD 1993 Jul
+AB About two years ago pharmacies in the Federal Republic of Germany began to offer motorists test sticks named "Alco Screen" in order to evaluate the concentration of alcohol in the saliva. According to the producers it should be a quick and simple method giving a high correlation between the alcohol level both in blood and saliva. As advertised, a drunken driver could estimate his own extend of alcohol impairment by himself. We checked the reliability of this method by comparing the alcohol level in the blood with the extend of colour change of the sticks in 20 adult volunteers engaged in drinking tests. 85% of them demonstrated distinct discrepancies. In most cases the saliva concentration estimated was too low. Those, depending on the result of this test kit, take a high risk of being misled and can probably assume sobriety in contrast to their actual state. A warning concerning this test is necessary. 
+SN 0006-5250
+JC 0372531
+SA MEDLINE
+UT MEDLINE:8373562
+ER
+
+PT J
+AN 8258760
+TI Sociodemographic and attitudinal correlates of alcohol and other drug use among children and adolescents: analysis of a large-scale attitude tracking study.
+AU Zastowny, T R
+   Adams, E H
+   Black, G S
+   Lawton, K B
+   Wilder, A L
+SO Journal of psychoactive drugs
+VL 25
+IS 3
+PS 223-37
+PY 1993
+PD 1993 
+AB Data from the Partnership Attitude Tracking Study are analyzed to provide a greater understanding of the contributing factors to alcohol and other drug use among children and adolescents. The data were collected from children (ages 9 to 12) and teenagers (ages 13 to 17) in central locations (usually shopping malls) located in 100 primary sampling units across the United States. The analysis, which primarily employed stepwise multiple regression for model estimation, reinforced the importance of friends use, perceived risk, and tobacco and alcohol use in predicting marijuana use. An exposure model, which included antidrug advertisements, was a particularly powerful model. Implications of the findings are discussed. 
+SN 0279-1072
+JC 8113536
+SA MEDLINE
+DI 10.1080/02791072.1993.10472273
+UT MEDLINE:8258760
+ER
+
+PT J
+AN 8516081
+TI Adolescents' risky behavior and mass media use.
+AU Klein, J D
+   Brown, J D
+   Childers, K W
+   Oliveri, J
+   Porter, C
+   Dykers, C
+SO Pediatrics
+VL 92
+IS 1
+PS 24-31
+PY 1993
+PD 1993 Jul
+AB OBJECTIVE: To understand better the relationship between adolescents' use of the mass media (including television, radio, and magazines) and their risky or unhealthy behaviors.; DESIGN: Secondary data analysis of a 1987 in-home survey of 2760 randomly selected 14- to 16-year-old adolescents in 10 urban areas in the southeastern United States.; MEASUREMENT: The extent of participation in eight potentially risky behaviors (sexual intercourse, drinking, smoking cigarettes, smoking marijuana, cheating, stealing, cutting class, and driving a car without permission) and the use of a variety of mass media.; RESULTS: Adolescents who had engaged in more risky behaviors listened to radio and watched music videos and movies on television more frequently than those who had engaged in fewer risky behaviors, regardless of race, gender, or parents' education. White male adolescents who reported engaging in five or more risky behaviors were most likely to name a heavy metal music group as their favorite. Adolescents reported reading a wide diversity of magazines, and most reported reading at least one of a few selected magazines. Sports and music magazines were most likely to be read by adolescents who had engaged in many risky behaviors.; CONCLUSIONS: Mass media health promotion efforts could more specifically target adolescents who are engaging in multiple risky behaviors. 
+SN 0031-4005
+JC 0376422
+SA MEDLINE
+UT MEDLINE:8516081
+ER
+
+PT J
+AN 8415503
+TI Improving the health of U.S. children: the need for early interventions in tobacco use.
+AU Glynn, T J
+SO Preventive medicine
+VL 22
+IS 4
+PS 513-9
+PY 1993
+PD 1993 Jul
+AB Despite considerable progress, tobacco use continues to be a major public health problem in the United States, killing more U.S. citizens each year than alcohol, cocaine, crack, heroin, homicide, suicide, car accidents, fires, and AIDS combined. There is cause for particular concern about smoking and other tobacco use by children. Although adolescent smoking declined in the late 1970s and early 1980s, the combination of a now-flat daily smoking prevalence rate among high school seniors, high smoking rates among high school dropouts, and increased use of smokeless tobacco argues for renewed efforts in tobacco use prevention. The greater risk associated with tobacco use at early ages suggests the need for comprehensive interventions (i.e., involving policy change, advertising restrictions, health professionals, and comprehensive school health education) before the prime age for tobacco use initiation (i.e., 12 to 14 years old), for repeated reinforcement of these interventions through adolescence, for innovative ways of reaching underserved--particularly high-risk and minority--youth with effective tobacco use prevention efforts, and for research to determine both the short-term and the long-term effectiveness of these approaches. 
+SN 0091-7435
+JC 0322116
+SA MEDLINE
+DI 10.1006/pmed.1993.1044
+UT MEDLINE:8415503
+ER
+
+PT J
+AN 8333674
+TI Oral blast injury caused by an accident.
+AU Efrati, Y
+   Sarfaty, S
+   Klin, B
+   Eshel, G
+   Segal, S
+   Vinograd, I
+SO The Annals of otology, rhinology, and laryngology
+VL 102
+IS 7
+PS 528-30
+PY 1993
+PD 1993 Jul
+AB Blast trauma within the oropharyngeal cavity may be associated with superficial or deep injuries. Superficial injury generally needs only observation; deeper injury that violates the retropharyngeal space may produce dissecting emphysema into the neck and mediastinum followed by prevertebral soft tissue infections and mediastinitis. Injury involving the parapharyngeal space might damage vital cervical vessels. Life-threatening complications may result unless treatment is adequate. Three children who sustained oropharyngeal blast injury are presented. The direct cause was the blast effect of a new, spoiled, orange-flavor beverage just released on the market. The bottle cap of the soft drink and its effervescent liquid "exploded" into their mouths while they were trying to open the bottle with their teeth. Obviously, the failure to observe due precautions, as frequently happens among children, contributed to the occurrence of the accidents. This paper describes the diagnosis, management, and relevant educational and preventive measures of the problem. 
+SN 0003-4894
+JC 0407300
+SA MEDLINE
+DI 10.1177/000348949310200707
+UT MEDLINE:8333674
+ER
+
+PT J
+AN 8490546
+TI Public information: a major tool in cancer prevention.
+AU Ziant, G
+SO European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP)
+VL 2
+IS 3
+PS 255-60
+PY 1993
+PD 1993 May
+AB The methodology for an information campaign is discussed, detailing follow up in five stages: (1) assessment of needs: a good knowledge of behaviour patterns and the kind of information needed is the basic element to create the concept of a campaign. A pre-survey is an indispensable tool to secure this information; (2) basic scientific information: communication to the public has to be based on precise and recent scientific data; (3) comprehension of the information: communicating with the general public should be through texts that are clear and accessible to the greater part of the population; (4) production of supporting documents: each element of the campaign has to produce an impact on the person receiving the message; and (5) evaluating the impact of an information campaign. An evaluation can check whether objectives have been reached, and also correct errors and help prepare the next campaign even more professionally. These five stages are essential to set up a successful information campaign. We also give examples from our magazines Cancer-info and Smoke Buster-info. Through information public opinion can be mobilized to influence political decisions in the public health sector. One evidence for the importance of collective influence on political decision makers is our campaign to promote the total ban on tobacco advertising. As large-scale information campaigns need important financial resources it is essential to balance the cost to generate sufficient funds to finance further projects in the health sector; we discuss this matter as well as the impact on the image of the association.(ABSTRACT TRUNCATED AT 250 WORDS) 
+SN 0959-8278
+JC 9300837
+SA MEDLINE
+DI 10.1097/00008469-199305000-00011
+UT MEDLINE:8490546
+ER
+
+PT J
+AN 8438993
+TI Advertising and promotion of alcohol and tobacco products to youth.
+AU [Anonymous]
+SO American journal of public health
+VL 83
+IS 3
+PS 468-72
+PY 1993
+PD 1993 Mar
+SN 0090-0036
+JC 1254074
+SA MEDLINE
+UT MEDLINE:8438993
+ER
+
+PT J
+AN 11067187
+TI How young Europeans sleep.
+AU Tynjala, J
+   Kannas, L
+   Valimaa, R
+SO Health education research
+VL 8
+IS 1
+PS 69-80
+PY 1993
+PD 1993 Mar
+AB This study investigated sleeping habits, difficulties in being able to fall asleep and their connections to self-reported health conditions, as well as other selected health behaviours and use of leisure time, among 11-16 year old Europeans from 11 countries. The study was part of a larger, comparative, WHO coordinated project on the health and life-style of school children (Health Behaviour of School Age Children--A WHO Cross-National Survey, The HBSC Study). In most of the countries, research data were collected from samples representative of the whole country. Using a standardized survey questionnaire, the data were collected anonymously in schools. Altogether 40,202 students responded to the survey. Sleeping habits and an inability to fall asleep varied significantly between countries as well as between age groups but only slightly between the sexes. Finnish school children experienced the most difficulty in being able to fall asleep. After the Israeli youth, the Finnish school children had the shortest night's sleep. At least a fifth of Finnish and Norwegian school children also reported that they felt tired almost every morning, the corresponding figure being smaller in other countries. A frequent use of psychoactive substances (alcohol and tobacco), lack of physical activity, excessive watching of TV/videos together with numerous evenings spent outside the home were all connected with going to bed late as well as with frequent difficulty in not being able to fall asleep. The results of the study offer an important challenge to health promotion and health education. Much more attention must be paid to this essential and exciting health habit! 
+OI Valimaa, Raili/0000-0002-7487-5809
+SN 0268-1153
+JC 8608459
+SA MEDLINE
+DI 10.1093/her/8.1.69
+UT MEDLINE:11067187
+ER
+
+PT J
+AN 12286365
+TI Moral recovery. Couples should be more responsible in bringing up the number of children that they can support and educate.
+AU Hata, K
+SO Integration (Tokyo, Japan)
+IS 35
+PS 11-3
+PY 1993
+PD 1993 Mar
+A2 The remarks of Filipino Senator Leticia Ramos Shahani are summarized
+   from her speech delivered in the Philippine Senate chambers on August
+   19, 1992.  She also responds to 17 questions on family planning issues.
+   In addition to her high-level international background with the UN, she
+   also was Deputy Minister for Foreign Affairs in 1986 and has been an
+   active proponent of family planning.  A number of bills have been
+   introduced by her for an AIDS center, protecting spouses from sexually
+   transmitted diseases, provision of benefits for single parents and their
+   children, prohibiting teenagers from appearing in advertisements for
+   liquor and cigarettes, and other bills which enhance women's status.
+   Over the next 6 years, she plans to continue to go to selected provinces
+   to ensure the cooperation and commitment of local executives to family
+   planning (FP).  The country will be helped because there is a President
+   and a Health Secretary who are strong supporters of FP.  Although her
+   background is in policy making, she was aware that deficiencies exist in
+   training FP workers, assuring adequate supplies of contraceptives, and
+   providing sufficient information and education.  FP should be directed
+   to spacing and limiting births and helping with infertility in a
+   friendly atmosphere.  Postponing marriage to an older age should be
+   encouraged.  Working before having children, to ensure economic support,
+   needs to be encouraged.  FP must be voluntary and without coercion.
+   People have a basic right to information on FP and human sexuality.
+   Support for FP does not mean support for abortion, which is illegal and
+   prohibited by the Catholic Church.  Hopefully, knowledge about FP method
+   will prevent the high number of illegal abortions.  There is more
+   support now in the legislature for FP.  The Senator continues to promote
+   her "moral recovery program."  The program emphasizes that people must
+   have the right values concerning discipline, hard work, love of country,
+   and sense of common good.  FP is a moral decision of couples to limit
+   the number of children, which affects the destiny of the nation.
+SN 0916-0582
+JC 9001944
+SA MEDLINE
+UT MEDLINE:12286365
+ER
+
+PT J
+AN 8220065
+TI Stability and prevalence of drinking among young adults.
+AU Harford, T C
+SO Addiction (Abingdon, England)
+VL 88
+IS 2
+PS 273-7
+PY 1993
+PD 1993 Feb
+AB This data note draws upon the National Longitudinal Survey (NLS) of Labor Market Experience in Youth beginning at ages 17-24 to describe the stability and prevalence of alcohol use over a 6-year period up to ages 23-30. Approximately 70% of men and 58% of women maintained their drinking status throughout the study. The onset of current and heavier drinking decreased with increasing age while the offset of current and heavier drinking increased with increasing age. The absence of current drinking was unrelated to age for both men and women as was the presence of heavier drinking among men. 
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1111/j.1360-0443.1993.tb00811.x
+UT MEDLINE:8220065
+ER
+
+PT J
+AN 8435611
+TI Health of nations: lessons from Victoria, Australia.
+AU Powles, J W
+   Gifford, S
+SO BMJ (Clinical research ed.)
+VL 306
+IS 6870
+PS 125-7
+PY 1993
+PD 1993 Jan 09
+AB In its white paper The Health of the Nation the government has announced its intention to give more priority to preventive health care. Two examples from Victoria, Australia, show how coordinated legislative and voluntary sector action can have a substantial impact on public behaviour. The introduction and enforcement of strict drink-driving laws and speed limits backed up by forceful television advertisements produced a large reduction in deaths from road traffic accidents, the death rate in relation to the number of vehicles in 1991 being among the lowest in the world. Smoking has also declined in parallel with a phased ban on advertising and use of taxes from tobacco sales to replace tobacco sponsorship of sports and arts and fund health promotion. 
+OI Powles, John/0000-0002-0766-7989
+SN 0959-8138
+JC 8900488
+SA MEDLINE
+DI 10.1136/bmj.306.6870.125
+UT MEDLINE:8435611
+ER
+
+PT J
+AN 8453343
+TI Guarding the guardians: influencing the regulation of alcohol promotions in Australia.
+AU Saunders, B
+SO Addiction (Abingdon, England)
+VL 88 Suppl
+PS 43S-51S
+PY 1993
+PD 1993 Jan
+AB Alcoholic beverage advertising in Australia is allowed provided it conforms with a Code of Conduct approved by the Media Council of Australia (a collective of media proprietors). This system, known as self-regulation, has come under increasing critical scrutiny. It is argued from a systemic perspective that research has been one factor that has led to this increased scrutiny of alcoholic beverage advertising. Important other factors include the advent of the Australian National Campaign against Drug Abuse (which crucially included alcohol on its agenda), some erosion of the alcoholic beverage producers political status, declining per capita consumption, and an increase in media reporting on alcohol and drug issues. By examination of five research reports recently released on alcohol advertising it is argued that, in order to influence policy makers in an area where there is substantial opposition to change, research must be deftly marketed, contain information of political relevance, such as opinion poll material, and be used as a lobbying tool. The role of researchers in this process is considered. 
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1111/j.1360-0443.1993.tb02161.x
+UT MEDLINE:8453343
+ER
+
+PT J
+AN 8456602
+TI Under pressure program: using live theatre to investigate adolescents' attitudes and behavior related to drug and alcohol abuse education and prevention.
+AU Safer, L A
+   Harding, C G
+SO Adolescence
+VL 28
+IS 109
+PS 135-48
+PY 1993
+PD 1993 
+AB This paper describes the Under Pressure Program, an innovative communication-centered approach designed to involve Chicago public junior and senior high school students in considering the problems and prevention of adolescent substance abuse. The centerpiece of the program is a 30-minute live musical play, Captain Clean, which incorporates extensive postperformance dialogue and role play to explore the pressures and feelings of adolescents regarding substance abuse. This unique blend of live entertainment and applied learning techniques enables adolescents to understand the pressures they face and teaches them to make responsible choices, in addition to serving as a vehicle for effective school and community substance abuse intervention. By going beyond the 60-second "just say no" television and radio campaigns, the Under Pressure Program addresses the underlying causes of adolescent substance abuse. Students are engaged in active participation rather than the traditional "teach and preach." The goals of the program are (1) to evaluate the effectiveness of live theatre in preventing and intervening in adolescent substance abuse, and (2) to examine the effectiveness of live theatre, via postperformance dialogue and role playing, in soliciting feedback from adolescents as to their own feelings about substance abuse and using school counselors and other available resources, and to build upon their recommendations for improving substance abuse prevention and intervention programs. The program is targeted at predominantly minority, low-income students who have been identified as "high risk." The Under Pressure format consists of four integral parts: faculty/staff community in-service: theatrical performance (Captain Clean); postperformance dialogue and role play; and student, faculty, counselor, and community follow-up. 
+SN 0001-8449
+JC 0123667
+SA MEDLINE
+UT MEDLINE:8456602
+ER
+
+PT J
+AN 8312960
+TI The Dominican Republic and the Marlboro brand: a cigarette smoking survey and status report.
+AU Vincent, A L
+   Bradham, D D
+   Urena Rojas, C A
+   Fisher, S K
+SO Bulletin of the Pan American Health Organization
+VL 27
+IS 4
+PS 370-81
+PY 1993
+PD 1993 
+AB A survey of cigarette smoking in Santo Domingo was conducted among residents of 499 households in two neighborhoods. Residents over 14 years old were classified as current smokers (34.6%), former smokers (11.3%), and never smokers (54.1%). Most of the 200 current smokers interviewed (83%) had started smoking by age 20, but over half (59%) were relatively light smokers, consuming < or = 10 cigarettes per day. Remarkably for Latin America, smoking was nearly as common among women (32.9%) as among men (36.3%). Over 90% of the interview subjects disapproved of smoking by adults, the practice being considered undesirable by most because of its effects on health. Most of the adolescents interviewed viewed smoking as a mark of maturity (82.3%) and as "in" among their friends (53.7%). Even though few respondents understood the specific nature of health threats posed by smoking, health was the single most important factor motivating cessation. Most of the current smokers (87.0%) wanted to quit, and over two-thirds (67.5%) reported making at least one serious attempt to do so. Tobacco industry figures show that between 1962 and 1988 the total apparent cigarette consumption of the Dominican Republic rose 3.7-fold. Most of that increase was the result of promotion by Philip Morris, which now dominates the Dominican market. At present cigarettes are heavily advertised without health warnings and are sold to minors without significant restrictions. Such activities should be of particular concern in this and other developing countries with high fertility rates and young populations. 
+SN 0085-4638
+JC 7505403
+SA MEDLINE
+UT MEDLINE:8312960
+ER
+
+PT J
+AN 8375806
+TI Social marketing for public health.
+AU Walsh, D C
+   Rudd, R E
+   Moeykens, B A
+   Moloney, T W
+SO Health affairs (Project Hope)
+VL 12
+IS 2
+PS 104-19
+PY 1993
+PD 1993 
+AB Marketing techniques and tools, imported from the private sector, are increasingly being advocated for their potential value in crafting and disseminating effective social change strategies. This paper describes the field of social marketing as it is used to improve the health of the public. A disciplined process of strategic planning can yield promising new insights into consumer behavior and product design. But the "technology" cannot simply be transferred without some translation to reconcile differences between commercial marketing and public health. 
+A2 While the administration of US President Bill Clinton is trying to
+   reform the US health care system, less attention is being given to
+   changing behavior.  The problems caused by excessive alcohol drinking,
+   poor diets, and the use of tobacco products and other harmful substances
+   often tend to be more related to a country's health status than are
+   acute, short-lived illnesses.  Private sector-derived marketing
+   techniques and tools are increasingly being used to create and
+   disseminate effective social change strategies.  The authors describe
+   how social marketing can be used to improve public health.  They draw
+   from information obtained from major textbooks, conference proceedings,
+   telephone interviews with more than 30 practitioners and scholars in the
+   field, and data on the application of social marketing in maternal and
+   child health and nutrition in developing countries, family planning in
+   developing countries, the anti-smoking campaign in the US,
+   cardiovascular disease risk reduction, and substance abuse prevention
+   among adolescents.  Sections consider the historical convergence of
+   marketing and health promotion; the essential elements of a social
+   marketing approach to health; lessons learned from applications of
+   social marketing to health; and limitations, caveats, and issues for the
+   future.
+SN 0278-2715
+JC 8303128
+SA MEDLINE
+DI 10.1377/hlthaff.12.2.104
+UT MEDLINE:8375806
+ER
+
+PT J
+AN 8210277
+TI Stereotype or reality: another look at alcohol and drug use among African American children.
+AU Bass, L E
+   Kane-Williams, E
+SO Public health reports (Washington, D.C. : 1974)
+VL 108 Suppl 1
+PS 78-84
+PY 1993
+PD 1993 
+AB The Center for Substance Abuse Prevention's Division of Communications Programs launched its Urban Youth Public Education Campaign in late 1990 to target African American youth in 14 cities with prevention messages about alcohol and other drugs. During the market research phase of the campaign, the Center sought to determine the extent inner city African American children are impacted by alcohol and other drugs and how widespread the use of these substances is among younger children. Is it rampant and universal, as some press accounts have it, or are the images portrayed by the news media, by popular movies, and by other communication outlets fueling harmful stereotypes? The campaign's market research consisted of in-depth reviews of the literature, of personal communications, conference proceedings, grant and contract reports, monographs, newspaper and magazine articles, and of national survey results, and the analysis of findings from focus groups conducted with 143 African American children living in several urban environments. Although information and conclusions gleaned from the market research revealed a longstanding trend of comparatively lower rates of alcohol and drug use by African American youth, also disclosed was a need for an expanded framework to address the problems of substance abuse within the African American community. An expanded framework acknowledges the dimension of substance use and abuse but also addresses three other dimensions--involvement, exposure, and victimization--that unfold as having major significance for this population of youth who live in urban, high-risk environments. 
+SN 0033-3549
+JC 9716844
+SA MEDLINE
+UT MEDLINE:8210277
+ER
+
+PT J
+AN 8374317
+TI Legislation to further women's health research.
+AU Schroeder, P
+SO Women's health issues : official publication of the Jacobs Institute of Women's Health
+VL 3
+IS 2
+PS 93-4
+PY 1993
+PD 1993 
+A2 In late 1988, a congressional committee chaired by the author (Democrat,
+   Colorado) asked the General Accounting Office (GAO) to probe the
+   male-oriented research bend of the National Institutes of Health (NIH). 
+   NIH acknowledged the fact that most of its research focused on men, and
+   promised that it would correct the problem.  However, two years later
+   nothing had happened, which triggered a legislative initiative mandating
+   the inclusion of women into federally funded research.  Another GAO
+   analysis ascertained that the Food and Drug Administration (FDA) was not
+   asking gender-specific questions of drug companies prior to their
+   marketing drugs.  For example, FDA would never ask about the interaction
+   of oral contraceptives or estrogen with any new drugs.  Adolescents have
+   also been neglected, but the committee collected information from
+   government studies on adolescents and AIDS.  The Family Planning Act
+   proposes that a pregnant adolescent does not need parental permission
+   for prenatal care.  The Rocky Mountain Planned Parenthood teen clinic
+   had been on the verge of being closed down by state legislators, before
+   they visited it and recognized the valuable service it was doing.  A
+   study about adolescents concluded that they had dropped out of the
+   health care system irrespective of socioeconomic status.  At a critical
+   time when eating habits, drinking, drugs, exercise habits, and sexual
+   matters became issues to be confronted.  Teenagers could not turn to
+   anyone.  The appointment of Donna Shalala to be Secretary of Health and
+   Human Services was a promising step in the direction of advocating
+   women's health needs and family planning.
+SN 1049-3867
+JC 9101000
+SA MEDLINE
+DI 10.1016/S1049-3867(05)80192-6
+UT MEDLINE:8374317
+ER
+
+PT J
+AN 1512898
+TI From the Surgeon General, US Public Health Service.
+AU Novello, A C
+   Shosky, J
+SO JAMA
+VL 268
+IS 11
+PS 1391
+PY 1992
+PD 1992 Sep 16
+SN 0098-7484
+JC 7501160
+SA MEDLINE
+DI 10.1001/jama.268.11.1391
+UT MEDLINE:1512898
+ER
+
+PT J
+AN 1485152
+TI An update on knowledge and sexual behaviour among students in Greenland. Monitoring of the stop-AIDS campaign.
+AU Werdelin, L
+   Misfeldt, J
+   Melbye, M
+   Olsen, J
+SO Scandinavian journal of social medicine
+VL 20
+IS 3
+PS 158-64
+PY 1992
+PD 1992 Sep
+AB Greenland is a considered high risk area for a self-sustained heterosexual HIV-epidemic due to rather relaxed sexual norms in larger segments of the population and a high incidence of sexual transmitted diseases. However, the prevalence of HIV-positives is still low. As part of a monitoring programme longitudinal studies of young peoples' knowledge and sexual behaviour has been established. This paper presents results from the second survey among all students in vocational training and all 10th grade students in the public schools. Previous studies were performed in 1988 and 1989. The present study which took place in April 1991 involved a total of 1201 students, or about 85% of all students in the target groups (95% among students present on the day of surveying). Data collection was based upon standardized self-administered questionnaires. The study showed better knowledge than previously but no marked change in sexual habits. The age of sexual debut even appeared to be decreasing. More than half reported a sexual debut before the age of 15. More than 20% reported 10 sexual partners or more within the last year. HIV has still not reached the young population in Greenland but when it happens the present sexual behaviour carries a high risk of a self-sustained epidemic. 
+A2 Alarming proportions of teenagers in Greenland start to have sex early
+   in life, sleep with multiple partners, and do not use condoms regularly.
+   There is a rather relaxed attitude toward casual sex among the general
+   population in Greenland.  There exists a commensurately high incidence
+   of gonorrhea, syphilis, cervical cancer, and other sexually transmitted
+   diseases.  8000 new cases of gonorrhea were diagnosed in 1987, but only
+   2000 new cases have been diagnosed annually since 1990.  This latter
+   incidence is still high for the total population of 55,000 which resides
+   in scattered settlements along the west coast of the protectorate.
+   Greenland is at high risk for a heterosexual HIV epidemic.  Thus far,
+   Greenland has benefited by a late introduction of HIV to the society,
+   lack of drug abuse, few opportunities for homosexual contacts, good
+   communication and information systems, good schools, and good health
+   care.  As of September 1991, 32 HIV-seropositives had been identified
+   from a serosampled population of 18,000; 11 of the positives were
+   female.  Studies of youth's knowledge and sexual behavior were conducted
+   in 1988 and 1989.  This repeat study surveyed all students in vocational
+   training and all 10th graders in public schools in April 1991 through
+   self-administered questionnaires.  The group of 1201 student respondents
+   represents 85% of all individuals in the target groups.  It should be
+   pointed out that 10th grade is the last mandatory year of the elementary
+   school system in Greenland and that 461 respondents were under age 18
+   and 740 were 18 years or older.  83% had had their sexual debut.  Among
+   the sexually experienced, 54% reported first having sex before the age
+   of 15 years.  17% of males and 11% of females reported having more than
+   10 sex partners in the previous year.  26% of males and 42% of females
+   reported more than 15 intercourses per month.  Consistent or most of the
+   time use of condoms was, however, reported by only 29% of males and 24%
+   of females.  Compared to earlier surveys, the age of sexual initiation
+   declined and respondents reported both a greater number of sex partners
+   and a higher frequency of sexual intercourse.  Denmark, yet residing in
+   Greenland.  These findings indicate that while 5 years of intensive
+   education and prevention campaigns have succeeded in improving health
+   personnel, teacher, and student knowledge about AIDS, no marked change
+   has taken place in the sexual habits of the young.  It is, therefore,
+   concluded that an AIDS prevention campaign must not be based exclusively
+   upon the promotion of condom use, but should aim to stop the decline in
+   age of sexual debut, reduce the degree of excessive sexual promiscuity,
+   and address alcohol abuse.  These steps must be taken now to had off a
+   self-sustained HIV epidemic as the prevalence of HIV grows in this
+   population.
+OI melbye, mads/0000-0001-8264-6785
+SN 0300-8037
+JC 0365610
+SA MEDLINE
+DI 10.1177/140349489202000305
+UT MEDLINE:1485152
+ER
+
+PT J
+AN 1390786
+TI Models for effective prevention.
+AU Perry, C L
+   Kelder, S H
+SO The Journal of adolescent health : official publication of the Society for Adolescent Medicine
+VL 13
+IS 5
+PS 355-63
+PY 1992
+PD 1992 Jul
+AB The social influence models do provide some optimism for primary prevention efforts. Prevention programs appear most effective when 1) the target behavior of the intervention has received increasing societal disapproval (such as cigarette smoking), 2) multiple years of behavioral health education are planned, and 3) community-wide involvement or mass media complement a school-based peer-led program (45,46). Short-term programs and those involving alcohol use have had less favorable outcomes. Future research in primary prevention should address concerns of high-risk groups and high-risk countries, such as lower income populations in the United States or countries that have large adolescent homeless populations. The utilization of adolescent leaders for program dissemination might be particularly critical in these settings. A second major and global concern should focus upon alcohol use and alcohol-related problems. In many communities adolescent alcohol use is normative and even adult supported. Thus, young people are getting quite inconsistent messages on alcohol from their schools, from TV, from peers, and from parents. This inconsistency may translate into many tragic and avoidable deaths for young people. Clearly, in the area of alcohol-related problems, community-wide involvement may be necessary. A third direction for prevention research should involve issues of norms, access, and enforcement including policy interventions, such as involve the availability of cigarette vending machines or the ease of under-age buying or levels of taxation. These methods affect adolescents more acutely since their financial resources, for the most part, are more limited. These policy level methods also signify to adolescents what adults consider appropriate.(ABSTRACT TRUNCATED AT 250 WORDS) 
+SN 1054-139X
+JC 9102136
+SA MEDLINE
+DI 10.1016/1054-139X(92)90028-A
+UT MEDLINE:1390786
+ER
+
+PT J
+AN 12343619
+TI Starting over. Why remarriages are more unstable.
+AU Booth, A
+   Edwards, J N
+SO Journal of family issues
+VL 13
+IS 2
+PS 179-94
+PY 1992
+PD 1992 Jun
+A2 Previously divorced and remarried couples have a higher probability of
+   divorce and decline in marital quality.  Models which have explained
+   this behavior focus on:  willingness to leave marriage; selection;
+   socioeconomic status; the remarriage market; and incomplete marriages.
+   Each model is examined among a population of marrieds and remarrieds to
+   distinguish attributes and the extent to which these attributes increase
+   the probability of decline in marital quality or divorce.  Data were
+   obtained from a sample of 2033 marrieds  55 years old who were
+   interviewed over the telephone in 1980, 1983, and 1988 in the Marital
+   Instability Over the Life Course Study.  Incomplete marriage was
+   measured by whether and to what extent parents or parents-in-law made
+   contact and the number of relatives that party was close to. Willingness
+   to leave was based on attitudes to divorce and the ability to handle
+   emotion and financial affairs if the marriage ended. Selection referred
+   to poor marriage material (drugs or alcohol, criminal conduct,
+   mismanagement of money, immature behavior.  Socioeconomic status was
+   reflected in occupational status, educational levels, and income.  The
+   marriage market was a measure of age, education, and religious
+   differences.  Marital quality was examined in terms of happiness,
+   interaction, disagreement, and divorce proneness.  Multiple
+   classification analysis was used to compare attributes by marital
+   history.  The methods of Kessler and Greenberg were used to examine
+   changes in marital quality over time in first time marriages and
+   remarriages.  The results indicate that individuals in remarriages have
+   relationships with attributes which potentially lower marital quality
+   and increase the probability of divorce.  When both individuals have
+   prior marriage and divorce experience, there is even lower social
+   integration, greater willingness to leave marriage, higher probability
+   of marrying as a teen, lower socioeconomic status, and greater
+   likelihood of age differences.  Remarriage variables and marital quality
+   variables both showed linear relationships.  Remarriage variables and
+   marital quality variables both showed linear relationships.  In the
+   cross sectional analysis of the 1980 data there is a statistically
+   significant relationship with attributes which potentially lower marital
+   quality in 1980 indicates remarried persons are more prone to lower
+   marital quality than people in first marriages.
+SN 0192-513X
+JC 8005417
+SA MEDLINE
+DI 10.1177/019251392013002004
+UT MEDLINE:12343619
+ER
+
+PT J
+AN 1620759
+TI Reply to Duryea.
+AU Cellucci, T
+SO Psychological reports
+VL 70
+IS 3 Pt 1
+PS 705-6
+PY 1992
+PD 1992 Jun
+SN 0033-2941
+JC 0376475
+SA MEDLINE
+DI 10.2466/PR0.70.3.705-706
+UT MEDLINE:1620759
+ER
+
+PT J
+AN 1612824
+TI Israeli Christian, Druze, and Moslem adolescents' attitudes toward magazine alcohol advertisements.
+AU Moore, M
+   Weiss, S
+SO The International journal of the addictions
+VL 27
+IS 6
+PS 735-41
+PY 1992
+PD 1992 Jun
+AB This article summarizes the Christian, Druze, and Moslem part of an Israeli study which was carried out in 1988 in the framework of an international comparative project conducted simultaneously also in Australia and in the USA in order to compare the perception of a set of 64 magazine alcohol advertisements by youth from three nations and various cultural and religious groups within those nations. This study is a breakthrough in the Christian, Druze, and Moslem sectors, since it is the first project in the "alcohol domain" among high school students from those sectors. The article presents the results concerning Christian, Druze, and Moslem adolescents' attitudes toward magazine alcohol advertisements. The results have implications for prevention efforts among adolescents from those three religions. 
+SN 0020-773X
+JC 0123640
+SA MEDLINE
+DI 10.3109/10826089209068765
+UT MEDLINE:1612824
+ER
+
+PT J
+AN 12317498
+TI Nigeria's youth at risk.
+AU Igwe, S A
+SO Africa health
+VL 14
+IS 4
+PS 45-6
+PY 1992
+PD 1992 May
+A2 Improved family and community support would prevent many youth in
+   Nigeria from risk behavior including drinking alcohol, smoking, and
+   using illicit drugs.  In Rivers State, 70% of secondary students have
+   had at least 1 alcoholic drink.  Further, in Bendel State, 13% of 15-19
+   year olds in the coastal region drink alcohol compared with 75% of those
+   in the hinterland.  Since alcohol affects good judgment skills, this
+   behavior is especially risky during rituals and social activities and
+   causes accidents.  Youth who drink are likely to have unplanned and
+   unprotected sexual intercourse.  Drinking during pregnancy is associated
+   with miscarriages, low birth weight, and birth defects.  Despite the
+   problems with youth and drinking, Nigeria does not have law restricting
+   sales of alcohol to youth.  In Nigeria smoking was once predominantly a
+   male habit but is now increasing quickly among women.  Most smokers 1st
+   begin their habit when 18 years old.  Even thought he Nigerian
+   government has restricted smoking in public places, it has not yet been
+   effective.  Smoking has numerous negative effects such as lung cancer,
+   other cancers, shorter life spans, low birth weight, prematurity, higher
+   perinatal mortality, and more labor complications.  Moreover the tobacco
+   and alcohol companies advertise widely using ingenious and persuasive
+   promotions.  Youth are especially vulnerable to these slick promotions. 
+   Cannabis remains the most common illegal drug.  Heroin use is growing
+   among urban adolescents in Nigeria, however.  Nigeria also serves as a
+   transhipment point for drugs to the US as well as a consumption point. 
+   Drug use results in rising numbers of patients in mental hospitals and
+   treatment centers.  A particular concern of drug use is transmission of
+   HIV and hepatitis B via needles.  Smokers and alcohol drinkers are
+   likely to also be drug users.  Families, government, and community
+   organizations need to collaborate to prevent these risk behaviors among
+   youth.
+SN 0141-9536
+JC 7905114
+SA MEDLINE
+UT MEDLINE:12317498
+ER
+
+PT J
+AN 1614297
+TI Violence in the Accident and Emergency Department.
+AU Cembrowicz, S P
+   Shepherd, J P
+SO Medicine, science, and the law
+VL 32
+IS 2
+PS 118-22
+PY 1992
+PD 1992 Apr
+AB Crimes of violence are recorded increasingly frequently, including those involving health professionals. We reviewed records of violent incidents kept for a major Accident and Emergency Department over a ten-year period. Details were recorded in a Violent Incident Book by all grades of A/E staff, and separate records were kept by hospital security officers. A total of 407 incidents were recorded. Numbers, rank and sex of staff assaulted, types of assault, injuries received, weapons used and characteristics and disposal of perpetrators were recorded. Many were young males who had been drinking: others were regular attenders, of whom three subsequently died and one convicted of murder. Nurses and male doctors appeared to be at the greatest risk of assault and receptionists at the least risk. Recording of violent incidents and subsequent prosecution seemed inconsistent, and may have reflected the lack of a code of practice in this area. Suggestions are made about preventing, predicting and dealing with violence, and its aftermath, in the A and E department, including the use of security officers and closed circuit television, waiting room design, the recognition of body language and signs of alcohol or substance intoxication. The importance of staff support after an assault is emphasized, including immediate and long-term counselling, provision of legal advice, criminal or civil court action, victim support schemes and the workings of the Criminal Injuries Compensation Board. Free legal advice for staff assaulted at work should be included in the terms of service of NHS staff. 
+SN 0025-8024
+JC 0400721
+SA MEDLINE
+DI 10.1177/106002809203200205
+UT MEDLINE:1614297
+ER
+
+PT J
+AN 1552131
+TI Dietary practices of ballet, jazz, and modern dancers.
+AU Stensland, S H
+   Sobal, J
+SO Journal of the American Dietetic Association
+VL 92
+IS 3
+PS 319-24
+PY 1992
+PD 1992 Mar
+AB Ballet dancers have been shown to have nutrition problems and poor dietary practices. We asked dance instructors and dance directors to distribute a questionnaire to dancers involved in three dance types. Of the 106 dancers who completed the questionnaire, 71% participated in ballet, 60% in jazz, and 74% in modern dance; 31% participated in all three types of dance. The body mass index was similar for all types of dancers. More than half (60%) of the dancers used vitamin and mineral supplements, and 18% of the females reported irregular menstruation. Wide ranges existed in intake of foods from each of four food groups, caffeine, and alcohol. Printed media (magazines and books) were the primary sources of nutrition information. Dietitians may encounter many types of dancers and should be aware that dancers involved in ballet and other types of dance may have dietary practices that could improve with nutrition education and counseling. 
+SN 0002-8223
+JC 7503061
+SA MEDLINE
+UT MEDLINE:1552131
+ER
+
+PT J
+AN 1533135
+TI Birth control pills, cigarettes, alcohol linked to liver cancer.
+AU [Anonymous]
+SO Oncology (Williston Park, N.Y.)
+VL 6
+IS 3
+PS 101
+PY 1992
+PD 1992 Mar
+A2 Data on 74 pathologically confirmed cases of liver cancer among blacks
+   and whites living in Los Angeles County, California were compared with
+   162 matched controls.  The study was limited to only people with no
+   hepatitis infection and to non-Asians.  The risk of liver cancer for
+   women who have used OCs for 5 years was 5.5 times higher than that for
+   women who had never used OCs.  This risk was 3 times higher for women
+   who had ever used OCs.  The data for women who were in their
+   reproductive years when OCs 1st entered the market in the 1960s showed
+   that the risk for 5 years of OC use increased to almost 30 times that of
+   women who had never used OCs.  Even though estrogens were presumed to be
+   the risk factor since they induce liver cancer in animals, no
+   significant association was found between estrogens used in estrogen
+   replacement therapy and liver cancer.  Overall, diabetics were at 3.3
+   times the risk for liver cancer compared with nondiabetics.  People who
+   had diabetes for at least 10 years had 4.3 times the risk and those
+   dependent on insulin injections had 18.5 times the risk.  Cigarette
+   smokers had a 2.1 times greater risk of liver cancer than nonsmokers.
+   Most of the women did not drink heavily which showed the independent
+   effect of cigarette smoking.  As of December 1991, these data
+   represented the best data on OCs and cigarette smoking to date.  The
+   risk for heavy drinkers of alcohol (80g of alcohol/day=9 cans of beer, 9
+   glasses of wine, or 9 shots of spirits) was 4.7 times the risk of
+   nondrinkers or light drinkers.  It is concluded that alcohol and/or
+   cigarettes caused 56% of liver cancer cases in men and that cigarettes
+   and/or OCs caused 54% of liver cancer cases in women.
+SN 0890-9091
+JC 8712059
+SA MEDLINE
+UT MEDLINE:1533135
+ER
+
+PT J
+AN 1419873
+TI Fatal poisonings in Jutland (Denmark) during the 1980s.
+AU Kaa, E
+   Gregersen, M
+SO International journal of legal medicine
+VL 105
+IS 3
+PS 133-8
+PY 1992
+PD 1992 
+AB During the period 1980 through 1989 a total of 1029 cases of fatal poisoning (638 men and 391 women) were examined at the Department of Forensic Medicine, Aarhus University, Denmark. In 68% of the cases death had been caused by drugs, whereas acute alcohol poisoning and carbon monoxide accounted for 15% and 14% of the cases, respectively. Alcohol was detected in more than half of the 1029 fatal poisoning cases, and in 42% of all cases the blood alcohol concentration was above 0.8 g/kg. In 57% of the cases death was categorized as accidental, only in 31% of the cases as suicide. Accidental deaths were especially predominant amongst drug and/or alcohol abusers. Propoxyphene was the drug found to have caused most fatal poisonings during the decade (30% of the drug-related deaths). Most of the propoxyphene-related deaths occurred during the early and mid-eighties. Barbiturate poisonings were quite frequent during the first half of the eighties. However, the number of deaths caused by barbiturates decreased significantly after 1986, when most barbiturates were withdrawn from the market. The number of deaths caused by narcotics and analgesics increased during the survey period, while no specific tendency was observed concerning antidepressants. 
+SN 0937-9827
+JC 9101456
+SA MEDLINE
+DI 10.1007/BF01625164
+UT MEDLINE:1419873
+ER
+
+PT J
+AN 1751848
+TI Public support for warning labels on alcoholic beverage containers.
+AU Hilton, M E
+   Kaskutas, L
+SO British journal of addiction
+VL 86
+IS 10
+PS 1323-33
+PY 1991
+PD 1991 Oct
+AB Warning labels are now required on alcohol beverage containers in the United States. Prior to the enactment of the warning label law, a random sample of adults in the general population of the United States were interviewed by telephone to assess baseline knowledge and support for the warning labels (n = 2006). This paper proceeds on the assumption that public support is crucial for sustained success of alcohol control policies such as the warning label mandate. We found that a vast majority (87%) of the respondents felt that alcoholic beverages should have warning labels about possible health hazards, with abstention as the most significant predictor of support. A majority of the respondents also felt that alcohol education, server intervention, treatment and counter-advertisement programs should be increased. A large minority felt that alcohol taxes should be increased store hours should be decreased, and the legal drinking age should be increased. Most respondents agreed that warning labels would not have much effect on heavy drinkers. When compared to responses to similar questions about alcohol control policies over the past 20 years, evidence supporting a conservative trend towards alcohol in the United States was found. 
+SN 0952-0481
+JC 8804404
+SA MEDLINE
+DI 10.1111/j.1360-0443.1991.tb01708.x
+UT MEDLINE:1751848
+ER
+
+PT J
+AN 1943098
+TI Marriage and alcohol use: a longitudinal study of "maturing out".
+AU Miller-Tutzauer, C
+   Leonard, K E
+   Windle, M
+SO Journal of studies on alcohol
+VL 52
+IS 5
+PS 434-40
+PY 1991
+PD 1991 Sep
+AB Earlier findings have suggested that marriage may provide protection from a variety of physical and psychological problems. In particular, numerous studies have demonstrated a consistent relationship between marital status and alcohol use. To examine this relationship more carefully, we performed a longitudinal analysis of data collected on the Youth Cohort of the National Longitudinal Survey of Labor Market Experience. Four marital transition groups were constructed based upon marital status across a 3-year period: stably single, married year 3, married year 2 and stably married. Results of repeated-measures MANCOVAS performed on alcohol-use patterns across time as a function of marital-transition group supported the notion that individuals begin moderating their alcohol consumption prior to their actual transition to married status with the trend continuing into the first year of marriage. The data further suggested that this decline in alcohol use stabilizes shortly thereafter, apparently within 1 year after marriage. 
+OI Leonard, Kenneth E./0000-0001-6658-1264
+SN 0096-882X
+JC 7503813
+SA MEDLINE
+DI 10.15288/jsa.1991.52.434
+UT MEDLINE:1943098
+ER
+
+PT J
+AN 10114506
+TI Policy relevance of a survey on smoking and drinking behaviour among Dutch school children.
+AU van Reek, J
+   Knibbe, R
+   van Iwaarden, T
+SO Health policy (Amsterdam, Netherlands)
+VL 18
+IS 3
+PS 261-8
+PY 1991
+PD 1991 Aug
+AB Data from the first measurement of a cohort study among secondary schoolchildren allowed us to investigate policy correlates to smoking and drinking behaviour to some extent. Regular smoking is related to anti-smoking campaigns among boys and regular drinking is related to alcohol education at primary school. Regular drinking is also related to economic availability (free availability of alcohol and pocket money). The findings on economic availability and health education are directly policy relevant. 
+SN 0168-8510
+JC 8409431
+SA MEDLINE
+DI 10.1016/0168-8510(91)90027-U
+UT MEDLINE:10114506
+ER
+
+PT J
+AN 1961790
+TI Effects of a school-based alcohol education program with a media prevention component.
+AU Collins, D
+   Cellucci, T
+SO Psychological reports
+VL 69
+IS 1
+PS 191-7
+PY 1991
+PD 1991 Aug
+AB The effects of an alcohol education presentation with a media component of public service announcements were evaluated. The presentation was conducted over three (consecutive) days with 10th and 11th grade students in a rural area of South Carolina. The professionally produced announcements focused on drinking and driving. 52 subjects were assigned by classroom to either of two treatment groups or a control condition. Both treatment groups received the educational presentation but differed in that Group 2 was also exposed to the videotaped announcements. Effects of exposure were evaluated in separate measures of knowledge, attitudes, and alcohol involvement, using a pre-posttest design, with a 1-mo. follow-up. Analysis showed an effect of over-all program on knowledge at follow-up, but none on attitudes or alcohol involvement. These findings and their implications are discussed in the context of previous evaluations of alcohol education programs and media efforts. 
+SN 0033-2941
+JC 0376475
+SA MEDLINE
+DI 10.2466/PR0.69.5.191-197
+UT MEDLINE:1961790
+ER
+
+PT J
+AN 1927572
+TI Adolescents and benzodiazepines: prescribed use, self-medication and intoxication.
+AU Pedersen, W
+   Lavik, N J
+SO Acta psychiatrica Scandinavica
+VL 84
+IS 1
+PS 94-8
+PY 1991
+PD 1991 Jul
+AB In a longitudinal study of 1230 people aged 13-18 years from the Greater Oslo Area, the past-year prevalence of anxiolytic or hypnotic use was 10%, which is higher than previously reported. The majority gave therapeutic reasons as a motive for using these drugs. However, most of the use was unprescribed. The parents, and especially the mother, were the most important suppliers. A minority gave intoxication as a motive for using these drugs. In this group, the suppliers were mainly peers and the illegal market. Neither the unprescribed nor the prescribed therapeutic use show any association with use of drugs such as alcohol and cannabis. There is, however, a strong association between the unprescribed use of benzodiazepines by young people and by their parents. This suggests a pattern of learning and role modelling, which must be regarded as problematic for public health policy. Those who use the drugs to become intoxicated have particularly poor mental health, and they use many other drugs as well. This group probably runs a special risk of developing more serious drug abuse. 
+SN 0001-690X
+JC 0370364
+SA MEDLINE
+DI 10.1111/j.1600-0447.1991.tb01427.x
+UT MEDLINE:1927572
+ER
+
+PT J
+AN 2067428
+TI The characteristics of cocaine users among young adults in Sydney.
+AU Hall, W D
+   Carless, J M
+   Homel, P J
+   Flaherty, B J
+   Reilly, C J
+SO The Medical journal of Australia
+VL 155
+IS 1
+PS 11-4
+PY 1991
+PD 1991 Jul 01
+AB OBJECTIVE: To describe the prevalence and pattern of cocaine use among young Sydney adults interviewed during a study of the "market position" of cocaine.; DESIGN: A telephone survey of young Sydney adults.; PARTICIPANTS: A total of 499 young Sydney men and women aged between 14 and 35 were selected to ensure a sample of 300 persons who used alcohol and tobacco at least weekly, and who had been offered or had tried at least one illicit drug.; MAIN OUTCOME MEASURES: These were the prevalence of having ever used cocaine, the frequency of cocaine use, the prevalence of daily alcohol and tobacco use, and of ever having tried marijuana, sedatives, designer drugs, amphetamines and heroin.; RESULTS: Thirteen per cent of the sample (95% confidence interval [CI], 10%-16%) had ever tried cocaine, of whom only 20% (CI, 15%-25%) were current users. Cocaine users were distinguished from non-users by being more likely to be daily users of tobacco (odds ratio, 2.1; CI, 1.3-3.6) and alcohol (odds ratio, 3.0; CI, 1.7-5.6), and to have tried marijuana (odds ratio, 7.1; CI, 3.2-15.9), sedatives (odds ratio, 11.4; CI, 6.4-20.7), designer drugs (odds ratio, 17.2; CI, 9.2-32.2), amphetamines (odds ratio, 27.1; CI, 14.3-51.3), and heroin (odds ratio, 36.5; CI, 14.0-94.9). The odds of having tried cocaine increased with the number of different types of illicit drugs that the person had tried.; CONCLUSIONS: The prevalence of ever having tried cocaine was low among a sample of young adults selected to ensure an over-representation of illicit drug users. Cocaine users were more likely to have experimented with a variety of different types of illicit drugs. Only a minority of those who had ever tried cocaine were current users. 
+RI Spooner, Catherine/F-5761-2013; Hall, Wayne D/A-3283-2008
+OI Spooner, Catherine/0000-0002-6741-5644; Hall, Wayne D/0000-0003-1984-0096
+SN 0025-729X
+JC 0400714
+SA MEDLINE
+DI 10.5694/j.1326-5377.1991.tb116368.x
+UT MEDLINE:2067428
+ER
+
+PT J
+AN 2033171
+TI How much is enough? Willingness to participate in alcohol interventions.
+AU Werch, C E
+SO Journal of American college health : J of ACH
+VL 39
+IS 6
+PS 269-74
+PY 1991
+PD 1991 May
+AB This study examined the willingness of drinkers to participate in alcohol interventions designed to cut down or stop alcohol use by degree of service-provider contact. One hundred fifty-six university students and staff who attended a campus health fair participated in an alcohol survey. Of the college drinkers, 73.7% reported they were willing to participate in one or more alcohol interventions with minimal provider contact, compared with 48.5% who said they would participate in programs with high provider contact. Respondents preferred minimal-contact strategies (use of nonalcoholic or low-alcohol beverages, information pamphlets, cash awards, television programs, and mailed instructions) to high-contact approaches. Men were significantly more willing (ps less than .05) than women to participate in nearly half (11 to 21) of the alcohol interventions. Three measures indicative of motivation to control drinking were significantly associated with greater willingness to participate in nearly all strategies. This study also suggested that drinkers who were highly motivated to control their drinking did not prefer minimal-contact interventions over high-contact interventions. 
+SN 0744-8481
+JC 8214119
+SA MEDLINE
+UT MEDLINE:2033171
+ER
+
+PT J
+AN 2052159
+TI Outdoor advertising of addictive products.
+AU Mitchell, O
+   Greenberg, M
+SO New Jersey medicine : the journal of the Medical Society of New Jersey
+VL 88
+IS 5
+PS 331-3
+PY 1991
+PD 1991 May
+AB Billboards in black and hispanic neighborhoods in four selected New Jersey cities disproportionately contain advertisements for tobacco and alcohol products and are designed with images of sex, youth, and affluence to promote the use of addictive products. 
+SN 0885-842X
+JC 8511653
+SA MEDLINE
+UT MEDLINE:2052159
+ER
+
+PT J
+AN 2025691
+TI Cigarette advertising and adolescent experimentation with smoking.
+AU Klitzner, M
+   Gruenewald, P J
+   Bamberger, E
+SO British journal of addiction
+VL 86
+IS 3
+PS 287-98
+PY 1991
+PD 1991 Mar
+AB The extent to which cigarette advertising contributes to increases in smoking has been debated by public health professionals and the tobacco industry. One aspect of this debate has been the degree to which advertising influences smoking among adolescents. Previous research suggests that there are significant relationships between measures of advertising and smoking. However, potential simultaneous relationships between these measures have not been addressed. Observed correlations may arise from the effects of advertising on smoking or from smokers' selective exposure to advertisements. This study examined relationships between cigarette advertising and smoking experimentation. Using environmental and psychological measures of advertising exposure, it was demonstrated that adolescents who experimented with cigarettes were better able to recognize advertised products than those who had not, a selective exposure effect. Conversely, subjects who were better at recognizing advertised brands were more likely to have experimented with cigarettes, an effect due to their exposure to cigarette advertising. 
+SN 0952-0481
+JC 8804404
+SA MEDLINE
+UT MEDLINE:2025691
+ER
+
+PT J
+AN 10148725
+TI Ethnic and gender differences in Southwestern students' sources of information about health.
+AU Harris, M B
+   Harris, R J
+   Davis, S M
+SO Health education research
+VL 6
+IS 1
+PS 31-42
+PY 1991
+PD 1991 Mar
+AB Students from several rural, Southwestern schools rated family, television, teachers and doctors as the most important of 11 sources of information about various health topics.  However, doctors were only the fifth-ranked source of information about sex and reproduction and the seventh-ranked source of information about drugs, with friends being the fourth- and third-ranked sources of information about these two more personal and sensitive topics.  American Indians reported even stronger reliance on doctors than did Hispanic and Anglo students, and rated clinic nurses as much more important sources of health information than did the other two ethnic groups.  Females showed greater reliance on social sources and less on electronic media than did male students, and high school students relied more on print media and less on television, nurses and family than did younger children.  Students felt more knowledgeable about smoking, alcohol and exercise than about diet, the heart-blood system and cancer; however, American Indians felt less informed about smoking and alcohol than did Anglos or Hispanics.  These findings (especially when compared to previous results) suggest that effective health education programs must be tailored to particular populations and based on specific knowledge of their attitudes, behavior and environment. 
+SN 0268-1153
+JC 8608459
+SA MEDLINE
+DI 10.1093/her/6.1.31
+UT MEDLINE:10148725
+ER
+
+PT J
+AN 10148726
+TI "Pssst . . . the really useful guide to alcohol": evaluation of an alcohol education television series.
+AU Bennett, P
+   Smith, C
+   Nugent, Z
+   Panter, C
+SO Health education research
+VL 6
+IS 1
+PS 57-64
+PY 1991
+PD 1991 Mar
+AB The paper reports on the effectiveness of a six-part television series ("Pssst . . . the really useful guide to alcohol") in changing viewers' knowledge and alcohol-related behaviours and attitudes. Comparisons between viewers and matched controls indicated significant increases in knowledge relating to alcohol.  No changes in attitudes were found, although some behavioural change was indicated.  These results are discussed in the context of wider-ranging alcohol-related health promotion initiatives. 
+OI Bennett, Paul/0000-0003-2252-6065
+SN 0268-1153
+JC 8608459
+SA MEDLINE
+DI 10.1093/her/6.1.57
+UT MEDLINE:10148726
+ER
+
+PT J
+AN 10111973
+TI Perceptual attitudes of a charitable organization: an investigative approach.
+AU Barr, P B
+   Dave, D S
+   Amin, S
+SO Health marketing quarterly
+VL 8
+IS 3-4
+PS 81-95
+PY 1991
+PD 1991 
+AB United Way of America is known nationwide for its services as a coordinator of local fund raising activities designed to meet the needs of the local community. Each United Way has many local agencies that depend upon the fund raising efforts of the organization for a significant amount of their budget. The United Way of Horry County (UWHC) operates in this manner, and over the years they have raised a significant amount of funds to support local service agencies. The UWHC is now attempting to examine possible changes by embarking upon a study designed to measure among the public the degree of awareness of United Way and the services which they provide. A sample survey was conducted and data were collected via telephone solicitation from individuals selected randomly throughout the market area of Horry County. The study identified the four most important services as: emergency assistance such as housing, fire, flood, etc., senior citizens, health care services, and drug and alcohol abuse. Furthermore, the study indicated that services which need to be added to this list include AIDS research, aid for homeless, mentally ill, and elderly. 
+SN 0735-9683
+JC 8306485
+SA MEDLINE
+DI 10.1300/J026v08n03_04
+UT MEDLINE:10111973
+ER
+
+PT J
+AN 1886054
+TI Sources of drug information among adolescent students.
+AU Mirzaee, E
+   Kingery, P M
+   Pruitt, B E
+   Heuberger, G
+   Hurley, R S
+SO Journal of drug education
+VL 21
+IS 2
+PS 95-106
+PY 1991
+PD 1991 
+AB A sample of 1023 eighth and tenth grade students in small to medium-sized central Texas school districts was assessed to determine the amount of information they receive from ten sources about six categories of drugs. The amount of information males reported receiving about each drug category was significantly greater than what females reported, and the amount of information that eighth graders reported receiving about each drug category was significantly greater than what tenth graders reported. Television was the primary source of drug information for all categories of drugs except inhalants, for which friends and television were equally important sources. Parents and printed media (magazines or newspapers) were of secondary importance, followed by friends and teachers. Adolescents were less likely to receive drug-related information from experience, siblings, church, doctors, and police. The reliance on the mass media for drug information in smaller school districts is a pattern which has been previously observed in larger urban districts. This consistency suggests that mass media approaches to drug education are likely to be as effective in rural areas and smaller towns as they are among urban adolescents. Implications for television programming are discussed. 
+SN 0047-2379
+JC 1300031
+SA MEDLINE
+DI 10.2190/8RT6-TGFJ-PEMT-L51Y
+UT MEDLINE:1886054
+ER
+
+PT J
+AN 1865775
+TI Alcohol on the television and in viewers' experience.
+AU Visser, L
+   Botha, M
+SO Medicine and law
+VL 10
+IS 1
+PS 95-105
+PY 1991
+PD 1991 
+AB This study explores television viewers' perceptions of the portrayal of alcohol use in prime-time television programmes, and viewers' attitude toward alcohol use in real life. The actual incidence of the portrayal of alcohol use on television during the same period of the survey was also taken into consideration. These perceptions and attitudes were scrutinized for factors of risk in terms of the development of alcohol-related problems in South Africa with a view to assisting preventive agents in devising rational and timeous preventive programmes. 
+SN 0723-1393
+JC 8218185
+SA MEDLINE
+UT MEDLINE:1865775
+ER
+
+PT J
+AN 1762892
+TI [Danish alcohol policy].
+FT Den danske alkoholpolitik.
+AU Hardt, F
+SO Nordisk medicin
+VL 106
+IS 12
+PS 324
+PY 1991
+PD 1991 
+AB The Danish alcohol policy is not as restrictive as in Sweden and Norway but based on information and taxes. The taxes on alcohol have now been reduced as a consequence of the establishment of the inner market in EEC. The expected higher consumption of alcohol will most likely increase the already high cost of health care and social welfare. 
+SN 0029-1420
+JC 0401001
+SA MEDLINE
+UT MEDLINE:1762892
+ER
+
+PT J
+AN 1763508
+TI [Nicotine--drug addiction--AIDS. Drug use habits of Vienna addicts].
+FT Nikotin--Drogensucht--AIDS. Drogengebrauchsgewohnheiten Wiener Suchtiger.
+AU Loimer, N
+   Vedovelli, H
+   Presslich, O
+   Werner, E
+   Hollerer, E
+   Pfersmann, V
+   Schmid-Siegel, B
+SO Wiener klinische Wochenschrift
+VL 103
+IS 20
+PS 617-20
+PY 1991
+PD 1991 
+AB In Austria it is illegal to sell tobacco to young adolescents. A diverse sample of 358 narcotic addicts was investigated at the Psychiatric University Clinic of Vienna. Data were obtained from on site confidential interviews and a HIV-test was conducted. The individual drug use history was recorded and, interestingly, tobacco addiction was the first stage in starting a drug career. Furthermore, a strong correlation was observed between onset of heroin use and HIV-1 infection. It is concluded that in Austria not only the availability nicotine and alcohol to young adolescents should be prohibited, but also their use should be punishable. Easy access to nicotine as in public restaurants or from automatic distributors, has to be withdrawn. Tobacco advertisements may drive vulnerable young adolescents to early nicotine abuse and this may be followed by addition to other drugs and diseases causing death, including AIDS. Socioeconomic data, as well as the methadone data are presented. 180 out of the 358 patients were on methadone maintenance. Methadone treatment offers a first step toward social rehabilitation for drug addicts who have been living as criminals on the fringe of society. Physicians have a clear responsibility to lead the effort on all fronts against tobacco, especially in view of the HIV epidemic. 
+SN 0043-5325
+JC 21620870R
+SA MEDLINE
+UT MEDLINE:1763508
+ER
+
+PT J
+AN 2242724
+TI Cultural differences in the perception of magazine alcohol advertisements by Israeli Jewish, Moslem, Druze and Christian high school students.
+AU Weiss, S
+   Moore, M
+SO Drug and alcohol dependence
+VL 26
+IS 2
+PS 209-15
+PY 1990
+PD 1990 Oct
+AB This article describes the Israeli part of an international comparative research project conducted simultaneously in 1988 also in Australia and in the U.S.A., in order to determine the attitudes of high school students from different nations and cultures toward alcohol advertising. The Israeli study used a set of 64 magazine alcohol advertisements from 10 countries and with the help of an open-ended questionnaire examined differences and similarities in the perception of Israeli and foreign advertisements by Jewish, Moslem, Druze and Christian teenagers. Each response was coded twice. The first code indicated the general tone of the response and the second code indicated its theme. The article presents selected general results and conclusions. The results have implications for designing alcohol abuse education messages and can aid alcohol advertisers interested in responsible advertising to find advertising standards suitable to each culture. 
+SN 0376-8716
+JC 7513587
+SA MEDLINE
+DI 10.1016/0376-8716(90)90131-W
+UT MEDLINE:2242724
+ER
+
+PT J
+AN 2224198
+TI Assisted natural recovery from alcohol problems: effects of a self-help manual with and without supplementary telephone contact.
+AU Heather, N
+   Kissoon-Singh, J
+   Fenton, G W
+SO British journal of addiction
+VL 85
+IS 9
+PS 1177-85
+PY 1990
+PD 1990 Sep
+AB One hundred and seven problem drinkers responding to a newspaper advertisement were randomly assigned to groups receiving: (1) a general advice and information booklet; (2) a behaviourally-based self-help manual; (3) in addition to the manual, an opportunity to make progress reports to a telephone answering service; and (4) in addition to the manual, an opportunity to make telephoned progress reports to an interviewer. Eighty-seven (81.3%) respondents were successfully followed-up and collateral information was available for 54 (61.1%) of these. Results showed a higher proportion drinking above recommended limits at six months follow-up in the control group (78%) than in the groups receiving the manual (53%). There were no significant differences due to presence or type of telephone contact and poor use was made of the opportunity for telephone contact. Findings justify the widespread promotion of self-help materials as a means of assisting the natural recovery process among problem drinkers. 
+SN 0952-0481
+JC 8804404
+SA MEDLINE
+UT MEDLINE:2224198
+ER
+
+PT J
+AN 2232797
+TI Public support for policy initiatives regulating alcohol use in Minnesota: a multi-community survey.
+AU Schmid, T L
+   Jeffery, R W
+   Forster, J L
+   Rooney, B
+   Klepp, K I
+   McBride, C
+SO Journal of studies on alcohol
+VL 51
+IS 5
+PS 438-42
+PY 1990
+PD 1990 Sep
+AB Public support for policies to control alcohol sales and consumption was surveyed in seven Minnesota communities. A total of 438 women and 383 men were asked to indicate their level of support of or opposition to nine different proposals designed to regulate alcohol. There was general support for all policies, which was strongly related to characteristics of respondents and type of policy proposed. Women were significantly more supportive of all items than were men. Marriage, older age and low alcohol consumption were also associated with support. Education and voter status generally were not. Policies and activities that serve primarily to protect youth received the strongest support. Restrictions and prohibitions such as limiting advertisements were less popular. The least support was expressed for increases in taxes on alcohol and for measures that would eliminate an existing practice such as prohibiting wine-cooler sales at convenience stores. The majority of respondents also indicated that they felt the individual, as opposed to the manufacturer or retailer, was responsible for problems associated with alcohol and should be the focus of intervention. Strategies for shifting the focus from the individual to environmental and regulatory control are discussed. 
+SN 0096-882X
+JC 7503813
+SA MEDLINE
+DI 10.15288/jsa.1990.51.438
+UT MEDLINE:2232797
+ER
+
+PT J
+AN 2388606
+TI Alcohol advertising and sport: a role for preventive medicine?
+AU Sivyer, G W
+SO The Medical journal of Australia
+VL 153
+IS 4
+PS 230-1
+PY 1990
+PD 1990 Aug 20
+SN 0025-729X
+JC 0400714
+SA MEDLINE
+DI 10.5694/j.1326-5377.1990.tb136868.x
+UT MEDLINE:2388606
+ER
+
+PT J
+AN 2397316
+TI The drug market position of cocaine among young adults in Sydney.
+AU Homel, P
+   Flaherty, B
+   Reilly, C
+   Hall, W
+   Carless, J
+SO British journal of addiction
+VL 85
+IS 7
+PS 891-7
+PY 1990
+PD 1990 Jul
+AB A study was undertaken to explore the 'market position' of cocaine among young adults in Sydney, Australia. The intention was to estimate how likely Australia is to experience an epidemic of cocaine use if the availability of the drug was to increase. A sample of 499 young adults in which illicit drug users were overrepresented were surveyed. The results suggested that there was not a large untapped market for cocaine. In terms of risk and attraction, cocaine was perceived to be more like the traditional 'hard drugs' of heroin, stimulants and hallucinogens than the traditional 'soft drugs' of alcohol and marijuana. Only 5% of the sample were prepared to try cocaine if offered it by a close friend. 
+RI Spooner, Catherine/F-5761-2013; Hall, Wayne D/A-3283-2008
+OI Spooner, Catherine/0000-0002-6741-5644; Hall, Wayne D/0000-0003-1984-0096
+SN 0952-0481
+JC 8804404
+SA MEDLINE
+UT MEDLINE:2397316
+ER
+
+PT J
+AN 2142980
+TI Women and alcohol--trends in Australia.
+AU Corti, B
+   Ibrahim, J
+SO The Medical journal of Australia
+VL 152
+IS 12
+PS 625-32
+PY 1990
+PD 1990 Jun 18
+AB Analysis of significant trends in self-reported alcohol consumption by women is presented, using data from surveys carried out by the Australian Bureau of Statistics in three Australian States: Western Australia, South Australia and New South Wales. Three indices of alcohol consumption were used to characterize consumption in 1977 and subsequently in 1983 or 1985. Little change was observed in the proportion of women who consumed alcohol in the previous week, although significant increases were recorded in the average daily consumption of female drinkers in all three States. These overall increases reflect increased levels of consumption by younger women. Women aged 18-24 years in all three States, as well as those aged 25-44 years in South Australia, consumed more alcohol in the later survey than did women of the same ages in 1977. The proportion of younger female drinkers whose average daily consumption reached hazardous levels showed marked increases in all three States. Analysis of beverage choices in Western Australia and South Australia indicated that older women in both States were consuming significantly less beer, and that South Australian women aged 25-64 years were consuming less fortified wine than were women of the same ages in 1977. These decreases were overshadowed by significant increases in wine consumption in both States for all age groups, and by increasing spirits' consumption in the 18-24 year olds. Several sources of underestimation of consumption are cited. Observed trends are discussed in the light of changing social values, alcohol marketing strategies and the employment status of women. Likely short- and long-term consequences of the observed consumption patterns are predicted and the challenge to prevention strategies is highlighted. 
+OI Giles-Corti, Billie/0000-0003-0102-0225
+SN 0025-729X
+JC 0400714
+SA MEDLINE
+DI 10.5694/j.1326-5377.1990.tb125417.x
+UT MEDLINE:2142980
+ER
+
+PT J
+AN 2113684
+TI Using national news events to stimulate local awareness of public policy issues.
+AU Convissor, R B
+   Vollinger, R E Jr
+   Wilbur, P
+SO Public health reports (Washington, D.C. : 1974)
+VL 105
+IS 3
+PS 257-60
+PY 1990
+PD 1990 
+AB Community leaders in Atlanta, GA, the Detroit and Lansing, MI, areas, and San Francisco, CA, participated in a demonstration of techniques to disseminate information and increase public awareness of the recommendations from the Surgeon General's Workshop on Drunk Driving, held in December 1988. Local officials worked with the Public Health Service's Office for Substance Abuse Prevention, of the Alcohol, Drug Abuse, and Mental Health Administration, to educate and inform the public about the workshop recommendations as well as other alcohol-related concerns, and to encourage public involvement in their communities with the issue of alcohol-impaired driving and other alcohol-related concerns. With minimal assistance from Federal agencies and Washington-based health and public interest groups, the communities developed unique approaches to generating local television, radio, and newspaper coverage of an event that had originated as national news. The events demonstrated that, with minimal Federal resources and support, local groups can create media attention in conjunction with national news, and local media events can lead to successful community activism. The techniques can be applied by other community groups to gain sufficient news media attention to encourage the public to organize around issues of common concern. 
+SN 0033-3549
+JC 9716844
+SA MEDLINE
+UT MEDLINE:2113684
+ER
+
+PT J
+AN 2300011
+TI Tobacco and alcohol use among Australian secondary schoolchildren in 1987.
+AU Hill, D J
+   White, V M
+   Pain, M D
+   Gardner, G J
+SO The Medical journal of Australia
+VL 152
+IS 3
+PS 124-30
+PY 1990
+PD 1990 Feb 05
+AB A survey of 19 166 secondary schoolchildren aged 12-17 years in five Australian states, the Australian Capital Territory and the Northern Territory was undertaken in 1987 to determine the prevalence of tobacco and alcohol use. Current smoking (that is, smoking at least one cigarette in the last week) rose with age to 27% in boys who were aged 16 years and to 30% in girls who were aged 16 years. The prevalence of current drinking (that is, consuming one alcoholic drink in the last week) rose with age to 55% in boys who were aged 16 years and to 50% in girls who were aged 17 years. Compared with an identical survey in 1984, the prevalence of smoking among 12- to 17-year-old schoolchildren had fallen significantly. The prevalence of drinking alcohol among 12- to 15-year-old schoolchildren also had fallen significantly, but not to the same extent as that of smoking; no significant reduction was found in the drinking of alcohol among 16- to 17-year-old schoolchildren. These trends are encouraging, but a need remains for all states to enact tobacco-control legislation, including the prohibition of tobacco advertising. 
+OI White, Victoria/0000-0001-6619-8484
+SN 0025-729X
+JC 0400714
+SA MEDLINE
+DI 10.5694/j.1326-5377.1990.tb125118.x
+UT MEDLINE:2300011
+ER
+
+PT J
+AN 2264519
+TI Potential nutrition messages in magazines read by college students.
+AU Hertzler, A A
+   Grun, I
+SO Adolescence
+VL 25
+IS 99
+PS 717-24
+PY 1990
+PD 1990 
+AB Advertisements in magazines read by 12% or more of college students enrolled in an introductory nutrition class were surveyed for hidden food and nutrition messages. Meanings were identified by categories of activities, products, and people. Less than 10% of the ads featuring people fell into food categories. Of these, more were for alcohol and supplements; fewer were for basic or extra-calorie foods. Hidden messages for females could imply beauty through fashion products, beauty aids, and supplements but with a nutrition slimming plan. Males may be receiving a subtle message that food choices do not matter, and that alcohol and supplements are desirable in everyday life. 
+SN 0001-8449
+JC 0123667
+SA MEDLINE
+UT MEDLINE:2264519
+ER
+
+PT J
+AN 2340187
+TI Community attitudes toward public policies to control alcohol, tobacco, and high-fat food consumption.
+AU Jeffery, R W
+   Forster, J L
+   Schmid, T L
+   McBride, C M
+   Rooney, B L
+   Pirie, P L
+SO American journal of preventive medicine
+VL 6
+IS 1
+PS 12-9
+PY 1990
+PD 1990 
+AB We report the results of a survey conducted in upper-midwestern communities to assess public attitudes toward policy level interventions to moderate the use of alcohol, tobacco, and high-fat food. Four hundred thirty-eight women and 383 men were asked to indicate how much they favored or did not favor 29 policy proposals. Results showed that regulatory controls in all three areas were favored by the general public. Support was strongest for alcohol and tobacco controls, less so for high-fat food. Interventions designed to protect children and youths were most strongly endorsed, followed by restrictions on advertising and direct control over conditions of sale. Women favored all interventions more than men. There was a strong positive association between age and support for measures to moderate alcohol use. Individuals reporting least personal use of alcohol, tobacco, and high-fat foods were most in favor of control policies. The results of this survey indicate specific measures that might be most readily enacted and what segments of the population are likely to be most and least receptive. 
+SN 0749-3797
+JC 8704773
+SA MEDLINE
+UT MEDLINE:2340187
+ER
+
+PT J
+AN 2310845
+TI Public opinion on alcohol policies.
+AU Pendleton, L L
+   Smith, C
+   Roberts, J L
+SO British journal of addiction
+VL 85
+IS 1
+PS 125-30
+PY 1990
+PD 1990 Jan
+AB In recent years leading authorities and organizations have been recommending policies to combat alcohol abuse. These policies range from restrictions on availability to curbs on drinking and driving. However, the policies have not been presented in any priority order, nor is it clear how acceptable they will be to the general public. This report sets out public opinion on 21 key policies and looks at recent changes in public support in this area. It shows that there are a wide range of policies on alcohol which are well supported by the general public. It seems that the vast majority of both drinkers and non-drinkers would like to see more detailed labelling on alcoholic drinks, further action in the area of drinking and driving, the promotion of alternatives to alcohol in pubs, a levy on alcohol advertising, bans on the sale of alcohol at a variety of sports meetings, more alcohol education in schools and stricter enforcement of the laws on under-age drinking. In addition, the survey reveals greater public support for restrictions on the promotion of alcohol and the introduction of random breath testing, than had been found one year previously. It is suggested that these findings could be used for setting an agenda on the implementation of policies to reduce alcohol abuse. 
+SN 0952-0481
+JC 8804404
+SA MEDLINE
+UT MEDLINE:2310845
+ER
+
+PT J
+AN 2307592
+TI Effects of televised alcohol messages on teenage drinking patterns.
+AU Atkin, C K
+SO Journal of adolescent health care : official publication of the Society for Adolescent Medicine
+VL 11
+IS 1
+PS 10-24
+PY 1990
+PD 1990 Jan
+AB This paper presents an overview of theoretical perspectives applicable to the effects of television drinking portrayals on adolescent audiences, focusing on the influence of beer and wine advertising and entertainment depictions of drinking behavior. A critical review of survey research evidence indicates that alcohol commercials contribute to a modest increase in overall consumption by teenagers and may have a slight impact on alcohol misuse and drunk driving. There are no studies measuring the effects of entertainment programming on adolescents, but content analyses suggest the potential for increased prodrinking attitudes and behaviors. Policy implications for addressing the deleterious effects of televised drinking are discussed, and priorities for future research are identified. 
+SN 0197-0070
+JC 8100395
+SA MEDLINE
+DI 10.1016/0197-0070(90)90125-L
+UT MEDLINE:2307592
+ER
+
+PT J
+AN 2307594
+TI Study group report on the impact of televised drinking and alcohol advertising on youth.
+AU Resnick, M D
+SO Journal of adolescent health care : official publication of the Society for Adolescent Medicine
+VL 11
+IS 1
+PS 25-30
+PY 1990
+PD 1990 Jan
+SN 0197-0070
+JC 8100395
+SA MEDLINE
+DI 10.1016/0197-0070(90)90126-M
+UT MEDLINE:2307594
+ER
+
+PT J
+AN 2307601
+TI Television and teens: health implications. Executive summary.
+AU Blum, R
+SO Journal of adolescent health care : official publication of the Society for Adolescent Medicine
+VL 11
+IS 1
+PS 86-90
+PY 1990
+PD 1990 Jan
+AB Throughout the study group deliberations, there were issues that cross-cut all discussions and suggestions. While the focus of the conference was on television, it is not possible to talk about television without including advertising, cable, and independent stations as well as the networks. In addition, television cannot be discussed in isolation from movies, for with VCRs and television reruns, movies are an integral part of the television scene. A second theme that transcended most discussion was a reluctance to call upon external regulatory mechanisms to control what many see as the excesses of television. There was sensitivity and concern for striking a balance between safeguarding basic freedoms, on one hand, and assuring the health and well being of the nation on the other. In terms of specific recommendations, there were some key general agreements: 1. Need for Interdisciplinary Dialog. Repeatedly, concern was voiced on how little understanding there is among and between those who are primarily concerned with the health and development of young people and those who develop programs viewed by that population.(ABSTRACT TRUNCATED AT 250 WORDS) 
+SN 0197-0070
+JC 8100395
+SA MEDLINE
+DI 10.1016/0197-0070(90)90135-O
+UT MEDLINE:2307601
+ER
+
+PT J
+AN 2229419
+TI Testimony on alcohol advertising. U.S. House of Representatives Subcommittee on Transportation and Hazardous Materials, March 1, 1990.
+AU Taylor, P
+SO Journal of public health policy
+VL 11
+IS 3
+PS 370-81
+PY 1990
+PD 1990 
+SN 0197-5897
+JC 8006508
+SA MEDLINE
+DI 10.2307/3342716
+UT MEDLINE:2229419
+ER
+
+PT J
+AN 2153159
+TI Analysis of macrocomponents and fatty acids in the market basket of male adolescents in The Netherlands.
+AU van Dokkum, W
+   de Vos, R H
+   Dukel, F
+   Hilwig, G N
+SO Journal of the American Dietetic Association
+VL 90
+IS 1
+PS 77-81
+PY 1990
+PD 1990 Jan
+AB During a period of 2 1/2 years, every 3 months 221 different food items forming a "market basket" were purchased, prepared, and classified into 23 food commodity groups. The "market basket" was based on a study of the dietary intake of 18-year-old men. In the (homogenized) food groups, the contents of protein, fat, and available carbohydrates were determined as well as the fatty acid composition. The mean daily amounts of the macrocomponents (as a percentage of the mean daily energy value of the total diet) were 14% for protein, 35% for fat, 47% for total available carbohydrates, and 4% for alcohol. The total diet contained 24 gm dietary fiber. The fatty acid composition of the Dutch male adolescents' diet resembles the fatty acid composition of the Dutch "national diet" and the typical American diet: approximately 15% of total calories as saturated fatty acids, 5% as polyunsaturated fatty acids (PUFA), and a polyunsaturated to saturated fatty acids ratio of 0.33. The results, as compared with the recommendations for a healthy diet, show that a decreased consumption of saturated fat, a higher consumption of PUFA, a higher dietary fiber intake, and a higher consumption of complex carbohydrates would be advisable for male Dutch adolescents. 
+SN 0002-8223
+JC 7503061
+SA MEDLINE
+UT MEDLINE:2153159
+ER
+
+PT J
+AN 2330932
+TI Monitoring parent concerns about teenage drinking and driving: a random digit dial telephone survey.
+AU Beck, K H
+SO The American journal of drug and alcohol abuse
+VL 16
+IS 1-2
+PS 109-24
+PY 1990
+PD 1990 
+AB A random telephone survey was conducted in a suburban community in the Washington, D.C. metropolitan area to assess the perceptions of parents about teenage drinking and driving. A total of 807 completed interviews were conducted. The results indicated that while most parents viewed teen drinking (69%) and drinking and driving (65%) to be a prevalent, relatively few seem to be engaging in behaviors likely to influence this. Thirty-two percent said they never discuss drinking and driving with their children, and over 65% said they never talk to other parents about how to talk to their children about drinking and driving, nor have any interest in doing so. Although slightly more than half said they had family policies concerning drinking, less than 20% said there were penalties for violating these policies. Over 70% expressed their willingness to watch a special show on TV about how parents can talk to their children about alcohol. Parents of teenagers appear to be far more likely to think that their teen's friends drink and drive (36%) than they are to think that their teen drinks and drives (10%). The results of this survey indicate a significant lack of parental awareness of teen drinking and a denial of their own teen's involvement in it. 
+SN 0095-2990
+JC 7502510
+SA MEDLINE
+DI 10.3109/00952999009001576
+UT MEDLINE:2330932
+ER
+
+PT J
+AN 2093092
+TI Alcohol prevention in New Zealand: working towards a national alcohol policy.
+AU Laurs, M R
+SO The International journal of the addictions
+VL 25
+IS 4A
+PS 513-32
+PY 1990
+PD 1990 
+AB This paper outlines some of the efforts that have been taken towards the formation of a national alcohol policy in New Zealand and its relevance for prevention planning in New Zealand. Strategies on the availability, taxation, advertising, and shaping of attitudes towards alcohol are discussed from a public health perspective. Preventive advances in alcohol education and health-related promotions for adolescents are also described. A Maori perspective on health and a women's perspective on alcohol prevention are considered essential factors specific to the formulation of a New Zealand alcohol policy. The implementation of any alcohol policy will depend on the level of support achieved, not only at the national level, but also in the wider community. 
+SN 0020-773X
+JC 0123640
+SA MEDLINE
+DI 10.3109/10826089009105128
+UT MEDLINE:2093092
+ER
+
+PT J
+AN 2291780
+TI The advertising of alcohol in France.
+AU Comiti, V P
+SO World health forum
+VL 11
+IS 3
+PS 242-5
+PY 1990
+PD 1990 
+SN 0251-2432
+JC 8010746
+SA MEDLINE
+UT MEDLINE:2291780
+ER
+
+PT J
+AN 2092692
+TI Alcohol promotion on television.
+AU Palmer, J J
+SO World health forum
+VL 11
+IS 4
+PS 425
+PY 1990
+PD 1990 
+SN 0251-2432
+JC 8010746
+SA MEDLINE
+UT MEDLINE:2092692
+ER
+
+EF
