@@ -9,11 +9,7 @@ keypoints:
 
 ## Selecting benchmark articles
 
-To test if a 
-
-For this exercise, we will use the list of articles included in the original systematic review that we are using as an example. Although the original review included 16 articles, here, we only have 15 articles because one was in press at the time of the original article, so we know it will not be retrieved by our replicated searches as we set the years of articles to return to be from 1990-2008. 
-
-## Identifying quasi-gold standard articles
+To estimate if a search string is comprehensive, we need a set of benchmark articles to test it against. Normally, these will come from previous reviews on similar topics or from a list suggested by subject experts. For this exercise, we will use the list of articles included in the original systematic review that we are using as an example. Although the original review included 16 articles, here, we only have 15 articles because one was in press at the time of the original article, so we know it will not be retrieved by our replicated searches as we set the years of articles to return to be from 1990-2008. 
 
 Not all of our benchmark articles will be indexed in the databases we are testing our search strategy in. To test our string, we really want to know if our search string can retrieve an article only if it is included in the database. The easiest way to check this is to search for the titles of the articles we want to retrieve in the databases we are using. To check this, we can use write_title_search(), which is really just a special case of writing a Boolean search that doesn't allow stemming and retains all terms in the title. 
 
@@ -23,13 +19,14 @@ Not all of our benchmark articles will be indexed in the databases we are testin
 load("./data/anderson_studies.rda")
 benchmark <- anderson_studies$title
 
+# FIXME in litsearchr; titles with question marks need to be removed, as do stopwords
 benchmark <- gsub("\\?", " ", benchmark)
 
 litsearchr::write_title_search(benchmark)
 
 ```
 
-We can then take the title search and see if the articles are indexed. When you only have a handful of benchmark articles like in this case, it is fairly easy to manually check if they are retrieved. But what if you had a list of dozens, or even a hundred, benchmark articles and wanted to check whether they are retrieved across databases? That's where partially automated search testing can be especially useful. The other benefit of testing search strategies in R is that the results are then reproducible and you can easily document what modifications were needed to retrieve all the benchmark articles and how those decisions were made.
+We can then take the title search and see if the articles are indexed. When you only have a handful of benchmark articles like in this case, it is fairly easy to manually check if they were retrieved. But what if you had a list of dozens, or even a hundred, benchmark articles and wanted to check whether they are retrieved across databases? That's where partially automated search testing can be especially useful. The other benefit of testing search strategies in R is that the results are then reproducible and you can easily document what modifications were needed to retrieve all the benchmark articles and how those decisions were made.
 
 First, we need to read in the results of searching for titles in a database; this is our new gold standard. We also want to import the search results from the database(s) we are testing our search in. In this exercise, we will just test our search strategy in MEDLINE since all our benchmark articles are indexed in it.
 
