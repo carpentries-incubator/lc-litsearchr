@@ -1,10 +1,18 @@
 ---
 title: "Preparing a search strategy with litsearchr"
-teaching: 
-exercises:
+teaching: 30
+exercises: 30
 questions:
+- "How does litsearchr write a Boolean search from the list of terms?"
+- "Can you add in more search terms that were not identified by litsearchr?"
+- "What are the different options for writing search strings?"
 objectives:
+- "Practice grouping search terms into concept categories and reading data."
+- "Practice adding more keywords into the list of search terms."
+- "Explain the different options for writing Boolean search strings with litsearchr."
+- "Identify non-English languages that you might consider searching for a review topic."
 keypoints:
+- "Given a list of terms grouped by concept, litsearchr can write full Boolean search string from them and translate it into up to 53 languages."
 ---
 
 ## Grouping keywords into concept categories

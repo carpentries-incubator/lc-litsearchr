@@ -1,10 +1,15 @@
 ---
 title: "Testing search strategy performance with litsearchr"
-teaching: 
-exercises:
+teaching: 20
+exercises: 20
 questions:
+- "How should benchmark articles be chosen and used?"
+- "How do you add missing search terms to retrieve benchmark articles?"
 objectives:
+- "Explain how to check search string recall with litsearchr."
+- "Practice identifying missing search terms with litsearchr."
 keypoints:
+- "litsearchr can help test the recall (sensitivity) of search strategies."
 ---
 
 ## Selecting benchmark articles
