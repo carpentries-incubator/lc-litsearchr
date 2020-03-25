@@ -1,19 +1,19 @@
 ---
 title: "Search term selection with litsearchr"
-teaching: 10
+teaching: 40
 exercises: 50
 questions:
-- "What is litsearchr?"
-- "What can it do?"
+- "What is the purpose of a naive search?"
+- "How does litsearchr identify potential keywords?"
+- "How does litsearchr select important keywords?"
 objectives:
-- "Provide context for litsearchr within the synthesis workflow"
-- "Explain what litsearchr can do"
-- "Explain how the litsearchr can help with systematic reviews"
-- "Discuss the limits and pitfalls of litsearchr and other automated approaches to systematic reviews"
+- "Explain the characteristics of a good naive search and practice identifying components."
+- "Work through the process of importing and deduplicating bibliographic data."
+- "Explain how to extract potential terms using different methods."
+- "Explain the method litsearchr uses to identify important terms and work through this process."
 keypoints:
-- litsearchr helps identify search terms and write Boolean searches for systematic reviews
+- litsearchr helps identify important search terms related to the topic of a systematic review.
 ---
-
 
 ## What is a naive search and how is it used?
 
@@ -59,8 +59,6 @@ Some articles may be indexed in multiple databases. We need to remove duplicate 
 
 Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates.
 
-## Extracting keywords from naive search results
-
 ```{r}
 
 naive_results <-
@@ -69,7 +67,7 @@ naive_results <-
 # this removed 39 results, which means there were 32 unique hits in PsycINFO
 
 ```
-
+## Extracting potential keywords from naive search results
 
 Now that we have our deduplicated results, we can extract a list of potential keywords from them. This is not the list of keywords you will want to consider including in your search (we will get to that in a bit), and is simply all of the terms that the keyword extraction algorithm identifies as being a possible keyword. 
 
@@ -104,6 +102,30 @@ head(raked_keywords, 20)
 
 alcohol <- raked_keywords[grep("alcohol", raked_keywords)]
 head(alcohol, 20)
+
+# we can also remove some terms that we suspect might be well connected
+# but that we know are not important and could skew what we get in the end
+
+irrelevant <- c("signific", "negative", "positive", "relationship", "analys",
+                "regression", "model", "sample", "research", "survey", 
+                "findings", "results", "study", "abstract")
+
+remove <- unique(unlist(lapply(irrelevant, function(x){grep(x, raked_keywords)})))
+raked_keywords[remove]
+
+raked_keywords <- raked_keywords[-remove]
+
+# we could also repeat this for other generic types of information
+# for example, we could remove country names
+
+countries <- countrycode::codelist_panel
+countries <- unique(countries$country.name.en)
+
+remove <- unique(unlist(lapply(tolower(countries), function(x){grep(x, raked_keywords)})))
+raked_keywords[remove]
+
+raked_keywords <- raked_keywords[-remove]
+
 
 ```
 
