@@ -1,0 +1,333 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 9813902
+TI Impact of liking for advertising and brand allegiance on drinking and alcohol-related aggression: a longitudinal study.
+AU Casswell, S
+   Zhang, J F
+SO Addiction (Abingdon, England)
+VL 93
+IS 8
+PS 1209-17
+PY 1998
+PD 1998 Aug
+AB AIMS: To test a hypothesized model of the effect of televised alcohol advertising and allegiance to specific brands of beer on subsequent beer consumption and self-reports of aggressive behaviour linked with drinking.; DESIGN: Structural equation modelling was used to assess the fit between data collected as part of a longitudinal study of young people's health and development and a hypothesized model based on theoretical perspectives and previous research.; SETTING: A birth cohort has been assessed every few years, most of them in their home city of Dunedin, New Zealand. The questions about alcohol are asked as part of the day-long assessment.; PARTICIPANTS: Members of a longitudinal survey cohort at ages 18 and 21 years. Data from 630 beer drinking participants were analysed in this study.; MEASUREMENTS: Responses to questions about beer consumption, liking for advertising, favourite brand of beer and self-reports of alcohol-related aggressive behaviour.; FINDINGS: Our hypothesized model assumed a positive impact of liking of alcohol advertising and brand allegiance at age 18 on the volume of beer consumed at age 21 and self-reports of alcohol-related aggressive behaviour. This was found to be a good fit to the data from the longitudinal study.; CONCLUSION: This measurable impact of alcohol advertising occurred during a time of decline in aggregate alcohol in New Zealand. While this effect was not large enough to halt the decline in aggregate alcohol consumption it does indicate a measurable, specific impact of broadcast alcohol advertising on alcohol consumption and related behaviour which is of relevance for public health policy. 
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1046/j.1360-0443.1998.93812099.x
+UT MEDLINE:9813902
+ER
+
+PT J
+AN 12410783
+TI Trajectories of drinking from 18 to 26 years: identification and prediction.
+AU Casswell, Sally
+   Pledger, Megan
+   Pratap, Sarah
+SO Addiction (Abingdon, England)
+VL 97
+IS 11
+PS 1427-37
+PY 2002
+PD 2002 Nov
+AB OBJECTIVE: To identify developmental trajectories of drinking between the ages of 18 and 26 years and to identify variables, amenable to policy influence, which predict these trajectories.; DESIGN: Longitudinal data were analysed using latent class mixture modelling.; SETTING: Participants were interviewed in a central location.; PARTICIPANTS: Provincial city birth cohort, cross-national studies suggest findings are generalizable to other similar market economies.; MEASUREMENTS: The frequency of drinking over the past year and the typical quantity consumed per drinking occasion were computed from five location-specific questions. Measures used to predict membership of trajectory groups were ease of access to alcohol, drinking on licensed premises, response to alcohol advertising, educational achievement, parental consumption, age of onset of regular drinking and living arrangements.; RESULTS: Three trajectories of quantities consumed showed reduced consumption after age 21 but one trajectory showed marked increases. Three trajectories of frequency of drinking increased or remained stable over time. Access to licensed premises at age 18 had the most significant impact on membership of the trajectory groups and educational achievement had a significant impact on membership of the heavier quantity trajectory groups. Parental alcohol consumption, access to alcohol at 15 years, liking for alcohol advertising, living arrangement and age of onset of regular drinking also influenced trajectory membership.; CONCLUSIONS: Quantity and frequency of drinking in adolescence and early adulthood had different trajectories. Membership of heavier drinking groups was affected by environmental influences which are subject to policy change, particularly that of earlier access to licensed premises. In a small group high-quantity consumption did not decrease at age 26. 
+RI Pledger, Megan/B-6696-2012
+OI Pledger, Megan/0000-0003-1669-8346
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1046/j.1360-0443.2002.00220.x
+UT MEDLINE:12410783
+ER
+
+PT J
+AN 17531759
+TI Early adolescent exposure to alcohol advertising and its relationship to underage drinking.
+AU Collins, Rebecca L
+   Ellickson, Phyllis L
+   McCaffrey, Daniel
+   Hambarsoomians, Katrin
+SO The Journal of adolescent health : official publication of the Society for Adolescent Medicine
+VL 40
+IS 6
+PS 527-34
+PY 2007
+PD 2007 Jun (Epub 2007 Apr 12)
+AB PURPOSE: To determine whether early adolescents who are exposed to alcohol marketing are subsequently more likely to drink. Recent studies suggest that exposure to alcohol ads has a limited influence on drinking in mid-adolescence. Early adolescents may be more vulnerable to alcohol advertising effects.; METHODS: Two in-school surveys of 1786 South Dakota youth measured exposure to television beer advertisements, alcohol ads in magazines, in-store beer displays and beer concessions, radio-listening time, and ownership of beer promotional items during 6th grade, and drinking intentions and behavior at 7th grade. Multivariate regression equations predicted the two drinking outcomes using the advertising exposure variables and controlling for psychosocial factors and prior drinking.; RESULTS: After adjusting for covariates, the joint effect of exposure to advertising from all six sources at grade 6 was strongly predictive of grade 7 drinking and grade 7 intentions to drink. Youth in the 75th percentile of alcohol marketing exposure had a predicted probability of drinking that was 50% greater than that of youth in the 25th percentile.; CONCLUSIONS: Although causal effects are uncertain, policy makers should consider limiting a variety of marketing practices that could contribute to drinking in early adolescence. 
+SN 1879-1972
+JC 9102136
+SA MEDLINE
+PE 12 Apr 2007
+DI 10.1016/j.jadohealth.2007.01.002
+UT MEDLINE:17531759
+ER
+
+PT J
+AN 7804086
+TI Alcohol in the mass media and drinking by adolescents: a longitudinal study.
+AU Connolly, G M
+   Casswell, S
+   Zhang, J F
+   Silva, P A
+SO Addiction (Abingdon, England)
+VL 89
+IS 10
+PS 1255-63
+PY 1994
+PD 1994 Oct
+AB Data from a longitudinal study carried out in Dunedin, New Zealand, were used to investigate associations between alcohol consumption at age 18 years and alcohol-related mass media communications recalled at ages 13 and 15 years. The respondents' recall of alcohol-related mass media material were categorized as: commercial alcohol advertising, alcohol moderation messages or the portrayal of alcohol in entertainment. An additional media variable was the number of hours spent watching television. Non-media variables, such as peer approval of drinking, living situation and occupation (all at age 18 years) were also included in the analyses. The period between the interviews at ages 13 and 15 years saw an increase in the broadcast of commercial alcohol advertisements on television in New Zealand and this was reflected in an increase in the proportion of the mass media material recalled which was categorized as commercial advertising. At age 15 years television advertising, mostly for beer companies, was the predominant material recalled. No relationships were found between the commercial advertising and wine and spirits consumption, among either men or women, but young women who had watched more hours of television drank more wine/spirits. Among women there were two unexpected negative relationships between recall of alcohol in the media at age 13 years and beer consumption. However, among men there was a consistent positive relationship such that those who had recalled more alcohol advertisements at age 15 years drank larger quantities of beer at age 18 years. 
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1111/j.1360-0443.1994.tb03304.x
+UT MEDLINE:7804086
+ER
+
+PT J
+AN 15679753
+TI Does alcohol advertising promote adolescent drinking? Results from a longitudinal assessment.
+AU Ellickson, Phyllis L
+   Collins, Rebecca L
+   Hambarsoomians, Katrin
+   McCaffrey, Daniel F
+SO Addiction (Abingdon, England)
+VL 100
+IS 2
+PS 235-46
+PY 2005
+PD 2005 Feb
+AB AIMS: To examine the relationship between exposure to different forms of alcohol advertising and subsequent drinking among US adolescents and assess whether exposure to an alcohol and drug prevention program mitigates any such relationship.; DESIGN: Regression models with multiple control variables examined the relationship between exposure to alcohol advertising in grade 8 and grade 9 drinking for two groups of South Dakotan adolescents: (1) seventh-grade non-drinkers (n = 1206) and (2) seventh-grade drinkers (n = 1905). Interactions between the intervention program and the significant advertising predictors were tested.; SETTING: Forty-one middle schools in South Dakota, USA.; PARTICIPANTS: A total of 3111 seventh-graders followed through grade 9.; MEASUREMENTS: Advertising variables were constructed for four types of alcohol advertising-television, in-store displays, magazines and concession stands. Other predictors tested included measures tapping social influences, social bonds, problem behavior, alcohol beliefs, television exposure and demographics.; FINDINGS: For seventh-grade non-drinkers, exposure to in-store beer displays predicted drinking onset by grade 9; for seventh-grade drinkers, exposure to magazines with alcohol advertisements and to beer concession stands at sports or music events predicted frequency of grade 9 drinking. Although exposure to television beer advertising had a significant bivariate relationship with alcohol use for grade 7 non-drinkers, it was not a significant predictor of drinking for either group in multivariate analyses. Participation in the prevention program, ALERT Plus, reduced future drinking for both groups and counteracted the effect of in-store beer displays.; CONCLUSIONS: Several forms of alcohol advertising predict adolescent drinking; which sources dominate depends on the child's prior experience with alcohol. Alcohol prevention programs and policies should help children counter alcohol advertising from multiple sources and limit exposure to these sources. 
+SN 0965-2140
+JC 9304118
+SA MEDLINE
+DI 10.1111/j.1360-0443.2005.00974.x
+UT MEDLINE:15679753
+ER
+
+PT J
+AN 17909139
+TI Predictors of initiation of alcohol use among US adolescents: findings from a prospective cohort study.
+AU Fisher, Laurie B
+   Miles, Isa Williams
+   Austin, S Bryn
+   Camargo, Carlos A Jr
+   Colditz, Graham A
+SO Archives of pediatrics & adolescent medicine
+VL 161
+IS 10
+PS 959-66
+PY 2007
+PD 2007 Oct
+AB OBJECTIVE: To identify precursors of adolescent alcohol initiation and binge drinking.; DESIGN: Prospective cohort study.; SETTING: Self-report questionnaires.; PARTICIPANTS: A total of 5511 Growing Up Today Study participants aged 11 to 18 years in 1998. Main Exposures Individual, family, and social factors.; MAIN OUTCOME MEASURES: First whole drink of alcohol and binge drinking.; RESULTS: Between 1998 and 1999, 611 girls (19%) and 384 boys (17%) initiated alcohol use. Older age, later maturational stage, smoking, adults drinking in the home, underage sibling drinking, peer drinking, possession of or willingness to use alcohol promotional items, and positive attitudes toward alcohol were associated with an increased likelihood of alcohol initiation. Girls who ate family dinner at home every day were less likely to initiate alcohol use than girls who ate family dinner only on some days or never (odds ratio, 0.66; 95% confidence interval, 0.50-0.87). Girls with higher social self-esteem and boys with higher athletic self-esteem were more likely to initiate alcohol use than those with lower self-esteem. Among teens who initiated alcohol use, 149 girls (24%) and 112 boys (29%) further engaged in binge drinking. Among girls, positive attitudes toward alcohol, underage sibling drinking, and possession of or willingness to use alcohol promotional items were associated with binge drinking; among boys, positive attitudes toward alcohol and older age were associated with binge drinking.; CONCLUSIONS: Eating family dinner at home every day may delay alcohol uptake among some adolescents. Alcohol promotional items appear to encourage underage alcohol initiation and binge drinking; this may warrant marketing restrictions on the alcohol industry. 
+RI Colditz, Graham A/A-3963-2009; Camargo, Carlos A./C-2145-2008
+OI Colditz, Graham A/0000-0002-7307-0291; Camargo, Carlos A./0000-0002-5071-7654
+SN 1072-4710
+JC 9422751
+SA MEDLINE
+DI 10.1001/archpedi.161.10.959
+UT MEDLINE:17909139
+ER
+
+PT J
+AN 18821879
+TI Longitudinal study of parental movie restriction on teen smoking and drinking in Germany.
+AU Hanewinkel, Reiner
+   Morgenstern, Matthis
+   Tanski, Susanne E
+   Sargent, James D
+SO Addiction (Abingdon, England)
+VL 103
+IS 10
+PS 1722-30
+PY 2008
+PD 2008 Oct
+AB AIMS: To determine if adolescents who report that their parents restrict viewing movies based on rating have a lower risk of trying smoking and drinking alcohol in the future.; DESIGN: Prospective observational study. A cohort of 2110 German adolescents younger than 15 years who had never smoked or drunk alcohol at baseline were surveyed 12-13 months later to determine smoking and binge drinking initiation. Risk of substance use was assessed as a function of parental restriction on viewing FSK-16 movies (movies that only those aged 16 years and over would be allowed to see in theaters).; FINDINGS: The percentage of students who tried smoking was 16.3%, 10.9% initiated binge drinking and 5.0% used both substances during the follow-up period. There was a significant effect of parental movie restriction on each substance use outcome measure after controlling for covariates. Compared with adolescents whose parents never allowed them to view FSK-16 movies, the adjusted relative risk [(RR) (95% confidence interval (CI)] for use of both substances were 1.64 (1.05-2.58) for adolescents allowed to view them once in a while, 2.30 (1.53-3.45) for sometimes and 2.92 (1.83-4.67) for all the time. FSK-16 restrictions were associated with lower viewership of all classes of movies, but especially FSK-16/18 movies; in addition, FSK-16 restrictions were associated with substantially lower exposure to movie depiction of tobacco and alcohol use, suggesting a mediational mechanism for the association.; CONCLUSIONS: Among young adolescents, parental restriction from viewing movies rated for older adolescents/adults decreases the risk of substance use in the future. 
+RI Sargent, James D/I-2773-2013
+OI Hanewinkel, Reiner/0000-0002-7163-5738
+SN 1360-0443
+JC 9304118
+SA MEDLINE
+DI 10.1111/j.1360-0443.2008.02308.x
+UT MEDLINE:18821879
+ER
+
+PT J
+AN 18155027
+TI Receptivity to alcohol marketing predicts initiation of alcohol use.
+AU Henriksen, Lisa
+   Feighery, Ellen C
+   Schleicher, Nina C
+   Fortmann, Stephen P
+SO The Journal of adolescent health : official publication of the Society for Adolescent Medicine
+VL 42
+IS 1
+PS 28-35
+PY 2008
+PD 2008 Jan (Epub 2007 Oct 04)
+AB PURPOSE: This longitudinal study examined the influence of alcohol advertising and promotions on the initiation of alcohol use. A measure of receptivity to alcohol marketing was developed from research about tobacco marketing. Recall and recognition of alcohol brand names were also examined.; METHODS: Data were obtained from in-class surveys of sixth, seventh, and eighth graders at baseline and 12-month follow-up. Participants who were classified as never drinkers at baseline (n = 1,080) comprised the analysis sample. Logistic regression models examined the association of advertising receptivity at baseline with any alcohol use and current drinking at follow-up, adjusting for multiple risk factors, including peer alcohol use, school performance, risk taking, and demographics.; RESULTS: At baseline, 29% of never drinkers either owned or wanted to use an alcohol branded promotional item (high receptivity), 12% students named the brand of their favorite alcohol ad (moderate receptivity), and 59% were not receptive to alcohol marketing. Approximately 29% of adolescents reported any alcohol use at follow-up; 13% reported drinking at least 1 or 2 days in the past month. Never drinkers who reported high receptivity to alcohol marketing at baseline were 77% more likely to initiate drinking by follow-up than those were not receptive. Smaller increases in the odds of alcohol use at follow-up were associated with better recall and recognition of alcohol brand names at baseline.; CONCLUSIONS: Alcohol advertising and promotions are associated with the uptake of drinking. Prevention programs may reduce adolescents' receptivity to alcohol marketing by limiting their exposure to alcohol ads and promotions and by increasing their skepticism about the sponsors' marketing tactics. 
+SN 1879-1972
+JC 9102136
+SA MEDLINE
+PE 04 Oct 2007
+DI 10.1016/j.jadohealth.2007.07.005
+UT MEDLINE:18155027
+ER
+
+PT J
+AN 16530613
+TI Ownership of alcohol-branded merchandise and initiation of teen drinking.
+AU McClure, Auden C
+   Dal Cin, Sonya
+   Gibson, Jennifer
+   Sargent, James D
+SO American journal of preventive medicine
+VL 30
+IS 4
+PS 277-83
+PY 2006
+PD 2006 Apr
+AB BACKGROUND: The alcohol industry spends over $5 billion a year on marketing, much of which is accessible to children. The distribution of branded articles of clothing and other personal items is one aspect of alcohol marketing that has not been adequately studied. In this study, the prevalence of ownership of alcohol-branded merchandise (ABM) was determined in a sample of rural northern New England adolescents, and the relationship between ownership of such items and initiation of alcohol use was examined.; DESIGN/METHODS: Northern New England middle school students who had not yet initiated alcohol use were captured at baseline in a 1999 school-based survey, and ownership of an ABM item and initiation of alcohol use were determined 1 to 2 years later by telephone. The analysis controlled for demographics (gender, grade in school); characteristics of the child (school performance, sensation seeking, rebelliousness); parenting style; and peer alcohol use.; RESULTS: Of 2406 baseline never-drinkers, 15% had initiated alcohol use and 14% owned an ABM item by follow-up. ABM items consisted primarily of articles of clothing such as t-shirts and hats. ABM ownership was associated with higher grade in school, male gender, exposure to peer drinking, having tried smoking, poorer academic performance, higher levels of sensation seeking and rebelliousness, and less-responsive and restrictive parenting styles. Owners of ABM items at follow-up had higher rates of alcohol initiation compared with non-owners (25.5% vs 13.1%, respectively, p<0.001). After adjusting for the above confounders, students who owned an ABM item were significantly more likely to have initiated alcohol use compared with students who did not own one (adjusted odds ratio 1.5, 95% confidence interval, 1.1-2.0).; CONCLUSIONS: In this northern New England adolescent sample, ownership of alcohol-branded merchandise was prevalent and exhibited an independent cross-sectional association with onset of adolescent drinking. Further studies are necessary to determine whether the relationship is causal, and whether teen use of ABM items influences peer drinking norms and behavior. 
+RI Sargent, James D/I-2773-2013
+SN 0749-3797
+JC 8704773
+SA MEDLINE
+DI 10.1016/j.amepre.2005.11.004
+UT MEDLINE:16530613
+ER
+
+PT J
+AN 17568965
+TI Outdoor alcohol advertising near schools: what does it advertise and how is it related to intentions and use of alcohol among young adolescents?
+AU Pasch, Keryn E
+   Komro, Kelli A
+   Perry, Cheryl L
+   Hearst, Mary O
+   Farbakhsh, Kian
+SO Journal of studies on alcohol and drugs
+VL 68
+IS 4
+PS 587-96
+PY 2007
+PD 2007 Jul
+AB OBJECTIVE: The objectives of this study were to (1) document and describe all outdoor alcohol advertisements surrounding schools and (2) examine the association between exposure to alcohol advertising in sixth grade and youth alcohol use, intentions, norms, and attitudes in eighth grade.; METHOD: All outdoor alcohol advertisements within 1,500 feet of 63 Chicago school sites were documented and coded for content and theme. Longitudinal mixed-effects regression analysis was used to determine the association between number of alcohol advertisements around a school in sixth grade and student alcohol behaviors, intentions, norms, and attitudes at the end of eighth grade, 2 years later. Participants included 2,586 sixth-grade students in the 2002-2003 school year. The sample was 37% black, 33% Hispanic, and 15% white. Gender was evenly distributed, and the average age was 12.2 at the end of sixth grade.; RESULTS: A total of 931 alcohol advertisements were found within 1,500 feet of the 63 school sites. Exposure to alcohol advertising around schools at the end of sixth grade was found to predict alcohol intentions at the end of eighth grade. This finding held true even for those students who were nonusers of alcohol in sixth grade.; CONCLUSIONS: Exposure to outdoor alcohol advertising around schools is associated with subsequent youth intentions to use alcohol. The association between exposure to alcohol advertising and youth alcohol-use intentions was found even among sixth-grade nonusers of alcohol, suggesting that even those who have not used alcohol are still influenced by alcohol advertising. These findings suggest that restrictions in alcohol advertising near schools may be warranted. 
+RI Komro, Kelli/D-7570-2013
+SN 1937-1888
+JC 101295847
+SA MEDLINE
+DI 10.15288/jsad.2007.68.587
+UT MEDLINE:17568965
+ER
+
+PT J
+AN 9794984
+TI Television and music video exposure and risk of adolescent alcohol use.
+AU Robinson, T N
+   Chen, H L
+   Killen, J D
+SO Pediatrics
+VL 102
+IS 5
+PS E54
+PY 1998
+PD 1998 Nov
+AB OBJECTIVE: Alcohol use is frequently portrayed in television programming and advertising. Exposure to media portrayals of alcohol use may lead to increased drinking. To address this issue, we examined prospectively the associations between media exposure and alcohol use in adolescents.; DESIGN: Prospective cohort study. Setting. Six public high schools in San Jose, California. Participants. Ninth-grade students (N = 1533; mean age = 14.6 years).; OUTCOME MEASURES: Students reported hours of television, music video, and videotape viewing; computer and video game use; and lifetime and past 30 days' alcohol use at baseline and 18 months later. Associations between baseline media exposure and subsequent alcohol use were examined with multiple logistic regression.; RESULTS: During the 18-month follow-up, 36.2% of baseline nondrinkers began drinking and 50.7% of baseline drinkers continued to drink. Onset of drinking was significantly associated with baseline hours of television viewing (odds ratio [OR] = 1.09; 95% confidence interval [95% CI] = 1.01-1.18), music video viewing (OR = 1.31; 95% CI = 1. 17-1.47), and videotape viewing (OR = 0.89; 95% CI = 0.79-0.99), controlling for age, sex, ethnicity, and other media use. Computer and video game use was not significantly associated with the subsequent onset of drinking. Among baseline drinkers, there were no significant associations between baseline media use and maintenance of drinking.; CONCLUSIONS: Increased television and music video viewing are risk factors for the onset of alcohol use in adolescents. Attempts to prevent adolescent alcohol use should address the adverse influences of alcohol use in the media. 
+SN 1098-4275
+JC 0376422
+SA MEDLINE
+DI 10.1542/peds.102.5.e54
+UT MEDLINE:9794984
+ER
+
+PT J
+AN 16536129
+TI Alcohol use in motion pictures and its relation with early-onset teen drinking.
+AU Sargent, James D
+   Wills, Thomas A
+   Stoolmiller, Mike
+   Gibson, Jennifer
+   Gibbons, Frederick X
+SO Journal of studies on alcohol
+VL 67
+IS 1
+PS 54-65
+PY 2006
+PD 2006 Jan
+AB OBJECTIVE: Little is known about the impact of viewing depictions of alcohol in entertainment media on adolescent drinking behavior. Our aims were to assess drinking in a sample of popular contemporary movies and to examine the association of movie alcohol exposure with early-onset drinking in an adolescent sample.; METHOD: We conducted a school-based cross-sectional survey (N=4655) with longitudinal follow-up of never-drinkers (N=2406) involving adolescents ages 10-14 years and recruited from 15 New Hampshire and Vermont schools. Screen depictions of alcohol use were timed for each of 601 popular contemporary movies. Each adolescent was asked if he/she had seen a unique list of 50 movie titles, randomly selected from the larger pool. Movie alcohol use was summed for movies the adolescent had seen, adjusted to reflect exposure to the larger pool and modeled as a continuous variable.; RESULTS: Ninety-two percent of the movies in the sample depicted drinking; median screen time for movie alcohol use was 2.5 minutes (interquartile range [IQR]: 0.9-5.0 minutes). Median exposure to movie alcohol use from the 601 movies was 8.6 hours (IQR: 4.6-13.5 hours). Overall 23.1% of the cross-sectional sample had tried alcohol, and 14.8% of initial nondrinkers had tried alcohol at the follow-up assessment. We found statistical evidence to support a curvilinear association between higher exposure to movie alcohol use and increased risk of prevalent and incident alcohol use, with a statistically significant linear and quadratic effect, and suggesting a higher dose-effect relationship at lower movie alcohol exposure levels compared to higher levels. The linear and the quadratic associations remained strong and significant in cross-sectional and prospective models after controlling for sociodemographics (grade in school, school, gender, parent education), personality characteristics of the adolescent (sensation seeking, rebelliousness, self-esteem), school performance, parenting style, and smoking experimentation, suggesting that exposure to movie alcohol use is an independent risk factor for early-onset alcohol use.; CONCLUSIONS: This study provides the first evidence for an association between exposure to movie alcohol use and early-onset teen drinking. The association is moderate in effect size and independent of a number of potential confounders. Because exposure to movie alcohol use is common, it may have important population implications as a potentially modifiable risk factor. 
+RI Sargent, James D/I-2773-2013
+SN 0096-882X
+JC 7503813
+SA MEDLINE
+DI 10.15288/jsa.2006.67.54
+UT MEDLINE:16536129
+ER
+
+PT J
+AN 16389206
+TI Effects of alcohol advertising exposure on drinking among youth.
+AU Snyder, Leslie B
+   Milici, Frances Fleming
+   Slater, Michael
+   Sun, Helen
+   Strizhakova, Yuliya
+SO Archives of pediatrics & adolescent medicine
+VL 160
+IS 1
+PS 18-24
+PY 2006
+PD 2006 Jan
+AB OBJECTIVE: To test whether alcohol advertising expenditures and the degree of exposure to alcohol advertisements affect alcohol consumption by youth.; DESIGN: Longitudinal panel using telephone surveys.; SETTING: Households in 24 US media markets, April 1999 to February 2001.; PARTICIPANTS: Individuals aged 15 to 26 years were randomly sampled within households and households within media markets. Markets were systematically selected from the top 75 media markets, representing 79% of the US population. The baseline refusal rate was 24%. Sample sizes per wave were 1872, 1173, 787, and 588. Data on alcohol advertising expenditures on television, radio, billboards, and newspapers were collected.; MAIN EXPOSURES: Market alcohol advertising expenditures per capita and self-reported alcohol advertising exposure in the prior month.; MAIN OUTCOME MEASURE: Self-reported number of alcoholic drinks consumed in the prior month.; RESULTS: Youth who saw more alcohol advertisements on average drank more (each additional advertisement seen increased the number of drinks consumed by 1% [event rate ratio, 1.01; 95% confidence interval, 1.01-1.02]). Youth in markets with greater alcohol advertising expenditures drank more (each additional dollar spent per capita raised the number of drinks consumed by 3% [event rate ratio, 1.03; 95% confidence interval, 1.01-1.05]). Examining only youth younger than the legal drinking age of 21 years, alcohol advertisement exposure and expenditures still related to drinking. Youth in markets with more alcohol advertisements showed increases in drinking levels into their late 20s, but drinking plateaued in the early 20s for youth in markets with fewer advertisements. Control variables included age, gender, ethnicity, high school or college enrollment, and alcohol sales.; CONCLUSION: Alcohol advertising contributes to increased drinking among youth. 
+RI Slater, Michael/A-5450-2011; Slater, Michael D/A-6994-2008
+OI Slater, Michael/0000-0003-4279-346X; Slater, Michael D/0000-0003-4279-346X
+SN 1072-4710
+JC 9422751
+SA MEDLINE
+DI 10.1001/archpedi.160.1.18
+UT MEDLINE:16389206
+ER
+
+PT J
+AN 15569584
+TI Exposure to televised alcohol ads and subsequent adolescent alcohol use.
+AU Stacy, Alan W
+   Zogg, Jennifer B
+   Unger, Jennifer B
+   Dent, Clyde W
+SO American journal of health behavior
+VL 28
+IS 6
+PS 498-509
+PY 2004
+PD 2004 
+AB OBJECTIVE: To assess the impact of televised alcohol commercials on adolescents' alcohol use.; METHODS: Adolescents completed questionnaires about alcohol commercials and alcohol use in a prospective study.; RESULTS: A one standard deviation increase in viewing television programs containing alcohol commercials in seventh grade was associated with an excess risk of beer use (44%), wine/liquor use (34%), and 3-drink episodes (26%) in eighth grade. The strength of associations varied across exposure measures and was most consistent for beer.; CONCLUSIONS: Although replication is warranted, results showed that exposure was associated with an increased risk of subsequent beer consumption and possibly other consumption variables. 
+RI Stacy, Alan W/G-5406-2016
+OI Unger, Jennifer/0000-0001-9064-6603
+SN 1087-3244
+JC 9602338
+SA MEDLINE
+UT MEDLINE:15569584
+ER
+
+PT J
+AN 15699054
+TI Television and music video exposure and adolescent alcohol use while going out.
+AU van den Bulck, Jan
+   Beullens, Kathleen
+SO Alcohol and alcoholism (Oxford, Oxfordshire)
+VL 40
+IS 3
+PS 249-53
+PY 2005
+PD 2005  (Epub 2005 Feb 07)
+AB AIMS: To examine whether television viewing and music video exposure predict alcohol consumption while going out.; METHODS: Data were collected in two waves (February 2003 and February 2004). Respondents were a random sample of 1648 first and fourth year secondary school children of Flanders, Belgium. Self-reported general TV viewing and music video exposure at time 1 and the quantity of alcohol consumed while going out at time 2 were measured. Controls were gender, age group, smoking behaviour, and alcohol use (at time 1) and pubertal status (at time 2).; RESULTS: Overall television viewing per day and music television viewing at time 1 significantly predicted the amount of alcoholic beverages adolescents consumed while going out at time 2. These results remained significant after controlling for alcohol use at time 1, gender, smoking, and pubertal status.; CONCLUSIONS: TV viewing habits are a significant predictor of alcohol consumption while going out. TV viewing might cause an increase in alcohol consumption or might be an early symptom of developing alcohol habits. 
+RI Beullens, Kathleen/F-9005-2010; Van den Bulck, Jan/F-8770-2010; Van den Bulck, Jan/O-3168-2019
+OI Van den Bulck, Jan/0000-0003-0885-0854; Van den Bulck, Jan/0000-0003-0885-0854; Beullens, Kathleen/0000-0002-0530-7947
+SN 0735-0414
+JC 8310684
+SA MEDLINE
+PE 07 Feb 2005
+DI 10.1093/alcalc/agh139
+UT MEDLINE:15699054
+ER
+
+EF
