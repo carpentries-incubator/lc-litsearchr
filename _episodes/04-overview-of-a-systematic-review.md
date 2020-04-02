@@ -17,8 +17,9 @@ objectives:
 - "Identify different ways in which automation can facilitate the systematic review process"
 
 keypoints:
-- 
-- 
+- "Systematic reviews differ from traditional literature reviews in a number of significant ways"
+- "Systematic review methods strive to reduce bias and increase reproducibility and transparency"
+- "Automation and coding software like R can be used to facilitate parts of the systematic review process"
 ---
 
 ## Systematic reviews defined
@@ -27,20 +28,21 @@ Systematic reviews are comprehensive literature reviews conducted using establis
 
 Systematic reviews differ from traditional, 'narrative' literature reviews in the following ways:
 
-- The review question is focused, well-defined and specific as opposed to broad or open-ended with vaguely defined concepts.
-- Searches for studies are exhaustive, cover many databases and include both peer-reviewed and gray literature sources. Searches in narrative reviews are often non-exhaustive and only include a few sources.
-- Searches are reported and well-documented such that they can be reproduced at a later date by other researchers.
-Studies are selected based on pre-specified, well-defined criteria. - Narrative reviews often include 'cherry-picked' studies already known to the author.
-- Included studies are assessed for study quality and potential biases, and weighted accordingly in the analysis. 
-- Analysis may include meta-analytical quantitative methods, as opposed to narrative reviews, which tend to be more qualitative and lack an assessment of study quality.
-
+| Systematic Reviews | Traditional Literature Reviews |
+| ------------------ | ------------------------------ |
+| The review question is focused, well-defined and specific | The review question is broad or open-ended with vaguely defined concepts |
+| Searches for studies are exhaustive, cover many databases and include both peer-reviewed and gray literature sources | Searches in narrative reviews are often non-exhaustive and only include a few sources |
+| Searches are reported and well-documented such that they can be reproduced at a later date by other researchers | The method to find studies is often vague if reported at all |
+| Studies are selected based on pre-specified, well-defined criteria | Study selection usually involves  a 'cherry-picking' approach including studies already known to the author |
+| Included studies are assessed for study quality and potential biases, and weighted accordingly in the analysis | Included studies are usually not assessed for quality or bias |
+| Analysis may include meta-analytical quantitative methods | Analysis tends to be more qualitative in nature |
 
 
 ## The steps in a systematic review
 
 A systematic review begins with a well-defined research question. The figure below indicates the step-by-step process used to search for studies, identify studies for inclusion, carry out analyses and report findings. 
 
-[insert Figure here]
+![SR Process image] (../assets/img/SR-process.png)
 
 ## The role of an  information expert 
 
@@ -58,5 +60,7 @@ Systematic reviews are intensive, time-consuming projects often involving multi-
 
 The R package litsearchr provides a method to facilitate the harvesting of search terms to develop comprehensive search strategies, and to automatically create Boolean searches from lists of keywords, including incorporation of truncation and phrases.
 
-
-
+>## Think-Pair-Share: Pros and Cons of automation
+>
+>Think about the steps of a systematic review. What steps of the review process could benefit from automation? Are there any  negative impacts to automating parts of the systematic review process? Share your thoughts with a partner, and then share with the rest of the group.
+{: .challenge}
