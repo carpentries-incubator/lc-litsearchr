@@ -119,7 +119,7 @@ dir.create("scripts")
 # Download the data for this lesson
 For this lesson we will be using a...
 
-Place this downloaded file in the `data/` you just created. You can do this by opening your downloads folder, locating the file you just downloaded, and dragging and dropping it into your newly created R Project folder. You can also do this directly from R by copying and pasting this in your terminal:
+Place this downloaded file in the `search_results_data` folder you just created in your working directory. You can do this by opening your downloads folder, locating the file you just downloaded, and dragging and dropping it into your newly created R Project folder. You can also do this directly from R by copying and pasting this in your terminal:...
 
 ~~~
 download.file(ENTER IN URL)
