@@ -154,7 +154,12 @@ install.packages("tidyverse")
 
 was written to the console. 
 
-You could also have installed the **`tidyverse`** or **`devtools`** packages by running this command directly at the R terminal. 
+You could also have installed the **`tidyverse`** packages by running this command directly at the R terminal. For install the **`devtools`** packages the command would look like this:
+
+~~~
+install.packages("devtools")
+~~~
+{: .language-r}
 
 # Interacting with R
 You can use R like a calculator when you type *expressions* into the prompt, and press the Crtl + Enter keys (Windows & Linux) or Cmd+Return keys (Mac) to *evaluate* those expressions. Whenever you see the word `Enter` in the following steps of this lesson use the keys that work for your operating system in its place. 
