@@ -46,8 +46,14 @@ sum(3, 4, na.rm = TRUE)
 
 Functions can be nested within each other. For example, `sqrt()` takes the square root of the number provided in the function call. Therefore you can run `sum(sqrt(9), 4)` to take the sum of the square root of 9 (3) and add it to 4. Or you could write the quadratic formula: `[(-b) + sqrt((b^2) - 4ac)] / (2*a)`.
 
+## A Vector
+A vector is a basic data structure in R. It contains elements of the same type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object.
+
+Try creating a simple character vector with this line of code.
+```
+
 ## The `View()` function
-Use this to open a tab in the Script Pane (upper left) to view your data. I use this all the time. You can also click on the variable name in the Environment Pane (upper right) to do the same thing. 
+Use this to open a tab in the Script Pane (upper left) to view your data. You can also click on the variable name in the Environment Pane (upper right) to do the same thing. 
 
 ```{r view, comment=NA, eval = F, tidy=F}
 myDogs <- data.frame("breed" = c("beagle", "pug", "chihuahua")
