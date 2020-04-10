@@ -49,11 +49,25 @@ Functions can be nested within each other. For example, `sqrt()` takes the squar
 ## A Vector
 A vector is a basic data structure in R. It contains elements of the same type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object.
 
-Try creating a simple character vector with this line of code.
+Let's create a vector to work with.
+~~~
+myDogs <- c("breed" = c("beagle", "pug", "chihuahua"), "shedding" = c("moderate", "high", "low"))
+~~~
+
+## The `c()` function
+Another important function is `c()` which will combine arguments to form a vector. In some programs, such as Excel, this is called *concatenation*. If you read the help files for `c()` by calling `help(c)`, you can see that it takes an unlimited `. . .` number of arguments.
+
+```{r function2, comment=NA, eval = F}
+# use c() to combine three numbers into a vector, myFives
+myFives <- c(5, 10, 15)
+ 
+# adding 5 will operate on each element of the vector. More on vectors below.
+myFives + 5
+## [1] 10 15 20
 ```
 
 ## The `View()` function
-Use this to open a tab in the Script Pane (upper left) to view your data. You can also click on the variable name in the Environment Pane (upper right) to do the same thing. 
+Use this to open a tab in the Script Pane (upper left) to view your data. You can also click on the variable name in the Environment Pane (upper right) to do the same thing. (More on data frames below).
 
 ```{r view, comment=NA, eval = F, tidy=F}
 myDogs <- data.frame("breed" = c("beagle", "pug", "chihuahua")
@@ -68,26 +82,7 @@ Type `?str` into the console to read the description of the `str` function. You 
 str(sum)
 
 # using str on an R object will give you information about that object
-
-
 ```
-
-## The `c()` function
-Another important function is `c()` which will combine arguments to form a vector (more on vectors below). In some programs, such as Excel, this is called *concatenation*. If you read the help files for `c()` by calling `help(c)`, you can see that it takes an unlimited `. . .` number of arguments.
-
-```{r function2, comment=NA, eval = F}
-# use c() to combine three numbers into a vector, myFives
-myFives <- c(5, 10, 15)
-
-# call str() to see that myFives is a numeric vector of length 3
-str(myFives)
-## num [1:3] 5 10 15
- 
-# adding 5 will operate on each element of the vector. More on vectors below.
-myFives + 5
-## [1] 10 15 20
-```
-
 
 # Data frames
 A data frame is the term in R for a spreadsheet style of data: a grid of rows and columns. The number of columns and rows is virtually unlimited, but each column must be a vector of the same length. A dataframe can comprise heterogeneous data: in other words, each column can be a different data type. However, because a column is a vector, it has to be a single data type. 
