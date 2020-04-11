@@ -16,40 +16,13 @@ keypoints:
 - 
 ---
 
-# Calling a function
+# A Function
 R is a "functional programming language," meaning it contains a number of *functions* you use to do something with your data. *Call* a function on a variable by entering the function into the console, followed by parentheses and the variables. For example, if you want to take the sum of 3 and 4, you can type in `sum(3, 4)`. 
-
-## Function arguments
-Typing a question mark before a function will pull the help page up in the Navigation Pane in the lower right. Type `?sum` to view the help page for the `sum` function. You can also call `help(sum)`. This will provide the description of the function, how it is to be used, and the arguments. 
-
-In the case of `sum()`, the ellipses `. . .` represent an unlimited number of numeric elements. `sum()` also takes the argument `na.rm`. This is a logical (`TRUE/FALSE`) argument specifying if NA values (missing data) should be removed when the argument is evaluated.
-
-The function `is.function()` will check if an argument is a function in R. If it is a function, it will print `TRUE` to the console.
-
-```{r function1, comment=NA, eval = F}
-# confirm that sum is a function
-is.function(sum)
-## [1] TRUE
-
-# sum takes an unlimited number (. . .) of numeric elements
-sum(3, 4, 5, 6, 7)
-## [1] 25
-
-# evaluating a sum with missing values will return NA
-sum(3, 4, NA)
-## [1] NA
-
-# but setting the argument na.rm to TRUE will remove the NA
-sum(3, 4, na.rm = TRUE)
-## [1] 7
-```
-
-Functions can be nested within each other. For example, `sqrt()` takes the square root of the number provided in the function call. Therefore you can run `sum(sqrt(9), 4)` to take the sum of the square root of 9 (3) and add it to 4. Or you could write the quadratic formula: `[(-b) + sqrt((b^2) - 4ac)] / (2*a)`.
 
 ## A Vector
 A vector is a basic data structure in R. It contains elements of the same type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object.
 
-To create a vector you'll need to name it and have variables to form the vector, in this case dogs breeds and levels or shedding. Try creating this vector.
+To create a vector you'll need to name it and have variables to form the vector, in this case dog breeds and level of shedding. Try creating this vector by typing it into the console.
 ~~~
 myDogs <- c("breed" = c("beagle", "pug", "chihuahua")
                        , "shedding" = c("moderate", "high", "low"))
@@ -87,36 +60,78 @@ str(sum)
 
 # using str on an R object will give you information about that object
 ~~~
+## Subsetting vectors
+You can use the brackets to subset a vector. Brackets can take either numeric values (which will correspond to the element in the order it exists in the vector) or logical (T/F) values. You can also use functions such as `which()`, that return numeric values.
+
+```{r function4, comment=NA, eval = F}
+# state.name is a built in vector in R of all U.S. states
+state.name
+
+state.name[1]
+## [1] "Alabama"
+
+state.name[1:5]
+## [1] "Alabama"    "Alaska"     "Arizona"    "Arkansas"   "California"
+
+# You must use the `c()` function if you have more than one value
+state.name[1, 10, 20]
+## Error in state.name[1, 10, 20] : incorrect number of dimensions
+
+state.name[c(1, 10, 20)]
+## [1] "Alabama"  "Georgia"  "Maryland"
+
+# There's only one state called Alabama
+table(state.name == "Alabama")
+## FALSE  TRUE 
+##    49     1 
+
+# create a logical vector of state names where "Alabama" == TRUE. Notice you have to use two equals signs.
+myAlabamaIndex <- state.name == "Alabama"
+myAlabamaIndex
+## TRUE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+
+# subset state.name using that T/F index (will return the only value where myAlabamaIndex == TRUE)
+state.name[myAlabamaIndex]
+## [1] "Alabama"
+
+# create a logical vector of state names with more than 10 character names
+ten_characters <- nchar(state.name) > 10
+
+# you can find out which elements are TRUE values by using the `which()` function
+which(ten_characters)
+
+# subset state.names using `which()`
+ten_character_state.names <- state.name[ten_characters]
+
+ten_character_state.names
+## [1] "Connecticut"    "Massachusetts"  "Mississippi"    "New Hampshire"  "North Carolina" "North Dakota"   "Pennsylvania"  
+## [8] "Rhode Island"   "South Carolina" "South Dakota"   "West Virginia" 
+```
+---
 
 ## Data frames
 A data frame is the term in R for a spreadsheet style of data: a grid of rows and columns. The number of columns and rows is virtually unlimited, but each column must be a vector of the same length. A dataframe can comprise heterogeneous data: in other words, each column can be a different data type. However, because a column is a vector, it has to be a single data type. 
 
 ## Create a data frame
-You will likely be importing datasets, but it is easy to create a data frame on your own:
+You will likely be importing datasets, but it is easy to create a data frame on your own. 
 
+Let's create a data frame. First let's define three vectors using book titles, author names, number of library checkouts, and if the book is available to be checked out.
 ~~~
-# create three vectors
 title <- c("Macbeth","Dracula","1984")
 author <- c("Shakespeare","Stoker","Orwell")
 checkouts <- c(25, 15, 18)
 available <- c(TRUE, FALSE, FALSE)
-
-# create a data frame using the data.frame() function. Specify stringsAsFactors as FALSE
+~~~
+Now, we'll create a data frame called `ebooks`.
+~~~
 ebooks <- data.frame(title, author, checkouts, stringsAsFactors = F)
 ~~~
-
 You can print small data frames like this to the console using `print(ebooks)`
-~~~
+```{r dataframes2, comment=NA, eval = T, echo=F}
 title <- c("Macbeth","Dracula","1984")
 author <- c("Shakespeare","Stoker","Orwell")
 checkouts <- c(25, 15, 18)
-
-# create a data frame using the data.frame() function. Specify stringsAsFactors as FALSE
-ebooks <- data.frame(title, author, checkouts, stringsAsFactors = F)
-print(ebooks)
-~~~
-
-But for larger data frames, it's best to use the `View()` function: `View(ebooks)`. You can also use `head()` to see a preview (in this particular case, the data frame is too small to preview).
+```
 
 Excel users might be wondering: how do I click in a cell and edit it?! R doesn't work like that. If you want to manipulate values, it's best to do it with an expression in the R console, and have all modifications documented in your script. 
 
