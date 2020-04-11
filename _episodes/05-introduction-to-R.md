@@ -131,6 +131,10 @@ You can print small data frames like this to the console using `print(ebooks)`
 title <- c("Macbeth","Dracula","1984")
 author <- c("Shakespeare","Stoker","Orwell")
 checkouts <- c(25, 15, 18)
+
+# create a data frame using the data.frame() function. Specify stringsAsFactors as FALSE
+ebooks <- data.frame(title, author, checkouts, stringsAsFactors = F)
+print(ebooks)
 ```
 
 Excel users might be wondering: how do I click in a cell and edit it?! R doesn't work like that. If you want to manipulate values, it's best to do it with an expression in the R console, and have all modifications documented in your script. 
