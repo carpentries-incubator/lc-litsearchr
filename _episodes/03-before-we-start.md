@@ -117,23 +117,49 @@ dir.create("scripts")
 {: .language-r}
 
 # Download the data for this lesson
-For this lesson we will be using a...
+For this lesson we will be using a ...
 
-Place this downloaded file in the `data/` you just created. You can do this by opening your downloads folder, locating the file you just downloaded, and dragging and dropping it into your newly created R Project folder. You can also do this directly from R by copying and pasting this in your terminal:
+Go to the Figshare page for this curriculum (https://doi.org/10.6084/m9.figshare.12098595.v1), and download the dataset called "`anderson_refs`". 
 
-~~~
-download.file(ENTER IN URL)
-~~~
-{: .language-r}
+Place this downloaded file in the `search_results_data` folder you just created in your working directory. You can do this by opening your computer's downloads folder, locating the file you just downloaded ("`anderson_refs`"), and dragging and dropping it into your newly created R Project folder ("`search_results_data`"). 
 
 # Installing packages
-There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as...
+There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as tidyverse and devtools.
 
 # Excercise
 > Install the 'tidyverse' and the 'devtools' packages. 
 >
 > > ## Soltuion
-> > From the...
+> > From the packages tab, click ‘Install’ from the toolbar and type ‘tidyverse’ into the textbox then click ‘install’
+
+> > The ‘tidyverse’ package is really a package of packages, including 'ggplot2' and 'dplyr', both of which require other packages to run correctly. All of these packages will be installed automatically. 
+
+> > Depending on what packages have previously been installed in your R environment, the install of ‘tidyverse’ could be very quick or could take several minutes.
+
+> > As the install proceeds messages relating to the progress will be written to the console. You will be able to see all of the packages which are actually being installed.
+
+> > Repeat the same steps for the "devtools" package.
+> {: .solution}
+
+## Installing additional packages using R code
+
+If you were watching the console window when you starting the
+install of ‘tidyverse’ you may have noticed that before the start
+of the installation messages, the line
+
+~~~
+install.packages("tidyverse")
+~~~
+{: .language-r}
+
+was written to the console. 
+
+You could also have installed the **`tidyverse`** packages by running this command directly at the R terminal. For install the **`devtools`** packages the command would look like this:
+
+~~~
+install.packages("devtools")
+~~~
+{: .language-r}
 
 # Interacting with R
 You can use R like a calculator when you type *expressions* into the prompt, and press the Crtl + Enter keys (Windows & Linux) or Cmd+Return keys (Mac) to *evaluate* those expressions. Whenever you see the word `Enter` in the following steps of this lesson use the keys that work for your operating system in its place. 
