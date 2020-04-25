@@ -16,11 +16,23 @@ keypoints:
 - 
 ---
 
+# R Scripting
+R is primarily a scripting language, and written line-by-line. This can be quite useful; scripts can be assembled and built upon as you go into more substantial programs or compilations for analysis, but still editable at each line. There is no need to rerun the whole script in order to change a line of code. 
+
+# R Packages
+Many useful R code is written by the community through a variety of R packages available through CRAN (the Comprehensive R Archive Network), and other repositories. The ease with which packages can be developed, released, and shared has played a large role in R's popularity. R packages can be thought of as libraries for other languages, as they contain related functions designed to work together. Packages are often created to streamline a common workflow.
+
+# R Workflows
+The strength of R is in it's interactive data analysis. A related strength, with packages like *knitr* and *R Markdown*, is in making the process and results easy to reproduce and share with others. 
+
+# Data Structures
+Data in R are stored in variables and each variable is a container for data in a particular structure. There are four data structures most commonly used in R: vectors, matrices, data frames, and lists.
+
 # A Function
 R is a "functional programming language," meaning it contains a number of *functions* you use to do something with your data. *Call* a function on a variable by entering the function into the console, followed by parentheses and the variables. For example, if you want to take the sum of 3 and 4, you can type in `sum(3, 4)`. 
 
 ## A Vector
-A vector is a basic data structure in R. It contains elements of the same type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object.
+A vector is the most basic data structure in R. It contains elements of the same type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object.
 
 To create a vector you'll need to name it and have variables to form the vector, in this case dog breeds and level of shedding. Try creating this vector by typing it into the console.
 ~~~
@@ -52,7 +64,9 @@ View(myDogs)
 ~~~
 
 ## The `str()` function
-Type `?str` into the console to read the description of the `str` function. You can call `str()` on an R object to compactly display information about it, including the data type, the number of elements, and a printout of the first few elements. We are going to use `str` in the following sections to investigate R objects, vectors, and data types.
+When working with a dataset, many functions have alternative paths for variables of different types. The easiest way to query the structure of an R variable is using `str()`. The `str()` function will return the type of structure (data frame, list, vector, matrix, etc.), and its dimensions, including the number of columns (variables) and the number of rows (observations). Along with the Environment tab in RStudio, the `str()` function is a convenient way to keep track of changes as variables are processed.
+
+Try typing in `?str` into the console to read the full description of the `str` function.
 
 ~~~
 # using str on a function will tell you what arguments it takes
@@ -109,8 +123,37 @@ ten_character_state.names
 ```
 ---
 
-## Data frames
+# Matrices
+Matrices behaves as two-dimensional vectors. They are faster to access and index than data frames (described below), but less flexible in that every value in a matrix must be of the same data type (integer, numeric, character, etc.). If one is changed, implicit conversion to the next data type that could contain all values is performed.
+
+```
+mat = matrix(1:100, nrow=10, ncol=10)
+
+rowMeans(mat)
+
+## [1] 46 47 48 49 50 51 52 53 54 55
+
+colMeans(mat)
+
+## [1] 5.5 15.5 25.5 35.5 45.5 55.5 65.5 75.5 85.5 95.5
+```
+Matrices are indexed by row, then column. Indexes can include numeric sequences or TRUE/FALSE values.
+
+```
+mat[1:3, 1:3]
+
+##    [,1] [,2] [,3]
+## [1,]   1   11    21
+## [2,]   2   12    22
+## [3,}   3   13    23
+```
+
+
+# Data frames
 A data frame is the term in R for a spreadsheet style of data: a grid of rows and columns. The number of columns and rows is virtually unlimited, but each column must be a vector of the same length. A dataframe can comprise heterogeneous data: in other words, each column can be a different data type. However, because a column is a vector, it has to be a single data type. 
+
+## Lists
+Lists are simply vectors of other objects. This means that we may have lists of matrices, lists of dataframes, lists of lists, or a mixture of essentially any data type. This flexibility makes lists a popular structure.
 
 ## Create a data frame
 You will likely be importing datasets, but it is easy to create a data frame on your own. 
