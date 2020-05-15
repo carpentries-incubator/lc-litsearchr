@@ -88,7 +88,7 @@ If for some reason your working directory is not set up correctly you can change
   "`script.R`".
 
 # Organize your working directory
-Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you may create directories or folders for **scripts**, **data**, and **documents**. Create the following folders in your working directory:
+Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make it easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you may create directories or folders for **scripts**, **data**, and **documents**. Create the following folders in your working directory:
 
  - **`search_results_data/`** Use this folder to store your raw data or the original files you export from a bibliographic database. For the sake of
    transparency and [provenance](https://en.wikipedia.org/wiki/Provenance), you
