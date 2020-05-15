@@ -124,7 +124,7 @@ ten_character_state.names
 ---
 
 # Matrices
-Matrices behaves as two-dimensional vectors. They are faster to access and index than data frames (described below), but less flexible in that every value in a matrix must be of the same data type (integer, numeric, character, etc.). If one is changed, implicit conversion to the next data type that could contain all values is performed.
+Matrices behave as two-dimensional vectors. They are faster to access and index than data frames (described below), but less flexible in that every value in a matrix must be of the same data type (integer, numeric, character, etc.). If one is changed, implicit conversion to the next data type that could contain all values is performed.
 
 ```
 mat = matrix(1:100, nrow=10, ncol=10)
