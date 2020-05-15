@@ -52,7 +52,7 @@ This pane includes two different but important functions.
 
 ~~~
 ## create object y
-v <- 5
+y <- 5
 
 ## list all objects in the enviroment
 ls()
