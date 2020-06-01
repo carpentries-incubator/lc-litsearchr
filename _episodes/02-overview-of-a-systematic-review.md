@@ -63,4 +63,3 @@ The R package litsearchr provides a method to facilitate the harvesting of searc
 >## Think-Pair-Share: Pros and Cons of automation
 >
 >Think about the steps of a systematic review. What steps of the review process could benefit from automation? Are there any  negative impacts to automating parts of the systematic review process? Share your thoughts with a partner, and then share with the rest of the group.
-{: .challenge}
