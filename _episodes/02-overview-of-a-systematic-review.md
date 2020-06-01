@@ -42,7 +42,7 @@ Systematic reviews differ from traditional, 'narrative' literature reviews in th
 
 A systematic review begins with a well-defined research question. The figure below indicates the step-by-step process used to search for studies, identify studies for inclusion, carry out analyses and report findings. 
 
-![SR Process image] (../assets/img/SR-process.png)
+![](../fig/SR-process.png)
 
 ## The role of an  information expert 
 
