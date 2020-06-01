@@ -1,13 +1,13 @@
 ---
 title: "Introduction"
-teaching: 0
+teaching: 15
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "Why should I learn how to use R and litsearchr?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Explain the advantages of using R and litsearchr for systematic reviews."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "R and litsearch can help automate repetive tasks of a systematic review and add to the reproducibility of the the search development process."
 ---
 FIXME
 
