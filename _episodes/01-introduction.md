@@ -9,9 +9,6 @@ objectives:
 keypoints:
 - "R and litsearch can help automate repetive tasks of a systematic review and add to the reproducibility of the the search development process."
 ---
-FIXME
-
-{% include links.md %}
 
 ## Introduction
 
