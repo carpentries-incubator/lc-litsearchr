@@ -117,11 +117,41 @@ dir.create("scripts")
 {: .language-r}
 
 # Download the data for this lesson
-For this lesson we will be using a ...
+For this lesson we will be using a small dataset of references from a published systematic review on alcohol advertising and teens.
 
-Go to the Figshare page for this curriculum (https://doi.org/10.6084/m9.figshare.12098595.v1), and download the dataset called "`anderson_refs`". 
+Go to the Figshare page for this curriculum, (https://doi.org/10.6084/m9.figshare.12417554.v1), and download the dataset called "`anderson_refs.csv`". 
 
 Place this downloaded file in the `search_results_data` folder you just created in your working directory. You can do this by opening your computer's downloads folder, locating the file you just downloaded ("`anderson_refs`"), and dragging and dropping it into your newly created R Project folder ("`search_results_data`"). 
+
+# Excercise 
+
+You can also import a csv directly into RStudio with this line of script
+
+~~~
+read.csv("Path where your CSV file is located on your computer\\File Name.csv")
+~~~
+
+To try this locate where you downloaded the dataset on your computer. Save the csv file to your desktop. Once saved, locate the file on your desktop and right click on it with your mouse. Select "Properties". To determine the location path you'll need for this script look at "Location". You may want to copy & paste or write this location down to reference later.
+
+Now, try reading in the anderson.refs.csv into RStudio. Remember, my path may look different from yours. Modify the path name to reflect where the csv file is stored on your compter.
+
+~~~
+read.csv("C:\\Users\\aak98\\Desktop\\anderson_refs.csv", header = TRUE)
+~~~
+Notice that I also set the header to ‘TRUE’ as our dataset in the CSV file contains a header.
+
+Also note that the double backslash (‘\\’) within the path name. By adding double backslash you can avoid the following error in R
+~~~
+Error: ‘\U’ used without hex digits in character string starting “”C:\U”
+~~~
+This is one workaround that you may apply in R to bypass this type of error.
+
+What if you want to import a text file into R?
+
+For a text file, you only need to change the file extension from csv to txt (at the end of the path). The path name would look like this
+~~~
+read.csv("C:\\Users\\aak98\\Desktop\\anderson_refs.txt", header = TRUE)
+~~~
 
 # Installing packages
 There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as tidyverse and devtools.
