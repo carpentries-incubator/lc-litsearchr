@@ -60,7 +60,9 @@ Systematic reviews are intensive, time-consuming projects often involving multi-
 
 The R package litsearchr provides a method to facilitate the harvesting of search terms to develop comprehensive search strategies, and to automatically create Boolean searches from lists of keywords, including incorporation of truncation and phrases.
 
-## Think-Pair-Share: Pros and Cons of automation
-Think about the steps of a systematic review. What steps of the review process could benefit from automation? Are there any  negative impacts to automating parts of the systematic review process? Share your thoughts with a partner, and then share with the rest of the group.
- {: .callout}
+> ## Think-Pair-Share: Pros and Cons of automation
+> Think about the steps of a systematic review. What steps of the review process could benefit from automation? Are there 
+> any negative impacts to automating parts of the systematic review process? Share your thoughts with a partner, and then 
+> share with the rest of the group.
+{: .callout}
 
