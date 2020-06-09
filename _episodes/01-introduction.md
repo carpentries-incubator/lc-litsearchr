@@ -29,7 +29,8 @@ To learn any new tool or skill, it is best to put that skill to use in a practic
 >## Breakout Room and Zoom Set-up
 >
 >We'll use this time to move into Zoom breakout rooms and do the following: 
->Round of introductions
->Review of logistics and code of conduct(?)
->Can all participants mute and unmute themselves?
->Can all participants share their screen?
+>1. Round of introductions
+>2. Review of logistics and code of conduct(?)
+>3. Can all participants mute and unmute themselves?
+>4. Can all participants share their screen?
+{: .checklist}
