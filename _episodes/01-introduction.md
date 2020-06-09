@@ -26,3 +26,10 @@ In this lesson, learners will be introduced to R syntax (i.e., the set of rules 
 
 To learn any new tool or skill, it is best to put that skill to use in a practical way. Thus, we've developed this lesson around the R package litsearchr for use in the context of developing comprehensive search strategies for evidence synthesis. Learners will use the bibliographic data from a citation file to identify additional keywords and build Boolean searches using R code.
 
+>## Breakout Room and Zoom Set-up
+>
+>We'll use this time to move into Zoom breakout rooms and do the following: 
+>Round of introductions
+>Review of logistics and code of conduct(?)
+>Can all participants mute and unmute themselves?
+>Can all participants share their screen?
