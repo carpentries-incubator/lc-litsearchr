@@ -46,6 +46,7 @@ When you type a command at the prompt and hit Enter, your computer executes the 
 ~~~
 {: .language-r}
 
+
 Code that you type directly in the console will not be saved, though it is available in the History Pane. 
 
 ## Script Pane (top left)
@@ -63,6 +64,7 @@ If you type an incomplete command and press Enter, R will display a `+` prompt, 
 ~~~
 {: .language-r}
 
+
 If you type a command that R doesn’t recognize, R will return an error message.
 
 ~~~
@@ -71,6 +73,7 @@ Error: unexpected input in "3 % 7"
 >
 ~~~
 {: .language-r}
+
 
 Once you understand the command line, you can easily do anything in R that you would do with a calculator. For example, you could do some basic arithmetic:
 
@@ -89,7 +92,7 @@ Once you understand the command line, you can easily do anything in R that you w
 ## Environment & History Pane (top right)
 This pane includes two different but important functions.
 
-Environment: This will display the objects that you’ve read into what is called the “global environment.” When you read a file into R, or manually create an R object, it enters into the computer’s working memory. When we manipulate or run operations on that data, it isn’t actually written to a file until we tell it to. It is kept here in the environment.
+The Environment will display the objects that you’ve read into what is called the “global environment.” When you read a file into R, or manually create an R object, it enters into the computer’s working memory. When we manipulate or run operations on that data, it isn’t actually written to a file until we tell it to. It is kept here in the environment.
 
 The environment pane will also include any objects you have defined. For example, if you type `y <- 5` into the console, you will now see `y` defined as a value in your environment.
 
@@ -107,16 +110,55 @@ rm(y)
 ~~~
 {: .language-r}
 
+
 R treats the hashtag character, `#`, in a special way; R will not run anything that follows a hashtag on a line. This makes hashtags very useful for adding comments and annotations to your code. Humans will be able to read the comments, but your computer will pass over them. The hashtag is known as the commenting symbol in R.
 
 ## Navigation pane (lower right)
 This pane has multiple functions:
 
-Files: Navigate to files saved on your computer
-Plots: View plots (charts and graphs) you have created
-Packages: view add-on packages you have installed, or install new packages
-Help: Read help pages for R functions
-Viewer: View local web content
+* Files: Navigate to files saved on your computer
+* Plots: View plots (charts and graphs) you have created
+* Packages: view add-on packages you have installed, or install new packages
+* Help: Read help pages for R functions
+* Viewer: View local web content
+
+> ## Challenge
+> Take a few minutes to practice executing commands and typing in the script pane with some basic arithmetic (you can use the same examples from above). 
+>
+{: .challenge}
+
+Now that you feel more comfortable typing in commands let's practice some more. Work through the following excercise:
+
+> ## Exercise
+>
+> 1. Create a new .R file called `my_first_script.R`
+> 2. Write each line of the following code separately in the script pane and identify where the results are found.
+>
+~~~
+2 + 2
+sum(2, 2)
+sqrt(2)
+2 + sqrt(4)
+y <- 5
+y
+y + y
+2 * y
+print(y)
+View(y)
+str(y)
+plot(y)
+class(y)
+is.numeric(y)
+z <- c(5, 10, 15)
+y + z
+sum(y, z)
+plot(z)
+ls()
+rm(y)
+history()
+~~~
+>
+{: .checklist}
 
 # Getting set up
 You will need to create and set up your working directory in RStudio for this lesson. The working directory is very important, as it is the place where you will store, save, and retrieve your files. RStudio projects makes it easy to set up your working directory.
@@ -124,7 +166,7 @@ You will need to create and set up your working directory in RStudio for this le
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". Alternatively you can use `setwd("/path/to/working/directory")` to reset your working directory.
 
 > ## Exercise
-> Create a new project
+> Let's create a new project for this lesson.
 >
 > Under the `File` menu, click on `New project`, choose `New directory`, then `New project`
 >
