@@ -121,7 +121,6 @@ dir.create("scripts")
 > Go to the Figshare page for this curriculum, (https://doi.org/10.6084/m9.figshare.12417554.v1), and download the dataset called "`anderson_refs.csv`". 
 >
 > Place this downloaded file in the `search_results_data` folder you just created in your working directory. You can do this by opening your computer's downloads folder, locating the file you just downloaded ("`anderson_refs`"), and dragging and dropping it into your newly created R Project folder ("`search_results_data`"). 
->
 {: .callout}
 
 > ## Excercise 
@@ -153,25 +152,24 @@ Error: ‘\U’ used without hex digits in character string starting “”C:\U�
 ~~~
 read.csv("C:\\Users\\aak98\\Desktop\\anderson_refs.txt", header = TRUE)
 ~~~
->
 {: .checklist}
 
 # Installing packages
 There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as tidyverse and devtools.
 
 # Excercise
-> Install the 'tidyverse' and the 'devtools' packages. 
->
-> > ## Soltuion
-> > From the packages tab, click ‘Install’ from the toolbar and type ‘tidyverse’ into the textbox then click ‘install’
+Install the 'tidyverse' and the 'devtools' packages. 
 
-> > The ‘tidyverse’ package is really a package of packages, including 'ggplot2' and 'dplyr', both of which require other packages to run correctly. All of these packages will be installed automatically. 
+## Soltuion
+From the packages tab, click ‘Install’ from the toolbar and type ‘tidyverse’ into the textbox then click ‘install’
 
-> > Depending on what packages have previously been installed in your R environment, the install of ‘tidyverse’ could be very quick or could take several minutes.
+The ‘tidyverse’ package is really a package of packages, including 'ggplot2' and 'dplyr', both of which require other packages to run correctly. All of these packages will be installed automatically. 
 
-> > As the install proceeds messages relating to the progress will be written to the console. You will be able to see all of the packages which are actually being installed.
+Depending on what packages have previously been installed in your R environment, the install of ‘tidyverse’ could be very quick or could take several minutes.
 
-> > Repeat the same steps for the "devtools" package.
+As the install proceeds messages relating to the progress will be written to the console. You will be able to see all of the packages which are actually being installed.
+
+Repeat the same steps for the "devtools" package.
 > {: .solution}
 
 ## Installing additional packages using R code
