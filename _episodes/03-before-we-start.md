@@ -57,13 +57,12 @@ This is sort of like a text editor, or a place to write and save code. You then 
 ## Environment & History Pane (top right)
 This pane includes two different but important functions.
 
-* Environment: This will display the objects that you’ve read into what is called the “global environment.” When you read a file into R, or manually create an R object, it enters into the computer’s working memory. When we manipulate or run operations on that data, it isn’t actually written to a file until we tell it to. It is kept here in the environment.
+Environment: This will display the objects that you’ve read into what is called the “global environment.” When you read a file into R, or manually create an R object, it enters into the computer’s working memory. When we manipulate or run operations on that data, it isn’t actually written to a file until we tell it to. It is kept here in the environment.
 
-* The environment pane will also include any objects you have defined. For example, if you type y <- 5 into the console, you will now see y defined as a value in your environment.
+The environment pane will also include any objects you have defined. For example, if you type `y <- 5` into the console, you will now see `y` defined as a value in your environment.
 
-* You can list all objects in the environment by typing ls() in the console and pressing Enter on your keyboard. You can clear all objects in the environment by clicking the broom icon to the right of the words “Import Dataset.”" Clear individual objects by using the rm function; for example: rm(y) will delete the y object from your environment.
+You can list all objects in the environment by typing ls() in the console and pressing Enter on your keyboard. You can clear all objects in the environment by clicking the broom icon to the right of the words “Import Dataset.”" Clear individual objects by using the rm function; for example: rm(y) will delete the y object from your environment.
 
-> ## Practice entering in these commands to the script pane:
 ~~~
 ## to create object y type
 y <- 5
@@ -75,8 +74,7 @@ ls()
 rm(y)
 ~~~
 {: .language-r}
->
-{: .callout}
+
 
 ## Navigation pane (lower right)
 This pane has multiple functions:
