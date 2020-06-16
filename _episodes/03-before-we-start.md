@@ -44,6 +44,8 @@ When you type a command at the prompt and hit Enter, your computer executes the 
 [1] 2
 >
 ~~~
+{: .language-r}
+
 Code that you type directly in the console will not be saved, though it is available in the History Pane. 
 
 ## Script Pane (top left)
@@ -54,19 +56,21 @@ To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). To create a new .R scri
 If you type an incomplete command and press Enter, R will display a `+` prompt, which means R is waiting for you to type the rest of your command. Either finish the command or hit Escape to start over:
 
 ~~~
-> 5 -
+> 6 -
 +
 + 1
-[1] 4
+[1] 5
 ~~~
+{: .language-r}
 
 If you type a command that R doesn’t recognize, R will return an error message.
 
 ~~~
-> 3 % 5
-Error: unexpected input in "3 % 5"
+> 3 % 7
+Error: unexpected input in "3 % 7"
 >
 ~~~
+{: .language-r}
 
 Once you understand the command line, you can easily do anything in R that you would do with a calculator. For example, you could do some basic arithmetic:
 
@@ -80,6 +84,7 @@ Once you understand the command line, you can easily do anything in R that you w
 6 / (3 - 1)   
 ## 3
 ~~~
+{: .language-r}
 
 ## Environment & History Pane (top right)
 This pane includes two different but important functions.
