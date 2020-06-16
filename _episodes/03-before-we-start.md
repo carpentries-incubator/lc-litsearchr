@@ -107,6 +107,8 @@ rm(y)
 ~~~
 {: .language-r}
 
+R treats the hashtag character, `#`, in a special way; R will not run anything that follows a hashtag on a line. This makes hashtags very useful for adding comments and annotations to your code. Humans will be able to read the comments, but your computer will pass over them. The hashtag is known as the commenting symbol in R.
+
 ## Navigation pane (lower right)
 This pane has multiple functions:
 
