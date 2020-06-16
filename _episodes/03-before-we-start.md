@@ -1,6 +1,6 @@
 ---
-title: "Before We Start"
-teaching: 0
+title: "Before We Start: Let's setup and explore RStudio"
+teaching: 
 exercises: 0
 questions:
 - "How to navigate RStudio?"
@@ -15,7 +15,6 @@ keypoints:
 - "Install tidyverse, a package of packages, including many that you are likely to use as you come to work with R"
 - "Install devtools, a package needed to install litsearchr"
 - "Install litsearchr, part of the metaverse, which is a set of R packages that span the entire scope of evidence synthesis in R"
--
 ---
 
 # About R and RStudio
@@ -123,6 +122,8 @@ Go to the Figshare page for this curriculum, (https://doi.org/10.6084/m9.figshar
 
 Place this downloaded file in the `search_results_data` folder you just created in your working directory. You can do this by opening your computer's downloads folder, locating the file you just downloaded ("`anderson_refs`"), and dragging and dropping it into your newly created R Project folder ("`search_results_data`"). 
 
+{: .callout}
+
 # Excercise 
 
 You can also import a csv directly into RStudio with this line of script
@@ -152,6 +153,7 @@ For a text file, you only need to change the file extension from csv to txt (at 
 ~~~
 read.csv("C:\\Users\\aak98\\Desktop\\anderson_refs.txt", header = TRUE)
 ~~~
+{: .checklist}
 
 # Installing packages
 There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as tidyverse and devtools.
