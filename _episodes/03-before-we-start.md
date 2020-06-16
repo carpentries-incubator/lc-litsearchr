@@ -75,17 +75,15 @@ You will need to create and set up your working directory in RStudio for this le
 
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". Alternatively you can use `setwd("/path/to/working/directory")` to reset your working directory.
 
-# Create a new project
-* Under the `File` menu, click on `New project`, choose `New directory`, then
-  `New project`
-* Enter a name for this new folder (or "directory"), for example `litsearchr-lesson`, and choose a convenient
-  location for it. This will be your **working directory** for the rest of the
-  day (e.g., `~/library-carpentry`)
-* Click on `Create project`
-* Create a new file where we will type our scripts. Go to File > New File > R
-  script. Click the save icon on your toolbar and save your script as
-  "`script.R`".
-  {: .callout}
+> ## Create a new project
+> Under the `File` menu, click on `New project`, choose `New directory`, then `New project`
+>
+> Enter a name for this new folder (or "directory"), for example `litsearchr-lesson`, and choose a convenient location for it. This will be your **working directory** for the rest of the day (e.g., `~/library-carpentry`)
+>
+> Click on `Create project`
+>
+> Create a new file where we will type our scripts. Go to File > New File > Rscript. Click the save icon on your toolbar and save your script as "`script.R`".
+{: .callout}
 
 # Organize your working directory
 Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make it easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you can create directories or folders for **scripts**, **data**, and **documents**. 
