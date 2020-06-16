@@ -75,7 +75,6 @@ rm(y)
 ~~~
 {: .language-r}
 
-
 ## Navigation pane (lower right)
 This pane has multiple functions:
 
