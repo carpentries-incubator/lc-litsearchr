@@ -35,10 +35,51 @@ After you install and open RStudio, you will see a window with four panes. You m
 ![](../fig/RStudio_capture.PNG)
 
 ## Console Pane (bottom left)
-If you were just using the basic R interface, without RStudio, this is all you would see. You use this to type in a command and press enter to immediately evaluate it. It includes a > symbol and a blinking cursor prompting you to enter some code. Code that you type directly in the console will not be saved, though it is available in the History Pane. 
+If you were just using the basic R interface, without RStudio, this is all you would see. You use this to type in a command and press enter to immediately evaluate it. It includes a > symbol and a blinking cursor prompting you to enter some code. You can type R code into the bottom line of the RStudio console pane and then click `Enter` to run it. The code you type is called a command, because it will command your computer to do something for you. The line you type it into is called the `command line`.
+
+When you type a command at the prompt and hit Enter, your computer executes the command and shows you the results. Then RStudio displays a fresh prompt for your next command. For example, if you type 1 + 1 and hit Enter, RStudio will display:
+
+~~~
+> 1+1
+[1] 2
+>
+~~~
+Code that you type directly in the console will not be saved, though it is available in the History Pane. 
 
 ## Script Pane (top left)
-This is sort of like a text editor, or a place to write and save code. You then tell RStudio to run the line of code, or multiple lines of code, and you can see it appear in the console as it is running. Then save the script as a .R file for future use, or to share with others. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). To create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save.
+This is sort of like a text editor, or a place to write and save code. You then tell RStudio to run the line of code, or multiple lines of code, and you can see it appear in the console as it is running. Then save the script as a .R file for future use, or to share with others. 
+
+To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). To create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save.
+
+If you type an incomplete command and press Enter, R will display a `+` prompt, which means R is waiting for you to type the rest of your command. Either finish the command or hit Escape to start over:
+
+~~~
+> 5 -
++
++ 1
+[1] 4
+~~~
+
+If you type a command that R doesn’t recognize, R will return an error message.
+
+~~~
+> 3 % 5
+Error: unexpected input in "3 % 5"
+>
+~~~
+
+Once you understand the command line, you can easily do anything in R that you would do with a calculator. For example, you could do some basic arithmetic:
+
+~~~
+2 * 4   
+## 8
+
+8 - 1   
+## 7
+
+6 / (3 - 1)   
+## 3
+~~~
 
 ## Environment & History Pane (top right)
 This pane includes two different but important functions.
