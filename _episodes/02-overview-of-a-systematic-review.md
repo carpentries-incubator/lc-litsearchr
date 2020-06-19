@@ -1,7 +1,7 @@
 ---
 title: "An overview of systematic reviews"
 teaching: 30
-exercises: 1
+exercises: 10
 questions:
 
 - "What is a systematic review?"
