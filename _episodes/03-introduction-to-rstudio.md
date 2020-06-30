@@ -1,20 +1,15 @@
 ---
-title: "Before We Start: Let's setup and explore RStudio"
+title: "Introduction to RStudio"
 teaching: 
 exercises: 0
 questions:
 - "How to navigate RStudio?"
 - "How to run r code?"
-- "How to install packages?"
-- "How to load files in R?"
 objectives:
-- "Successfully import data into RStudio"
-- "Successfully install packages in RStudio"
 - "Successfully navigate and run r code"
 keypoints:
-- "Install tidyverse, a package of packages, including many that you are likely to use as you come to work with R"
-- "Install devtools, a package needed to install litsearchr"
-- "Install litsearchr, part of the metaverse, which is a set of R packages that span the entire scope of evidence synthesis in R"
+- "RStudio is a user interface for working with R."
+- "
 ---
 
 # About R and RStudio
