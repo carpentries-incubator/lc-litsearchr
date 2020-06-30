@@ -24,7 +24,7 @@ If for some reason your working directory is not set up correctly you can change
 >
 > Under the `File` menu, click on `New project`, choose `New directory`, then `New project`
 >
-> Enter a name for this new folder (or "directory"), for example `litsearchr-lesson`, and choose a convenient location for it. This will be your **working directory** for the rest of the day (e.g., `~/library-carpentry`)
+> Enter a name for this new folder (or "directory"), for example `library-carpentry`, and choose a convenient location for it. This will be your **working directory** for the rest of the day (e.g., `~/library-carpentry`)
 >
 > Click on `Create project`
 >
@@ -59,6 +59,32 @@ dir.create("scripts")
 >
 {: .checklist}
 
+## Set your working directory
+The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. There are two important points to make here;
+
+* On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
+* The directory must be in quotation marks. 
+
+~~~
+# set working directory using a forward slash /
+setwd("C:\Users\aak98\Documents\library-carpentry")
+
+# print working directory to the console
+getwd()
+## [1] "C:\Users\aak98\Documents\library-carpentry"
+~~~
+
+Now, you can use period-slash `./` to represent the working directory. So `"./data"` is the same as `"C:\Users\aak98\Documents\library-carpentry"`
+
+> ## Excercise
+>
+~~~
+# set your working directory to wherever you saved the data files for this webinar
+setwd("C:/Wherever you saved the files/library-carpentry")
+~~~
+>
+{: .checklist}
+
 > ## Download the data for this lesson
 > For this lesson we will be using a small dataset of references from a published systematic review on alcohol advertising and teens.
 >
@@ -66,34 +92,3 @@ dir.create("scripts")
 >
 {: .callout}
 
-> ## Exercise 
->
-> You can import a csv directly into RStudio with this line of script
->
-~~~
-read.csv("Path where your CSV file is located on your computer\\File Name.csv")
-~~~
->
-> To try this locate where you downloaded the dataset on your computer. Save the csv file to your desktop. Once saved, locate the file on your desktop and right click on it with your mouse. Select "Properties". To determine the location path you'll need for this script look at "Location". You may want to copy & paste or write this location down to reference later.
->
-> Now, try reading in the anderson.refs.csv into RStudio. Remember, my path may look different from yours. Modify the path name to reflect where the csv file is stored on your compter.
->
-~~~
-read.csv("C:\\Users\\aak98\\Desktop\\anderson_refs.csv", header = TRUE)
-~~~
-> Notice that I also set the header to ‘TRUE’ as our dataset in the CSV file contains a header.
->
-> Also note that the double backslash (‘\\’) within the path name. By adding double backslash you can avoid the following error in R
-~~~
-Error: ‘\U’ used without hex digits in character string starting “”C:\U”
-~~~
-> This is one workaround that you may apply in R to bypass this type of error.
->
-> What if you want to import a text file into R?
->
-> For a text file, you only need to change the file extension from csv to txt (at the end of the path). The path name would look like this
-~~~
-read.csv("C:\\Users\\aak98\\Desktop\\anderson_refs.txt", header = TRUE)
-~~~
-> You can also place downloaded files directly in the `search_results_data` folder you just created in your working directory. To do this you would open your computer's downloads folder, locate the file you just downloaded ("`anderson_refs`"), and drag and drop it into your newly created R Project folder ("`search_results_data`"). 
-{: .checklist}
