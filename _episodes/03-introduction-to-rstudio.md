@@ -8,8 +8,7 @@ questions:
 objectives:
 - "Successfully navigate and run r code"
 keypoints:
-- "RStudio is a user interface for working with R."
-- "
+- "RStudio is a user interface for working with R"
 ---
 
 # About R and RStudio
