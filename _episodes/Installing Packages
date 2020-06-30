@@ -1,1 +1,13 @@
-
+---
+title: "Installing Packages"
+teaching: 
+exercises: 0
+questions:
+- "How to install packages?"
+objectives:
+- "Successfully install packages in RStudio"
+keypoints:
+- "Install tidyverse, a package of packages, including many that you are likely to use as you come to work with R"
+- "Install devtools, a package needed to install litsearchr"
+- "Install litsearchr, part of the metaverse, which is a set of R packages that span the entire scope of evidence synthesis in R"
+---
