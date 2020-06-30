@@ -16,22 +16,22 @@ keypoints:
 - 
 ---
 
-# R Scripting
+## R Scripting
 R is primarily a scripting language, and written line-by-line. This can be quite useful; scripts can be assembled and built upon as you go into more substantial programs or compilations for analysis, but still editable at each line. There is no need to rerun the whole script in order to change a line of code. 
 
-# R Packages
+## R Packages
 Many useful R code is written by the community through a variety of R packages available through CRAN (the Comprehensive R Archive Network), and other repositories. The ease with which packages can be developed, released, and shared has played a large role in R's popularity. R packages can be thought of as libraries for other languages, as they contain related functions designed to work together. Packages are often created to streamline a common workflow.
 
-# R Workflows
+## R Workflows
 The strength of R is in it's interactive data analysis. A related strength, with packages like *knitr* and *R Markdown*, is in making the process and results easy to reproduce and share with others. 
 
-# Data Structures
+## Data Structures
 Data in R are stored in variables and each variable is a container for data in a particular structure. There are four data structures most commonly used in R: vectors, matrices, data frames, and lists.
 
-# A Function
+# Functions in R
 R is a "functional programming language," meaning it contains a number of *functions* you use to do something with your data. *Call* a function on a variable by entering the function into the console, followed by parentheses and the variables. For example, if you want to take the sum of 3 and 4, you can type in `sum(3, 4)`. 
 
-## A Vector
+## Vectors
 A vector is the most basic data structure in R. It contains elements of the same type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object.
 
 To create a vector you'll need to name it and have variables to form the vector, in this case dog breeds and level of shedding. Try creating this vector by typing it into the console.
@@ -273,10 +273,10 @@ library(readr)
 
 For this session, we will be reading a CSV from...
 
-# Data Exploration
+## Data Exploration
 After you read in the data, you want to examine it not only to make sure it was read in correctly, but also to gather some basic information about it.
 
-# Data cleaning & transformation
+## Data cleaning & transformation
 We are now entering the data cleaning and transforming phase. While it is possible to do much of the following using Base R functions (in other words, without loading an external package) `dplyr` makes it much easier. Like many of the most useful R packages, `dplyr` was developed by [http://hadley.nz/](Hadley Wickham), a data scientist and professor at Rice University. 
 
 ## Renaming variables
@@ -320,4 +320,4 @@ janitor::make_clean_names(my_messy_names)
 ## [1] "x245_ab"   "x1_2"      "space_bar"
 ```
 
-# Data visualization
+## Data visualization
