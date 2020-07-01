@@ -33,7 +33,7 @@ For example, if the population of interest is college students, you might come u
 {: .checklist}
 
 
-## Importing and deduplicating naive search results
+## Data used in this lesson
 
 Normally once you have developed a naive search string, you would run the search in 2-3 databases appropriate for the topic and download the results in .ris or .bib format. You should make a note of which databases you searched, how many hits you got in each database, and any constraints you placed on the search for reproducibility. 
 
@@ -41,30 +41,56 @@ The bibliographic data used in this lesson came from a search in MEDLINE (1990-2
 
 ((teens OR teen OR teenager OR adolescent OR youth OR "high school") AND (advertis* OR marketing OR television OR magazine OR "TV") AND (alcohol OR liquor OR drinking OR wine OR beer))
 
-Before we can work with bibliographic data in R, we first need to import it and remove duplicates so that some articles are not over-represented if they were indexed in multiple databases. To do this, litsearchr relies on its sister package synthesisr, which contains functions for manipulating bibliographic data and generic functions for working with text data. Import and deduplication can be done directly from litsearchr, or learners can try out the underlying functions directly in synthesisr for more flexibility. 
+## Importing search results
 
-```{r}
+Before we can work with bibliographic data in R, we first need to import it. To do this, litsearchr relies on its sister package [synthesisr](https://cran.r-project.org/web/packages/synthesisr/index.html), which contains functions for manipulating bibliographic data and generic functions for working with text data. Import and deduplication can be done directly from litsearchr, or learners can try out the underlying functions directly in synthesisr for more flexibility. 
+
+First, we need to load litsearchr to use the functions in it. We do this with the `library` function, which loads all the functions and data in the litsearchr package.
+
+~~~
 library(litsearchr)
+~~~
+{: .language-r}
 
-# to import all of our search results at once, we can use the function import_results()
-# most functions in litsearchr have sensible names (but not all!)
 
-naive_import <- litsearchr::import_results("./data/anderson_naive/")
+Now that we have loaded the library, we can use all the functions in litsearchr. The first function we will use is `import_results`, which as you might guess, imports bibliographic search results. Most functions in litsearchr have sensible names (but not all of them!) and you can view the help files for them using `?`, such as `?import_results` to determine what information needs to be passed to the function for it to work properly.
 
-# did all our search results get imported?
-# there should be 674 rows in the data frame (603 MEDLINE + 71 PsycINFO)
+~~~
+?import_results
+~~~
+{: .language-r}
 
-```
+There is no output from running this code, however, the Help panel will open up with information about `import_results`, including which arguments it takes. We have results saved in a directory (i.e. a folder), so we want to use the directory option rather than the file option, which would be for a single bibliographic file. Because the default option for verbose is TRUE, we do not need to specify it in order to have the function print status updates. Status updates are useful for importing results when you have a lot of results and want to make sure the function is working, or for diagnosing errors if the function fails to import a file and you want to know which one. 
 
-Some articles may be indexed in multiple databases. We need to remove duplicate articles because otherwise the terms found in those articles will be overrepresented in the dataset. There are a lot of options for how to detect and remove duplicates. For example, you could remove articles that have the exact same title, or that have the same DOI, or that have abstracts which are highly similar to each other and may just differ by extra information that a database appends to the abstract field (e.g. starting with ABSTRACT: ). There are even more options for customizing deduplication if using the synthesisr package directly, but we will stick with a fairly simple deduplication because if a few duplicate articles are missed, it will not affect the keyword extraction too much.
+~~~
+naive_import <- import_results(directory="./data/anderson_naive/")
+## Reading file ./data/anderson_naive//MEDLINE_1-500.txt ... done
+## Reading file ./data/anderson_naive//MEDLINE_501-603.txt ... done
+## Reading file ./data/anderson_naive//PsycINFO.bib ... done
+~~~
+{: .language-r}
 
-Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates.
+We can now check if all our search results were imported successfully. There were no errors in output, but we should also check that the correct number of results were imported. There should be 674 rows in the data frame because we had 603 search results in MEDLINE and 71 in PsycINFO. We can use `nrow` to print the number of rows in the data frame of imported search results to confirm this. 
 
-```{r}
+~~~
+nrow(naive_import)
+## [1] 674
+~~~
+{: .language-r}
 
-naive_results <-
-  litsearchr::remove_duplicates(naive_import, field = "title", method = "exact")
+## Deduplicating search results
 
-# this removed 39 results, which means there were 32 unique hits in PsycINFO
+Some articles may be indexed in multiple databases. We need to remove duplicate articles because otherwise the terms found in those articles will be overrepresented in the dataset. 
 
-```
+There are a lot of options for how to detect and remove duplicates. For example, you could remove articles that have the exact same title, or that have the same DOI, or that have abstracts which are highly similar to each other and may just differ by extra information that a database appends to the abstract field (e.g. starting with ABSTRACT: ). There are even more options for customizing deduplication if using the synthesisr package directly, but we will stick with a fairly simple deduplication because if a few duplicate articles are missed, it will not affect the keyword extraction too much.
+
+Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates. We can then determine how many duplicates were removed by checking `nrow` again. 
+
+~~~
+naive_results <- remove_duplicates(naive_import, field = "title", method = "exact")
+nrow(naive_results)
+## [1] 634
+~~~
+{: .language-r}
+
+Based on this output, we know that 40 duplicates were removed, so 31 of the 71 results in PsycINFO were unique and not also indexed in MEDLINE.
