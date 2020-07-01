@@ -34,6 +34,12 @@ For example, if the population of interest is college students, you might come u
 > comparator in the search terms.
 {: .checklist}
 
+> ## Think-Pair-Share: Pros and Cons of automation
+> Think about the steps of a systematic review. What steps of the review process could benefit from automation? Are there 
+> any negative impacts to automating parts of the systematic review process? Share your thoughts with a partner, and then 
+> share with the rest of the group.
+{: .callout}
+
 ## Importing and deduplicating naive search results
 
 Normally once you have developed a naive search string, you would run the search in 2-3 databases appropriate for the topic and download the results in .ris or .bib format. You should make a note of which databases you searched, how many hits you got in each database, and any constraints you placed on the search for reproducibility. 
