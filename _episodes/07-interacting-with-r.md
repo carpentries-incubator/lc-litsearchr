@@ -5,7 +5,7 @@ exercises: 0
 questions:
 - "How to program in R?"
 objectives:
-- "Successfully run mutliple lines of r code"
+- "Successfully run multiple lines of R code"
 keypoints:
 - "..."
 - 

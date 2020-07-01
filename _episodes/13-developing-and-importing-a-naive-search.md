@@ -85,13 +85,15 @@ Some articles may be indexed in multiple databases. We need to remove duplicate 
 
 There are a lot of options for how to detect and remove duplicates. For example, you could remove articles that have the exact same title, or that have the same DOI, or that have abstracts which are highly similar to each other and may just differ by extra information that a database appends to the abstract field (e.g. starting with ABSTRACT: ). There are even more options for customizing deduplication if using the synthesisr package directly, but we will stick with a fairly simple deduplication because if a few duplicate articles are missed, it will not affect the keyword extraction too much.
 
-Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates. We can then determine how many duplicates were removed by checking `nrow` again.
+Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates. 
 
 ~~~
 naive_results <- remove_duplicates(naive_import, field = "title", method = "exact")
-nrow(naive_results)
-## [1] 634
 ~~~
 {: .language-r}
 
-Based on this output, we know that 40 duplicates were removed, so 31 of the 71 results in PsycINFO were unique and not also indexed in MEDLINE.
+
+> ## Exercise: Counting unique records
+> Check how many unique records were retained with `nrow`. 
+> Since there were only two databases, how many records can we conclude were unique to PsycINFO and not in the MEDLINE output?
+{: .callout}

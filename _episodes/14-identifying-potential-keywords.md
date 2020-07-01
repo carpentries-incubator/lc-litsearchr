@@ -81,3 +81,10 @@ head(alcohol, 20)
 ~~~
 {: .language-r}
 
+> ## Exercise: Subsetting keywords
+> Using what you have just learned, write R code that subsets out terms that contain "advertis", similar to searching 
+> for advertis* to capture advertisement, advertising, advertiser, etc.
+>
+> 
+> How many terms contain "advertis"? Hint: `length` will be useful.
+{: .callout}

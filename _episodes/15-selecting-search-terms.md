@@ -10,7 +10,7 @@ keypoints:
 - litsearchr helps identify important search terms related to the topic of a systematic review.
 ---
 
-## How litsearch identifies useful keywords
+## How litsearchr identifies useful keywords
 
 Because not all the keywords are relevant (and you probaby do not want to run a search with several thousand terms!), the next step is to determine which keywords are important to the topic of the systematic review and manually review those suggestions. 
 
@@ -113,6 +113,12 @@ print(cutoff)
 ~~~
 {: .language-r}
 
+> ## Exercise: Changing cutoff stringency
+> 
+> In some cases, we may want to be more or less flexible with where the cutoff is placed for term importance.
+> Using the code from the lesson as a template, find a new cutoff that returns 80% of the strength of the network.
+> 
+{: .callout}
 
 Next, we want to reduce our graph (`reduce_graph`) to only terms that have a node strength above our cutoff value. We can then get the keywords (`get_keywords`) that are still included in the network, which will give us a vector of important keywords to manually consider whether or not they should be included in the search terms. 
 
@@ -121,9 +127,18 @@ reduced_graph <- reduce_graph(naive_graph, cutoff_strength = cutoff)
 
 search_terms <- get_keywords(reduced_graph)
 
-# how many terms has litsearchr suggested we review manually?
-
-length(search_terms)
-## [1] 298
 ~~~
 {: .language-r}
+
+> ## Challenge: Counting search terms
+> How many terms has litsearchr suggested we review manually? Hint: `length` will be useful.
+{: .callout}
+
+
+> ## Bonus Challenge
+> 
+> How many more search terms are retrieved when using a threshold of 80% instead of 50% of the network strength?
+> 
+> Hint: you will need to find cutoff values for both 80% and 50%, create two new reduced graphs with the different
+> cutoff strengths, and check the `length` of the resulting search terms for each graph.
+{: .callout}
