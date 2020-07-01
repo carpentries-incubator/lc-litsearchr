@@ -76,7 +76,7 @@ getwd()
 
 Now, you can use period-slash `./` to represent the working directory. So `"./data"` is the same as `"C:\Users\aak98\Documents\library-carpentry"`
 
-> ## Excercise
+> ## Exercise
 >
 ~~~
 # set your working directory to wherever you saved the data files for this webinar

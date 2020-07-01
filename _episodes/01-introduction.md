@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Explain the advantages of using R and litsearchr for systematic reviews."
 keypoints:
-- "R and litsearch can help automate repetive tasks of a systematic review and add to the reproducibility of the the search development process."
+- "R and litsearchr can help automate repetitive tasks of a systematic review and add to the reproducibility of the the search development process."
 ---
 
 ## Introduction
