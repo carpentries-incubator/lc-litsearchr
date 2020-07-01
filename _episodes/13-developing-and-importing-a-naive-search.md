@@ -22,23 +22,16 @@ Coming up with a naive search is very similar to developing a search strategy wi
 For example, if the population of interest is college students, you might come up with the terms "college student", "undergraduates", "post-secondary student", "university student", etc. You would not want to incude just "student" on its own since that could encompass earlier education stages or non-traditional education, and could result in many mis-hits for "Student's t-test" which are not at all relevant.
 
 
-> ## Exercise
-> ### Develop a naive search
->
+> ## Exercise: Develop a naive search
 > Working either alone or in small groups of 2-3, take 10 minutes to develop a naive search for this paper: "Impact of alcohol advertising and media exposure on adolescent
 > alcohol use: a systematic review of longitudinal studies". We will be using this systematic review by Anderson et al. (2009) throughout the lesson because it is open 
 > access and is of general public interest, but you can easily adapt the steps and code for your own research later.
-
+>
 > Start by identifying the PICO (or one of its variants, such as PICOTS or PECO) components of the question and then generate all of the most precise synonyms. For 
 > example, you might opt for PECO and will identify the population as adolescents, exposure as alcohol advertising, and the outcome as alcohol use, but not include a 
 > comparator in the search terms.
 {: .checklist}
 
-> ## Think-Pair-Share: Pros and Cons of automation
-> Think about the steps of a systematic review. What steps of the review process could benefit from automation? Are there 
-> any negative impacts to automating parts of the systematic review process? Share your thoughts with a partner, and then 
-> share with the rest of the group.
-{: .callout}
 
 ## Importing and deduplicating naive search results
 
