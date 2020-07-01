@@ -1,3 +1,19 @@
+---
+title: "Dataframes"
+teaching: 
+exercises: 0
+questions:
+- "What is a dataframe in R?"
+- "What is a list in R?"
+- "How do you create a dataframe?"
+objectives:
+- "Successfully create a dataframe"
+- "Successfully explore a dataframe"
+keypoints:
+- "A data frame is the term in R for a spreadsheet style of data: a grid of rows and columns."
+- "Lists are the R objects which contain elements of different types like − numbers, strings, vectors and another list inside it."
+---
+
 # Data frames
 A data frame is the term in R for a spreadsheet style of data: a grid of rows and columns. The number of columns and rows is virtually unlimited, but each column must be a vector of the same length. A dataframe can comprise heterogeneous data: in other words, each column can be a different data type. However, because a column is a vector, it has to be a single data type. 
 
