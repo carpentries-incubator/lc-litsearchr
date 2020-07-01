@@ -1,5 +1,5 @@
 ---
-title: "Working with Vectors and Functions
+title: "Working with Vectors and Functions"
 teaching: 0
 exercises: 0
 questions:
