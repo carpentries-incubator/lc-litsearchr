@@ -130,6 +130,13 @@ summary(ebooks$checkouts)
 > 1. Look at the help file for `state.name`
 > 2. Manually construct three vectors: `stateName`, `division`, and `area`.
 > 
+```{r logical1, comment=NA, results='asis', echo=F}
+states <- data.frame("stateName" = state.name[c(2,  3,  5,  6, 26)]
+                        , "division" = state.division[c(2,  3,  5,  6, 26)]
+                        , "area" = as.integer(10000*ceiling(state.area[c(2,  3,  5,  6, 26)]/10000))
+                        ,  stringsAsFactors = F)
+states
+```
 ~~~
 states <- data.frame("stateName" = state.name[c(2,  3,  5,  6, 26)]
      , "division" = state.division[c(2,  3,  5,  6, 26)]
