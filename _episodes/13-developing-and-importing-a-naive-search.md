@@ -9,6 +9,7 @@ objectives:
 - "Work through the process of importing and deduplicating bibliographic data."
 keypoints:
 - A good naive search provides a good basis for identifying potential search terms on a topic.
+- Search results should be deduplicated to avoid terms used in some papers being overrepresented.
 ---
 
 ## What is a naive search and how is it used?
@@ -60,7 +61,7 @@ Now that we have loaded the library, we can use all the functions in litsearchr.
 ~~~
 {: .language-r}
 
-There is no output from running this code, however, the Help panel will open up with information about `import_results`, including which arguments it takes. We have results saved in a directory (i.e. a folder), so we want to use the directory option rather than the file option, which would be for a single bibliographic file. Because the default option for verbose is TRUE, we do not need to specify it in order to have the function print status updates. Status updates are useful for importing results when you have a lot of results and want to make sure the function is working, or for diagnosing errors if the function fails to import a file and you want to know which one. 
+There is no output from running this code, however, the Help panel will open up with information about `import_results`, including which arguments it takes. We have results saved in a directory (i.e. a folder), so we want to use the directory option rather than the file option, which would be for a single bibliographic file. Because the default option for `verbose` is `TRUE`, we do not need to specify it in order to have the function print status updates. Status updates are useful for importing results when you have a lot of results and want to make sure the function is working, or for diagnosing errors if the function fails to import a file and you want to know which one. 
 
 ~~~
 naive_import <- import_results(directory="./data/anderson_naive/")
@@ -84,7 +85,7 @@ Some articles may be indexed in multiple databases. We need to remove duplicate 
 
 There are a lot of options for how to detect and remove duplicates. For example, you could remove articles that have the exact same title, or that have the same DOI, or that have abstracts which are highly similar to each other and may just differ by extra information that a database appends to the abstract field (e.g. starting with ABSTRACT: ). There are even more options for customizing deduplication if using the synthesisr package directly, but we will stick with a fairly simple deduplication because if a few duplicate articles are missed, it will not affect the keyword extraction too much.
 
-Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates. We can then determine how many duplicates were removed by checking `nrow` again. 
+Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates. We can then determine how many duplicates were removed by checking `nrow` again.
 
 ~~~
 naive_results <- remove_duplicates(naive_import, field = "title", method = "exact")
