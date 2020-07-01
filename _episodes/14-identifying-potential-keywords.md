@@ -1,5 +1,5 @@
 ---
-title: "Search term selection with litsearchr"
+title: "Identifying potential keywords with litsearchr"
 teaching: 40
 exercises: 50
 questions:
