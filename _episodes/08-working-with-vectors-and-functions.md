@@ -1,4 +1,16 @@
-
+---
+title: "Working with Vectors and Functions
+teaching: 0
+exercises: 0
+questions:
+- "What are functions in R?"
+objectives:
+- "Successfully use multiple functions in R"
+keypoints:
+- "You call a function on a variable by entering the function into the console, followed by parentheses and the variables."
+- "A vector is the most basic data structure in R. It contains elements of the same type."
+- "You can use the brackets to subset a vector."
+---
 
 
 # Functions in R
