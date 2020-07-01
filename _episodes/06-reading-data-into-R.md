@@ -1,4 +1,15 @@
-
+---
+title: "Reading Data into R"
+teaching: 
+exercises: 0
+questions:
+- "How to import data into R?"
+objectives:
+- "Successfully import data into R"
+keypoints:
+- "There are many ways to get data into R, namely `read.table()` and `read.csv()`"
+- "Remember to modify the path name to reflect where the csv file is stored on your computer"
+---
 
 # Reading data into R
 
@@ -38,7 +49,7 @@ read.csv("Path where your CSV file is located on your computer\\File Name.csv")
 >
 > To try this locate where you downloaded the dataset on your computer. Save the csv file to your desktop. Once saved, locate the file on your desktop and right click on it with your mouse. Select "Properties". To determine the location path you'll need for this script look at "Location". You may want to copy & paste or write this location down to reference later.
 >
-> Now, try reading in the anderson.refs.csv into RStudio. Remember, my path may look different from yours. Modify the path name to reflect where the csv file is stored on your compter.
+> Now, try reading in the anderson.refs.csv into RStudio. Remember, my path may look different from yours. Modify the path name to reflect where the csv file is stored on your computer.
 >
 ~~~
 read.csv("C:\\Users\\aak98\\Desktop\\anderson_refs.csv", header = TRUE)
