@@ -15,7 +15,7 @@ keypoints:
 There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as tidyverse and devtools.
 
 > ## Exercise
-Install the `tidyverse` and the `devtools` packages. 
+Install the `tidyverse` and the `remotes` packages. 
 >
 > From the packages tab, click `Install` from the toolbar and type `tidyverse` into the textbox then click `install`
 >
@@ -25,7 +25,7 @@ Install the `tidyverse` and the `devtools` packages.
 >
 As the install proceeds messages relating to the progress will be written to the console. You will be able to see all of the packages which are actually being installed.
 >
-Repeat the same steps for the `devtools` package.
+Repeat the same steps for the `remotes` package.
 > 
 {: .checklist}
 
@@ -40,9 +40,10 @@ install.packages("tidyverse")
 
 was written to the console. 
 
-You could also have installed the **`tidyverse`** packages by running this command directly at the R terminal. For install the **`devtools`** packages the command would look like this:
+You could also have installed the **`tidyverse`** packages by running this command directly at the R terminal. For install the **`remotes`** packages the command would look like this:
 
 ~~~
-install.packages("devtools")
+install.packages("remotes")
 ~~~
 {: .language-r}
+
