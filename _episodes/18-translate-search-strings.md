@@ -1,5 +1,5 @@
 ---
-title: "Preparing a search strategy with litsearchr"
+title: "Translating searches with litsearchr"
 teaching: 30
 exercises: 30
 questions:
