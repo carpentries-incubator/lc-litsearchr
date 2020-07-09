@@ -8,8 +8,10 @@ This repository generates the corresponding lesson website from [The Carpentries
 
 ## License
 
-All Software, Data, and Library Carpentry instructional material is made available under the [Creative Commons Attribution
-license](insert link here).
+All Software, Data, and Library Carpentry instructional material is made available under the Creative Commons Attribution
+license. Licensed under CC-BY 4.0 2016–2020 by Library Carpentry.
+
+It is distributed under a https://creativecommons.org/licenses/by/4.0/.
 
 
 ## Contributing
