@@ -30,8 +30,8 @@ To learn any new tool or skill, it is best to put that skill to use in a practic
 >
 >We'll use this time to move into Zoom breakout rooms and do the following: 
 >1. Round of introductions
->2. Test using the Etherpad: https://pad.carpentries.org/TEST_CU_Introduction_to_R_and_Using_litsearchr_Wor
->2. Review of logistics and code of conduct(?)
->3. Can all participants mute and unmute themselves?
->4. Can all participants share their screen?
+>2. Test using [the Etherpad](https://pad.carpentries.org/TEST_CU_Introduction_to_R_and_Using_litsearchr_Wor) 
+>3. Review of logistics and [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+>4. Test Zoom functions including muting/unmuting, Yes/No feature, screen sharing, and remote screen control
+>5. Review use of Yes/No feature, Zoom chat and breakout rooms for asking questions and getting help
 {: .checklist}
