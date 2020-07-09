@@ -34,5 +34,6 @@ To learn any new tool or skill, it is best to put that skill to use in a practic
 >3. Review of logistics and [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 >4. Test Zoom functions including muting/unmuting, Yes/No feature, screen sharing, and remote screen control
 >5. Review use of Yes/No feature, Zoom chat and breakout rooms for asking questions and getting help
+
 For instructors: [Link to Talking about the Code of Conduct](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html#talking-about-the-code-of-conduct)
 {: .checklist}
