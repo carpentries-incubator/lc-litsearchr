@@ -3,7 +3,11 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-This Library Carpentry lesson introduces people working in a library- and information-related roles to using R and Rstudio when working on systematic reviews. In addition to the basics of R and RStudio, you will learn to use the litsearchr R package. litsearchr facilitates the development of a systematic search strategy, partially automating keyword selection from a set of search results and writing Boolean searches, including automating truncation of terms. This is an introduction to R and RStudio designed for participants with no programming experience. At the conclusion of the lesson you will understand what R and RStudio does and how to use the litsearchr package to work with systematic reviews.
+This Library Carpentry lesson introduces people working in a library- and information-related roles to using R and Rstudio when working on systematic reviews. In addition to the basics of R and RStudio, you will learn to use the litsearchr R package. 
+
+`litsearchr` facilitates the development of a systematic search strategy, partially automating keyword selection from a set of search results and writing Boolean searches, including automating truncation of terms. 
+
+This is an introduction to R and RStudio designed for participants with no programming experience. At the conclusion of the lesson you will understand what R and RStudio does and how to use the litsearchr package to advance your work with systematic reviews.
 
 <!-- this is an html comment -->
 
