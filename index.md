@@ -11,7 +11,7 @@ This Library Carpentry lesson introduces people working in a library- and inform
 
 > ## Prerequisites
 >
-> To complete this lesson you will need to install [R] (http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the file [anderson.refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) from Figshare.
+> To complete this lesson you will need to install [R](http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the file [anderson.refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) from Figshare.
 > 
 > See [Setup](https://ameliakallaher.github.io/lc-litsearchr/setup.html) for more information.
 {: .prereq}
