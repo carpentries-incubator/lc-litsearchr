@@ -9,6 +9,11 @@ objectives:
 - "Successfully navigate and run r code"
 keypoints:
 - "RStudio is a user interface for working with R"
+- "The Scipt Pane is sort of like a text editor, or a place to write and save code"
+- "To execute code you use Ctrl+Enter (Cmd+Enter on a Mac)"
+- "If you type an incomplete command and press Enter, R will display a `+` prompt, which means R is waiting for you to type the rest of your command"
+- "If you type a command that R doesn’t recognize, R will return an error message"
+- "The Environment will display the objects that you’ve read into and objects you have defined"
 ---
 
 # About R and RStudio
