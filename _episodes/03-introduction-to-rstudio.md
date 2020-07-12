@@ -1,7 +1,7 @@
 ---
 title: "Introduction to RStudio"
-teaching: 
-exercises: 0
+teaching: 20
+exercises: 10
 questions:
 - "How to navigate RStudio?"
 - "How to run r code?"
