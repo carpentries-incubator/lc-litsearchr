@@ -125,6 +125,14 @@ This pane has multiple functions:
 > Take a few minutes to practice executing commands and typing in the script pane with some basic arithmetic (you can use the same examples from above). 
 >
 {: .challenge}
+>
+>>## Solution
+>>1. To create object y. Answer: type `y <- 5`
+>>2. To multiply. Answer: type `2 * 4`
+>>3. To subtract. Answer: type `8 - 1`
+>>4. To divide. Answer: type `6 / (3 - 1)`
+>{: .solution}
+{: .challenge}
 
 Now that you feel more comfortable typing in commands let's practice some more. Work through the following excercise:
 
