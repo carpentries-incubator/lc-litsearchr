@@ -78,7 +78,12 @@ Now, you can use period-slash `./` to represent the working directory. So `"./da
 > ## Exercise
 >
 ~~~
-# set your working directory to wherever you saved the data files for this webinar
+Let's practice setting up your working directory.
+
+To set up your working directory you'll need to find where you saved the folder for this lesson. 
+
+On a Windows/PC: Try searching your documents folder for "library carpentry". Once you find the folder (not the R Project) open it. Right click over the R Project and select "Properties". Now you can see what the location path of this folder looks like on your computer.
+
 setwd("C:/Wherever you saved the files/library-carpentry")
 ~~~
 >
