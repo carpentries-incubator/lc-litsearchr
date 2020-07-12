@@ -1,7 +1,7 @@
 ---
-title: "Getting Set Up: Working Directory"
-teaching: 
-exercises: 0
+title: "Create a Working Directory"
+teaching: 10
+exercises: 20
 questions:
 - "How to create a working directory?"
 - "How to load files in R?"
@@ -12,6 +12,7 @@ keypoints:
 - "The working directory is very important, as it is the place where you will store, save, and retrieve your files."
 - "Using consistent filing naming and folder structure across your projects will help keep things organized."
 - "There are different ways to get your data into RStudio." 
+- "Download the file for this lesson if you haven't done so already. "
 ---
 
 # Getting set up
@@ -64,26 +65,27 @@ The **working directory** is the location on your computer R will use for readin
 * On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
 * The directory must be in quotation marks. 
 
-```{r setwd, comment=NA, eval=FALSE}
+~~~
 # set working directory using a forward slash /
 setwd("C:\Users\aak98\Documents\library-carpentry")
 
 # print working directory to the console
 getwd()
 ## [1] "C:\Users\aak98\Documents\library-carpentry"
-```
+~~~
 
 Now, you can use period-slash `./` to represent the working directory. So `"./data"` is the same as `"C:\Users\aak98\Documents\library-carpentry"`
 
 > ## Exercise
 >
+>1. Let's practice setting up your working directory.
+>2. To set up your working directory you'll need to find where you saved the folder for this lesson. 
+>3. On a Windows/PC: Try searching your documents folder for "library carpentry". 
+>4. Once you find the folder (not the R Project) open it. 
+>5. Right click over the R Project and select "Properties". 
+>6. Now you can see what the location path of this folder looks like on your computer.
+>7. Copy and paste or type in the location to set your work directory. See code below.
 ~~~
-Let's practice setting up your working directory.
-
-To set up your working directory you'll need to find where you saved the folder for this lesson. 
-
-On a Windows/PC: Try searching your documents folder for "library carpentry". Once you find the folder (not the R Project) open it. Right click over the R Project and select "Properties". Now you can see what the location path of this folder looks like on your computer.
-
 setwd("C:/Wherever you saved the files/library-carpentry")
 ~~~
 >
