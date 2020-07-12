@@ -10,7 +10,7 @@
 carpentry: "lc"
 
 # Overall title for pages.
-title: "Library Carpentry: Introduction to R and Using litsearchr to Develop and Test Search Strategies"
+title: "Library Carpentry: Introduction to R and litsearchr"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
