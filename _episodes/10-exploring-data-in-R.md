@@ -99,6 +99,13 @@ library(listviewer)
 `wesanderson` is a simple list containing color palettes from the [wesanderson package](https://cran.r-project.org/package=wesanderson). Each component is a palette, named after a movie, and contains a character vector of colors as hexadecimal triplets.
 
 ~~~
+install.packages("wesanderson")
+
+library("wesanderson")
+~~~
+{: .language-r}
+
+~~~
 str(wesanderson)
 ~~~
 {: .language-r}
@@ -106,7 +113,7 @@ str(wesanderson)
 ### Explore `wesanderson`
 
 ~~~
-`View(wesanderson)`
+View(wesanderson)
 ~~~
 {: .language-r}
 
@@ -114,6 +121,13 @@ str(wesanderson)
 ## Game of Thrones POV characters
 
 `got_chars` is a list with information on the `r length(got_chars)` point-of-view characters from the first five books in the Song of Ice and Fire series by George R. R. Martin. Retrieved from [An API Of Ice And Fire](https://anapioficeandfire.com). Each component corresponds to one character and contains `r length(got_chars[[1]])` components which are named atomic vectors of various lengths and types.
+
+~~~
+install.packages("got_chars")
+
+library("got_chars")
+~~~
+{: .language-r}
 
 ~~~
 str(got_chars, list.len = 3)
