@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 teaching: 15
-exercises: 0
+exercises: 10
 questions:
 - "Why should I learn how to use R and litsearchr?"
 objectives:
