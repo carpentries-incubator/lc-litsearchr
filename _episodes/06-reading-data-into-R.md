@@ -1,6 +1,6 @@
 ---
 title: "Reading Data into R"
-teaching: 10
+teaching: 15
 exercises: 15
 questions:
 - "How to import data into R?"
