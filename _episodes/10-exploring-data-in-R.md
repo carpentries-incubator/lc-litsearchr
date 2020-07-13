@@ -38,7 +38,7 @@ You need to develop a toolkit for list inspection. Be on the look out for:
   
 > I have no idea what's in this list or what its structure is! Please send help.
 
-Understand this is **situation normal**, especially when your list comes from querying a poorly documented API. This is often true even when your list has been created completely within R. How many of us perfectly understand the structure of a fitted linear model object? You just have to embark on a voyage of discovery and figure out what's in there. Happy trails.
+Understand this is **situation normal**, especially when your list comes from querying a poorly documented API. This is often true even when your list has been created completely within R. How many of us perfectly understand the structure of a fitted linear model object? You just have to embark on a voyage of discovery and figure out what's in there. 
 
 ## Indexing
 
@@ -75,19 +75,17 @@ There are 3 ways to pull elements out of a list:
 
 ## `str()`
 
-`str()` can help with basic list inspection, although it's still rather frustrating. Learn to love the `max.level` and `list.len` arguments. You can use them to keep the output of `str()` down to a manageable volume.
+`str()` can help with basic list inspection. The `max.level` and `list.len` arguments are very helpful to use. You can use them to keep the output of `str()` down to a manageable volume.
 
 Once you begin to suspect or trust that your list is homogeneous, i.e. consists of sub-lists with similar structure, it's often a good idea to do an in-depth study of a single element. In general, remember you can combine list inspection via `str(..., list.len = x, max.level = y)` with single `[` and double `[[` square bracket indexing.
 
-The repurrrsive package provides examples of lists. We explore them below, to lay the groundwork for other lessons, and to demonstrate list inspection strategies.
+The repurrrsive package provides examples of lists. We explore them below to demonstrate list inspection strategies.
 
 ## listviewer and RStudio's Object Explorer
 
 The RStudio IDE (v1.1 and higher) offers an [Object Explorer](https://blog.rstudio.com/2017/08/22/rstudio-v1-1-preview-object-explorer/) that provides interactive inspection and code generation tools for hierarchical objects, such as lists. You can invoke it via the GUI or in code as `View(YOUR_UGLY_LIST)`.
  
 However, that won't help you expose list exploration in something like this website. I am using the [listviewer](https://CRAN.R-project.org/package=listviewer) package to do this below. It allows you to expose list exploration in a rendered `.Rmd` document.
-
-To replicate this experience locally, call, e.g., `listviewer::jsonedit(got_chars, mode = "view")`.
 
 ~~~
 install.packages("listviewer")
