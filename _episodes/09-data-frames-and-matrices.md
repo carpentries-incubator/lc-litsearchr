@@ -1,7 +1,7 @@
 ---
 title: "Dataframes & Matrices"
-teaching: 
-exercises: 0
+teaching: 15
+exercises: 15
 questions:
 - "What is a dataframe in R?"
 - "What is a list in R?"
