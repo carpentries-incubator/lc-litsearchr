@@ -1,7 +1,7 @@
 ---
 title: "Interacting with R"
-teaching: 0
-exercises: 0
+teaching: 15
+exercises: 10
 questions:
 - "How to program in R?"
 objectives:
@@ -59,8 +59,19 @@ We can do this easily since `y` only has one element, but if you do this with a 
 
 You can use R to type *commands* into your code by using the hash symbol `#`. Anything following the hash symbol will not be evaluated. Adding notes, comments, and directions along the way helps to explain your code to someone else as well as document your own steps like a manual you can refer back to. Commenting code, along with documenting how data is collected and explaining what each variable represents, is essential to [reproducibile research](https://ropensci.github.io/reproducibility-guide/sections/introduction/).
 
-# Exercise
-> Create a new object...
+# Challenge
+> If you need some data to play with, type data() in the console for a list of data sets. To load a dataset, type it like this: `data(mtcars)`. Type `help(mtcars)` to learn more about it. You can then perform operations, e.g. 
+> > ## Solution 
+> >
+~~~
+head(mtcars)
+nrow(mtcars)
+mean(mtcars$mpg)
+sixCylinder <- mtcars[mtcars$cyl == 6, ]
+~~~
+> > {: .language-r}
+> {: .solution}
+{: .challenge}
 
 
 
