@@ -1,6 +1,6 @@
 ---
 title: "Installing Packages"
-teaching: 10
+teaching: 20
 exercises: 15
 questions:
 - "How to install packages?"
