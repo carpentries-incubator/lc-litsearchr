@@ -18,7 +18,7 @@ keypoints:
 Load `purrr` and `repurrrsive`, which contains recursive list examples we'll use in the following sections.
 
 ~~~
-install.packages("purr"
+install.packages("purr")
 install.packages("repurrsive")
 
 library(purrr)
