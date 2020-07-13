@@ -51,6 +51,7 @@ filter(x, z = TRUE)
 # First, load the package using library
 library("tidyverse")
 ~~~
+{: .language-r}
 
 To see what packages you have installed, and to read more about the functions in the package, click on the Packages tab in the Navigation Pane in RStudio, then click on the package. You can also use the help function to get help on a package. Some packages have what are called vignettes, which show examples of a package in use.
 
@@ -65,6 +66,7 @@ vignette(package = "tidyverse")
 # view a specific vignette
 vignette("tidyverse")
 ~~~
+{: .language-r}
 
 ## Installing additional packages using R code
 
