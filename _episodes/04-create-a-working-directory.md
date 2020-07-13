@@ -100,5 +100,7 @@ setwd("C:/Wherever you saved the files/library-carpentry")
 >
 > Go to the [Figshare page for this lesson](https://doi.org/10.6084/m9.figshare.12417554.v1) and download the dataset called "`anderson_refs.csv`". 
 >
+> Save the file to your `Desktop`.
+>
 {: .callout}
 
