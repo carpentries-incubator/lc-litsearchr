@@ -7,8 +7,10 @@ questions:
 objectives:
 - "Successfully run multiple lines of R code"
 keypoints:
-- "..."
-- 
+- "R is primarily a scripting language, and written line-by-line."
+- "There is no need to rerun the whole script in order to change a line of code."
+- "The strength of R is in it's interactive data analysis."
+- "You can use R to *assign values*, such as a numeric value like 5, and *create objects*."
 ---
 
 ## R Scripting
