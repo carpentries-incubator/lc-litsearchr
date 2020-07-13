@@ -51,7 +51,7 @@ You can use R to evaluate expressions. Try typing `y` into the console, and pres
 y
 ## [1] 5
 
-# you can alos use the print() function
+# you can also use the print() function
 print(y)
 ## [1] 5
 ~~~
