@@ -28,7 +28,7 @@ library(repurrrsive)
 
 ## Inspect and explore
 
-List inspection is very important and also fairly miserable. Before you can apply a function to every element of a list, you'd better understand the list!
+List inspection is very important. Before you can apply a function to every element of a list, you'd better understand the list!
 
 You need to develop a toolkit for list inspection. Be on the look out for:
 
