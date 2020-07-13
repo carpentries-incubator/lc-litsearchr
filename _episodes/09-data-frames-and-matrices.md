@@ -102,9 +102,6 @@ ncol(ebooks)
 # column names
 names(ebooks)
 ## [1] "title"     "author"    "checkouts"
-
-ebooks)
-## [1] "data.frame"
 ~~~
 {: .language-r}
 
