@@ -56,6 +56,7 @@ dir.create("search_results_data_output")
 dir.create("documents")
 dir.create("scripts")
 ~~~
+{: .language-r}
 >
 {: .checklist}
 
@@ -73,6 +74,7 @@ setwd("C:\Users\aak98\Documents\library-carpentry")
 getwd()
 ## [1] "C:\Users\aak98\Documents\library-carpentry"
 ~~~
+{: .language-r}
 
 Now, you can use period-slash `./` to represent the working directory. So `"./data"` is the same as `"C:\Users\aak98\Documents\library-carpentry"`
 
@@ -88,6 +90,7 @@ Now, you can use period-slash `./` to represent the working directory. So `"./da
 ~~~
 setwd("C:/Wherever you saved the files/library-carpentry")
 ~~~
+{: .language-r}
 >
 {: .checklist}
 
