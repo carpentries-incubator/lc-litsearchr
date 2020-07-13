@@ -108,11 +108,10 @@ str(wesanderson)
 ### Explore `wesanderson`
 
 ~~~
-jsonedit(wesanderson, mode = "view", elementId = "wesanderson")
+`View(wesanderson)`
 ~~~
 {: .language-r}
 
-You can get a similar experience in RStudio via `View(wesanderson)`.
 
 ## Game of Thrones POV characters
 
@@ -127,11 +126,10 @@ str(got_chars[[1]], list.len = 8)
 ### Explore `got_chars`
 
 ~~~
-jsonedit(number_unnamed(got_chars), mode = "view", elementId = "got_chars")
+`View(got_chars)`
 ~~~
 {: .language-r}
 
-You can get a similar experience in RStudio via `View(got_chars)`.
 
 > ## Challenges
 >
