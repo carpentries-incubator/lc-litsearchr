@@ -165,7 +165,6 @@ ls()
 rm(y)
 history()
 ~~~
->
 > {: .language-r}
 >
 {: .checklist}
