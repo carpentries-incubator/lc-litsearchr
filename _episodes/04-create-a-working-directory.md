@@ -1,6 +1,6 @@
 ---
 title: "Create a Working Directory"
-teaching: 10
+teaching: 20
 exercises: 20
 questions:
 - "How to create a working directory?"
