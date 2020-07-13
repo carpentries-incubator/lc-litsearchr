@@ -21,11 +21,11 @@ In R, the fundamental unit of shareable code is the package. A package bundles t
 
 There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as tidyverse and devtools.
 
-# tidyverse
+# tidyverse, devtools, and litsearchr
 The tidyverse includes several useful packages we’ll be using during this lesson, including dplyr, stringr, and purrr. Tidyverse is actually a package of packages, including many others that you are likely to use as you come to work with R.
 
 > ## Exercise
-Install the `tidyverse` and the `devtools` packages. 
+Install the `tidyverse`, `devtools`, and `litsearchr` packages. 
 >
 > From the packages tab, click `Install` from the toolbar and type `tidyverse` into the textbox then click `install`
 >
