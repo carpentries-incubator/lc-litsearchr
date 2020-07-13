@@ -49,6 +49,7 @@ You can use an operator like `+` on each element of vector.
 
 >## Excercise
 > 1. Use the `c()` function to add 5 to each element of the vector.
+>
 ~~~
 myFives + 5
 ## [1] 10 15 20
@@ -62,6 +63,7 @@ You can use this function to open a tab in the Script Pane (upper left) to view 
 
 >## Exercise
 > 1. Practice using `View()` to open a tab in the Script Pane (upper left) to view your data.
+>
 ~~~
 myDogs <- data.frame("breed" = c("beagle", "pug", "chihuahua")
                    , "shedding" = c("moderate", "high", "low"))
@@ -75,7 +77,7 @@ View(myDogs)
 When working with a dataset, many functions have alternative paths for variables of different types. The easiest way to query the structure of an R variable is using `str()`. The `str()` function will return the type of structure (data frame, list, vector, matrix, etc.), and its dimensions, including the number of columns (variables) and the number of rows (observations). Along with the Environment tab in RStudio, the `str()` function is a convenient way to keep track of changes as variables are processed.
 
 >## Exercise
-> 1.Try typing in `?str` into the console to read the full description of the `str` function.
+> 1. Try typing in `?str` into the console to read the full description of the `str` function.
 >
 ~~~
 # using str on a function will tell you what arguments it takes
@@ -90,7 +92,7 @@ str(sum)
 ## Subsetting vectors
 You can use the brackets to subset a vector. Brackets can take either numeric values (which will correspond to the element in the order it exists in the vector) or logical (T/F) values. You can also use functions such as `which()`, that return numeric values.
 
-> ## Challenge
+>## Excercise
 > 1. Practice using functions you've just learned with the built in dataset `state.name`.
 >
 ~~~
@@ -139,4 +141,4 @@ ten_character_state.names
 ~~~
 > {: .language-r}
 >
-{: .challenge}
+{: .checklist}
