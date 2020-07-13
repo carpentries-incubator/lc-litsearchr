@@ -56,7 +56,7 @@ dir.create("search_results_data_output")
 dir.create("documents")
 dir.create("scripts")
 ~~~
-{: .language-r}
+> {: .language-r}
 >
 {: .checklist}
 
@@ -90,7 +90,7 @@ Now, you can use period-slash `./` to represent the working directory. So `"./da
 ~~~
 setwd("C:/Wherever you saved the files/library-carpentry")
 ~~~
-{: .language-r}
+> {: .language-r}
 >
 {: .checklist}
 
