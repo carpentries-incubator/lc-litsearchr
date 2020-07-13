@@ -87,6 +87,7 @@ Now, you can use period-slash `./` to represent the working directory. So `"./da
 >5. Right click over the R Project and select "Properties". 
 >6. Now you can see what the location path of this folder looks like on your computer.
 >7. Copy and paste or type in the location to set your work directory. See code below.
+>
 ~~~
 setwd("C:/Wherever you saved the files/library-carpentry")
 ~~~
