@@ -28,7 +28,7 @@ To create a vector you'll need to name it and have variables to form the vector,
 myDogs <- c("breed" = c("beagle", "pug", "chihuahua")
                        , "shedding" = c("moderate", "high", "low"))
 ~~~
-{: .language-r}
+> {: .language-r}
 >
 {: .checklist}
 
@@ -41,9 +41,9 @@ An important function is `c()` which will combine arguments to form a vector. In
 ~~~
 myFives <- c(5, 10, 15)
 ~~~
-{: .language-r}
- >
- {: .checklist}
+> {: .language-r}
+>
+{: .checklist}
  
 You can use an operator like `+` on each element of vector. 
 
@@ -53,7 +53,7 @@ You can use an operator like `+` on each element of vector.
 myFives + 5
 ## [1] 10 15 20
 ~~~
-{: .language-r}
+> {: .language-r}
 >
 {: .checklist}
 
@@ -67,7 +67,7 @@ myDogs <- data.frame("breed" = c("beagle", "pug", "chihuahua")
                    , "shedding" = c("moderate", "high", "low"))
 View(myDogs)
 ~~~
-{: .language-r}
+> {: .language-r}
 >
 {: .checklist}
 
@@ -83,7 +83,7 @@ str(sum)
 
 # using str on an R object will give you information about that object
 ~~~
-{: .language-r}
+> {: .language-r}
 >
 {: .checklist}
 
@@ -137,6 +137,6 @@ ten_character_state.names
 ## [1] "Connecticut"    "Massachusetts"  "Mississippi"    "New Hampshire"  "North Carolina" "North Dakota"   "Pennsylvania"  
 ## [8] "Rhode Island"   "South Carolina" "South Dakota"   "West Virginia" 
 ~~~
-{: .language-r}
+> {: .language-r}
 >
 {: .challenge}
