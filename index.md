@@ -36,8 +36,8 @@ This is an introduction to R and RStudio designed for participants with no progr
 
 | Lesson    | Overview |
 | ------- | ---------- |
-| [Day One](https://ameliakallaher.github.io/lc-litsearchr/01-introduction/index.html) | Get an overview of systematic reviews, learn how to interact with R, install packages, and get data into RStudio. |
-| [Day Two](https://ameliakallaher.github.io/lc-litsearchr/11-introduction-to-litsearchr/index.html) | Explore, develop, and identify potential search terms before writing, translating, and testing search strategies with litsearchr. |
+| [Day One: Introduction to R and RStudio](https://ameliakallaher.github.io/lc-litsearchr/01-introduction/index.html) | Get an overview of systematic reviews, learn how to interact with R, install packages, and get data into RStudio. |
+| [Day Two: Introduction to litsearchr](https://ameliakallaher.github.io/lc-litsearchr/11-introduction-to-litsearchr/index.html) | Explore, develop, and identify potential search terms before writing, translating, and testing search strategies with litsearchr. |
 
 
 {% include links.md %}
