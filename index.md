@@ -13,11 +13,31 @@ This is an introduction to R and RStudio designed for participants with no progr
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-> ## Prerequisites
+> ## Getting Started
 >
-> To complete this lesson you will need to install [R](http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the file [anderson.refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) from Figshare.
+> Library Carpentry’s teaching is hands-on, so participants are encouraged to use their own computers to ensure the proper setup of tools for an efficient workflow. Our lessons > focus on building software and data skills within library and information-related communities. To most effectively use participate in the lesson, please make sure to download > the data and necessary software beforehand.
 > 
-> See [Setup](https://ameliakallaher.github.io/lc-litsearchr/setup.html) for more information.
+> 
+> This workshop assumes no prior experience with the tools covered in the lesson.
+>
+> To get started, follow the directions in the [Setup](https://ameliakallaher.github.io/lc-litsearchr/setup.html) tab to
+> get access to the required software and data for this workshop.
 {: .prereq}
+
+> ## Data
+>
+> To complete this lesson you will need to install [R](http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the following files from figshare.
+> * [anderson.refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) 
+> 
+> See [Setup](https://ameliakallaher.github.io/lc-litsearchr/setup.html) for information about how to install R and RStudio.
+{: .prereq}
+
+# Lesson Overview 
+
+| Lesson    | Overview |
+| ------- | ---------- |
+| [Day One](https://ameliakallaher.github.io/lc-litsearchr/01-introduction/index.html) | Get an overview of systematic reviews, learn how to interact with R, install packages, and get data into RStudio. |
+| [Day Two](https://ameliakallaher.github.io/lc-litsearchr/11-introduction-to-litsearchr/index.html) | Explore, develop, and identify potential search terms before writing, translating, and testing search strategies with litsearchr. |
+
 
 {% include links.md %}
