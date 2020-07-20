@@ -120,17 +120,17 @@ file.create("mylesson.R")
 ~~~
 {: .language-r}
 
-Typing in `list.files()` shows that the directory only contains mytest.R.
+Typing in `list.files()` shows that the directory only contains mylesson.R.
 
 ~~~
 list.files()
 ~~~
 {: .language-r}
 
-You can check to see if "mytest.R" exists in the working directory by using the `file.exists()` function.
+You can check to see if "mylesson.R" exists in the working directory by using the `file.exists()` function.
 
 ~~~
-file.exists("mytest.R")
+file.exists("mylesson.R")
 ~~~
 {: .language-r}
 
