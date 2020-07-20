@@ -15,7 +15,7 @@ This is an introduction to R and RStudio designed for participants with no progr
 
 > ## Getting Started
 >
-> Library Carpentry’s teaching is hands-on, so participants are encouraged to use their own computers to ensure the proper setup of tools for an efficient workflow. Our lessons > focus on building software and data skills within library and information-related communities. To most effectively use participate in the lesson, please make sure to download > the data and necessary software beforehand.
+> Library Carpentry’s teaching is hands-on, so participants are encouraged to use their own computers to ensure the proper setup of tools for an efficient workflow. Our lessons > focus on building software and data skills within library and information-related communities. To most effectively participate in the lesson, please make sure to download the > data and necessary software beforehand.
 > 
 > 
 > This workshop assumes no prior experience with the tools covered in the lesson.
