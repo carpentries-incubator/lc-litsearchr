@@ -53,7 +53,7 @@ dir.create("scripts")
 {: .language-r}
 
 ## Set your working directory
-The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. There are two important points to make here:
+The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. 
 
 ~~~
 # Determine which directory your R session is using as its current working directory using getwd().
@@ -72,17 +72,17 @@ setwd("lesson.dir")
 
 ## Exploring your working directory
 
-You can list all the objects in your local workspace using `ls()`.
-
-~~~
-ls()
-~~~
-{: .language-r}
-
-Assign 8 to x using x <- 8.
+Create a new object by assigning 8 to x using x <- 8.
 
 ~~~
 x <- 8
+~~~
+{: .language-r}
+
+You can list all the objects in your local workspace using `ls()`. See if the object `x` is listed. 
+
+~~~
+ls()
 ~~~
 {: .language-r}
 
@@ -102,9 +102,7 @@ As we go through this lesson, you should be examining the help page for each new
 
 One of the most helpful parts of any R help file is the See Also section. Read that section for list.files. 
 
-Using the `args()` function on a function name is also a handy way to see what arguments a function can take.
-
-Use the `args()` function to determine the arguments to list.files().
+Using the `args()` function on a function name is also a handy way to see what arguments a function can take. Use the `args()` function to determine the arguments to list.files().
 
 ~~~
 args(list.files)
