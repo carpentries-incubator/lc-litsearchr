@@ -75,9 +75,12 @@ Error: unexpected input in "3 % 7"
 {: .language-r}
 
 
-Once you understand the command line, you can easily do anything in R that you would do with a calculator. For example, you could do some basic arithmetic:
+Once you understand the command line, you can easily do anything in R that you would do with a calculator. In its simplest form, R can be used as an interactive calculator. 
 
 ~~~
+> 5 + 7
+[1] 12
+
 2 * 4   
 ## 8
 
@@ -123,7 +126,7 @@ This pane has multiple functions:
 * Viewer: View local web content
 
 > ## Challenge
-> Take a few minutes to practice executing commands and typing in the script pane with some basic arithmetic (you can use the same examples from above). 
+> Take a few minutes to practice executing commands and typing in the script pane with some basic arithmetic.  
 >
 {: .challenge}
 >
@@ -138,9 +141,12 @@ This pane has multiple functions:
 Now that you feel more comfortable typing in commands let's practice some more. Work through the following excercise:
 
 > ## Exercise
+> This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. We'll cover these in later episodes of this lesson.
+> 
 >
 > 1. Create a new .R file called `my_first_script.R`
-> 2. Write each line of the following code separately in the script pane and identify where the results are found.
+> 2. `file.create("my_first_script.R")`
+> 3. Write each line of the following code separately in the script pane and identify where the results are found. 
 >
 ~~~
 2 + 2
