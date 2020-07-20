@@ -4,38 +4,31 @@ teaching: 20
 exercises: 20
 questions:
 - "How to create a working directory?"
-- "How to load files in R?"
 objectives:
-- "Successfully import data into RStudio"
 - "Successfully set up a working directory in RStudio"
 keypoints:
 - "The working directory is very important, as it is the place where you will store, save, and retrieve your files."
 - "Using consistent filing naming and folder structure across your projects will help keep things organized."
-- "There are different ways to get your data into RStudio." 
-- "Download the file for this lesson if you haven't done so already. "
+- "Download the file for this lesson if you haven't done so already."
 ---
 
 # Getting set up
 You will need to create and set up your working directory in RStudio for this lesson. The working directory is very important, as it is the place where you will store, save, and retrieve your files. RStudio projects makes it easy to set up your working directory.
 
-If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". Alternatively you can use `setwd("/path/to/working/directory")` to reset your working directory.
+For this lesson we'll create a new project.
 
-> ## Exercise
-> Let's create a new project for this lesson.
->
-> Under the `File` menu, click on `New project`, choose `New directory`, then `New project`
->
-> Enter a name for this new folder (or "directory"), for example `library-carpentry`, and choose a convenient location for it. This will be your **working directory** for the rest of the day (e.g., `~/library-carpentry`)
->
-> Click on `Create project`
->
-> Create a new file where we will type our scripts. Go to File > New File > Rscript. Click the save icon on your toolbar and save your script as "`script.R`".
-{: .checklist}
+* Under the `File` menu, click on `New project`, choose `New directory`, then `New project`
+
+* Enter a name for this new project `library-carpentry`, and choose your desktop as the location. 
+
+* Click on `Create project`
+
+If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
 
 ## Organize your working directory
 Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make it easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you can create directories or folders for **scripts**, **data**, and **documents**. 
 
-For this lesson, we will create the following folders in your working directory:
+For this lesson, we will create the following in your working directory:
 
 * `search_results_data/` Use this folder to store your raw data or the original files you export from a bibliographic database. For the sake of transparency and [provenance](https://en.wikipedia.org/wiki/Provenance), you should *always* keep a copy of your raw data accessible and do as much of your data cleanup and preprocessing programmatically (i.e., with scripts, rather than manually) as possible.
 
@@ -62,9 +55,6 @@ dir.create("scripts")
 ## Set your working directory
 The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. There are two important points to make here:
 
-* On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
-* The directory must be in quotation marks. 
-
 ~~~
 # Determine which directory your R session is using as its current working directory using getwd().
 getwd()
@@ -76,6 +66,9 @@ lesson.dir <- getwd()
 setwd("lesson.dir")
 ~~~
 {: .language-r}
+
+* On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
+* The directory must be in quotation marks. 
 
 ## Exploring your working directory
 
