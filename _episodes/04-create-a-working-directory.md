@@ -151,7 +151,7 @@ file.copy("myscript.R", "myscript2.R")
 > ## Download the data for this lesson
 > For this lesson we will be using a small dataset of references from a published systematic review on alcohol advertising and teens.
 >
-> Download the dataset [`anderson_refs.csv`](data/anderson_refs.csv) 
+> Download the dataset [`anderson_refs.csv`](https://github.com/ameliakallaher/lc-litsearchr/raw/gh-pages/data/anderson_refs.csv) 
 >
 > Save the file to your `Desktop`.
 >
