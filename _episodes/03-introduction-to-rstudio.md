@@ -150,11 +150,15 @@ Now that you feel more comfortable typing in commands let's practice some more. 
 > ## Exercise
 > This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. We'll cover these in later episodes of this lesson.
 > 
-> 1. Create a new .R file called `my_first_script.R`
-> 2. `file.create("my_first_script.R")`
+> 1. Create a new .R file called `my_first_script.R`.
+> 2. Type in `file.create("my_first_script.R")` in the script pane.
 > 3. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
 >
 ~~~
+## first create a new .R file
+file.create("my_first_script.R")
+
+## type and run each line separaetly. 
 2 + 2
 sum(2, 2)
 sqrt(2)
