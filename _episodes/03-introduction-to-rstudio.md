@@ -70,6 +70,7 @@ If you type an incomplete command and press Enter, R will display a `+` prompt, 
 If you type a command that R doesn’t recognize, R will return an error message.
 
 ~~~
+## type in 3 % 7
 > 3 % 7
 Error: unexpected input in "3 % 7"
 >
@@ -88,7 +89,7 @@ Once you understand the command line, you can easily do anything in R that you w
 > 2 * 4   
 ## 8
 
-## type in 8 substracted by 1
+## type in 8 subtracted by 1
 > 8 - 1   
 ## 7
 
