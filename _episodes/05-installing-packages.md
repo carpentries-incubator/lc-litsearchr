@@ -11,12 +11,12 @@ keypoints:
 - "Install devtools, a package needed to install litsearchr"
 - "Install litsearchr, part of the metaverse, which is a set of R packages that span the entire scope of evidence synthesis in R"
 ---
-# Packages
+## Packages
 When you download R it already has a number of functions built in: these encompass what is called Base R. However, many R users write their own libraries of functions, package them together in R Packages, and provide them to the R community at no charge. This extends the capacity of R and allows us to do much more. In many cases, they improve on the Base R functions by making them easier and more straightforward to use.
 
 For example, litsearchr is part of the metaverse, which is a set of R packages that span the entire scope of evidence synthesis in R, from generating search terms, assembling results, screening articles, visualizing risk of bias, doing a meta-analysis, and presenting results.
 
-# Installing packages
+## Installing packages
 In R, the fundamental unit of shareable code is the package. A package bundles together code, data, documentation, and tests, and is easy to share with others. As of January 2015, there were over 6,000 packages available on the Comprehensive R Archive Network, or CRAN, the public clearing house for R packages. This huge variety of packages is one of the reasons that R is so successful: the chances are that someone has already solved a problem that you’re working on, and you can benefit from their work by downloading their package.
 
 There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as litsearchr.
@@ -28,7 +28,7 @@ install.packages("enter in package name here")
 ~~~
 {: .language-r}
 
-# devtools, remotes, and litsearchr
+## devtools, remotes, and litsearchr
 These useful packages are ones we’ll be using during this lesson. There are many others that you are likely to use as you come to work with R.
 
 > ## Exercise
@@ -58,7 +58,7 @@ These useful packages are ones we’ll be using during this lesson. There are ma
 >
 {: .checklist}
 
-# Loading and using a package
+## Loading and using a package
 After you install a package, you have to load it into your R session. You can do this using the `library()` function.
 
 ~~~
