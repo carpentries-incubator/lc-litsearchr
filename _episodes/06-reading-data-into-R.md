@@ -28,7 +28,8 @@ In order to use your data in R, you must import it and turn it into an R object.
 
 > ## Make sure the files you downloaded are organzied correctly before continuing on.
 >
-> 
+> Create a folder on your computer and name it 'data'
+> Add the files you downloaded at the beginning of the lesson to this folder. If didn't download the files they can be found in [Data](https://ameliakallaher.github.io/lc-litsearchr/index.html) 
 >
 {: .callout}
 
