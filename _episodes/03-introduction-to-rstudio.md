@@ -17,8 +17,6 @@ keypoints:
 - "The Navigation Pane has many functions: files, plots, packages, viewer, and help."
 ---
 
-# About R and RStudio
-
 ## What is R?
 R is more of a programming language than a statistics program. You can use R to create, import, and scrape data from the web; clean and reshape it; visualize it; run statistical analysis and modeling operations on it; text and data mine it; and much more. 
 
