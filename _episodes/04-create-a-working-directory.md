@@ -12,7 +12,7 @@ keypoints:
 - "Download the file for this lesson if you haven't done so already."
 ---
 
-# Getting set up
+## Getting set up
 You will need to create and set up your working directory in RStudio for this lesson. The working directory is very important, as it is the place where you will store, save, and retrieve your files. RStudio projects makes it easy to set up your working directory.
 
 For this lesson we'll create a new project.
