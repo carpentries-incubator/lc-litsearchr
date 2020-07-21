@@ -146,40 +146,41 @@ This pane has multiple functions:
 Now that you feel more comfortable typing in commands let's practice some more. Work through the following excercise:
 
 > ## Exercise
-> This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. We'll cover these in later episodes of this lesson.
+> This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. We'll cover these in later episodes > of this lesson.
 > 
 > 1. Create a new .R file called `my_first_script.R`.
 > 2. Type in `file.create("my_first_script.R")` in the script pane.
 > 3. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
-
-~~~
-## first create a new .R file
-file.create("my_first_script.R")
-~~~
-{: .language-r}
-
-~~~
-2 + 2
-sum(2, 2)
-sqrt(2)
-2 + sqrt(4)
-y <- 5
-y + y
-2 * y
-print(y)
-View(y)
-str(y)
-plot(y)
-class(y)
-is.numeric(y)
-z <- c(5, 10, 15)
-y + z
-sum(y, z)
-plot(z)
-ls()
-rm(y)
-history()
-~~~
+>
+> ~~~
+> ## to create a new .R file
+> file.create("my_first_script.R")
+> ~~~
+> {: .language-r}
+>
+> ~~~
+> ## type and run each line separately
+> 2 + 2
+> sum(2, 2)
+> sqrt(2)
+> 2 + sqrt(4)
+> y <- 5
+> y + y
+> 2 * y
+> print(y)
+> View(y)
+> str(y)
+> plot(y)
+> class(y)
+> is.numeric(y)
+> z <- c(5, 10, 15)
+> y + z
+> sum(y, z)
+> plot(z)
+> ls()
+> rm(y)
+> history()
+> ~~~
 > {: .language-r}
 >
 {: .checklist}
