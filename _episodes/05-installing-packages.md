@@ -19,69 +19,69 @@ For example, litsearchr is part of the metaverse, which is a set of R packages t
 # Installing packages
 In R, the fundamental unit of shareable code is the package. A package bundles together code, data, documentation, and tests, and is easy to share with others. As of January 2015, there were over 6,000 packages available on the Comprehensive R Archive Network, or CRAN, the public clearing house for R packages. This huge variety of packages is one of the reasons that R is so successful: the chances are that someone has already solved a problem that you’re working on, and you can benefit from their work by downloading their package.
 
-There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as tidyverse and devtools.
+There are thousands of additional R packages, in addition to the core R installation packages, which can be utilized. During this lesson we will be using several of these packages such as litsearchr.
 
-# tidyverse, devtools, and litsearchr
-The tidyverse includes several useful packages we’ll be using during this lesson, including dplyr, stringr, and purrr. Tidyverse is actually a package of packages, including many others that you are likely to use as you come to work with R.
+To install packages in R studio use the `install.packages()` fucntion.
+
+~~~
+install.packages("enter in package name here")
+~~~
+{: .language-r}
+
+# devtools, remotes, and litsearchr
+These useful packages are ones we’ll be using during this lesson. There are many others that you are likely to use as you come to work with R.
 
 > ## Exercise
-Install the `tidyverse`, `devtools`, and `litsearchr` packages. 
+> Install the , `devtools`, `remotes`, and `litsearchr` packages. 
 >
-> From the packages tab, click `Install` from the toolbar and type `tidyverse` into the textbox then click `install`
+> In the script pane, type `install.packages("devtools")`
+> ~~~
+> install.packages("devtools")
+> ~~~
+> {: .language-r}
 >
-> The `tidyverse` package is really a package of packages, including `ggplot2` and `dplyr`, both of which require other packages to run correctly. All of these packages will be installed automatically. 
+> As the install proceeds messages relating to the progress will be written to the console. You will be able to see all of the packages which are actually being installed.
+>
+> Depending on what packages have previously been installed in your R environment, the install of `devtools` could be very quick or could take several minutes.
 > 
-> Depending on what packages have previously been installed in your R environment, the install of `tidyverse` could be very quick or could take several minutes.
+> Repeat the same steps for the `remotes` and `litsearchr` package.
 >
-As the install proceeds messages relating to the progress will be written to the console. You will be able to see all of the packages which are actually being installed.
+> If `litsearchr` fails to load try the following:
 >
-Repeat the same steps for the `devtools` and `litsearchr` package.
-> 
+> ~~~
+> install_github("elizagrames/litsearchr", ref = "main", force=TRUE)
+> ## select option 3 in the console when it asks for updates 
+> ~~~
+> {: .language-r}
+>
+> Alternatively, you could install packages from the toolbar. From the packages tab, click `Install` from the toolbar and type `tidyverse` into the textbox then click `install`
+>
 {: .checklist}
 
 # Loading and using a package
-After you install a package, you have to load it into your R session. You can do this using the library() function.
+After you install a package, you have to load it into your R session. You can do this using the `library()` function.
 
 ~~~
-# If you try to run a function from a package without loading the library,
-# you'll get an error message 'could not find function'
-filter(x, z = TRUE)
-## Error: could not find function 'filter'
+## If you try to run a function from a package without loading the library,
+you'll get an error message 'could not find function'
 
-# First, load the package using library
-library("tidyverse")
+## First, load the package using library
+library("remotes")
 ~~~
 {: .language-r}
+
+Repeat the same steps for the `devtools` and `litsearchr` package.
 
 To see what packages you have installed, and to read more about the functions in the package, click on the Packages tab in the Navigation Pane in RStudio, then click on the package. You can also use the help function to get help on a package. Some packages have what are called vignettes, which show examples of a package in use.
 
 ~~~
 # get help with a package
-help(package = "tidyverse")
+help(package = "litsearchr")
 
-# see vignettes available for a package. this pops a window up showing 5
-# vignettes for tidyverse
-vignette(package = "tidyverse")
-
-# view a specific vignette
-vignette("tidyverse")
+# see vignettes available for a package. 
+# vignettes for litsearchr
+vignette(package = "litsearchr")
 ~~~
 {: .language-r}
 
-## Installing additional packages using R code
 
-If you were watching the console window when you started the install of ‘tidyverse’ you may have noticed that before the start of the installation messages, the line
-
-~~~
-install.packages("tidyverse")
-~~~
-{: .language-r}
-
-was written to the console. 
-
-You could also have installed the **`tidyverse`** packages by running this command directly at the R terminal. For install the **`devtools`** packages the command would look like this:
-
-~~~
-install.packages("devtools")
-~~~
-{: .language-r}
