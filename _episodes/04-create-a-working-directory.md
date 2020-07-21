@@ -149,11 +149,11 @@ file.copy("myscript.R", "myscript2.R")
 {: .language-r}
 
 > ## Download the data for this lesson
-> For this lesson we will be using a small dataset of references from a published systematic review on alcohol advertising and teens.
+> For the next part of the lesson we will be using a small dataset of references from a published systematic review on alcohol advertising and teens.
 >
-> If you haven't already done so, download the dataset [anderson.refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) from Figshare. 
+> If you haven't already done so, download the dataset [anderson_refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) from Figshare. 
 >
-> Save the file to your `Desktop`.
+> Save the file to your `Desktop` for now.
 >
 {: .callout}
 
