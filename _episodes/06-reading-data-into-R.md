@@ -28,8 +28,24 @@ In order to use your data in R, you must import it and turn it into an R object.
 
 > ## Make sure the files you downloaded are organzied correctly before continuing on.
 >
-> Create a folder on your computer and name it 'data'
-> Add the files you downloaded at the beginning of the lesson to this folder. If didn't download the files they can be found in [Data](https://ameliakallaher.github.io/lc-litsearchr/index.html) 
+> Create three folders on your computer and name them `data`, `anderson_naive`, and `search results`
+>  
+> Add the following files you downloaded at the beginning of the lesson to the `data `folder. 
+> * anderson_refs.csv
+> * anderson_refs.rda
+> * andersosn_studies.rda
+>
+> Add the three downloaded files from the anderson_naive zip folder to the `anderson_naive` folder.
+> * MEDLINE_1-500
+> * MEDLINE_501-603
+> * PsycINFO
+>
+> Add the three downloaded files from the search_results zip folder to the `search_results` folder. 
+> * savedrecs(1)
+> * savedrecs(2)
+> * savedrecs(3)
+>
+> If you need to download the files they can be found in [Data](https://ameliakallaher.github.io/lc-litsearchr/index.html) 
 >
 {: .callout}
 
