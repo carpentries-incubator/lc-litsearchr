@@ -146,7 +146,8 @@ This pane has multiple functions:
 Now that you feel more comfortable typing in commands let's practice some more. Work through the following excercise:
 
 > ## Exercise
-> This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. We'll cover these in later episodes > of this lesson.
+> This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. 
+> We'll cover these in later episodes of this lesson.
 > 
 > 1. Create a new .R file called `my_first_script.R`.
 > 2. Type in `file.create("my_first_script.R")` in the script pane.
