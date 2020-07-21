@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Successfully import data into R"
 keypoints:
-- "There are many ways to get data into R. You can import data from a .csv file using the read.csv(...) function.
+- "There are many ways to get data into R. You can import data from a .csv file using the read.csv(...) function."
 - "Understand some of the key arguments available for importing the data, including header, stringsAsFactors, as.is, and strip.white."
 ---
 
