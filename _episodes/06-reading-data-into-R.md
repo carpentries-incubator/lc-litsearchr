@@ -14,7 +14,6 @@ keypoints:
 ## Importing data into R
 In order to use your data in R, you must import it and turn it into an R object. There are many ways to get data into R.
 
-## Ways to get data into R
 * **Manually**: You can manually create it. To create a data.frame, use the `data.frame()` and specify your variables. 
 * **Import it from a file** Below is a very incomplete list
 + Text: TXT (`readLines()` function)
@@ -54,6 +53,9 @@ To open a .csv file we will use the built in read.csv(...) function, which reads
 
 ~~~
 ## import the data and look at the first six rows
+## use the tab key to get the file option
 anderson_refs <- read.csv(file = 'data/anderson_refs.csv')
 head(anderson_refs)
 ##
+~~~
+{: .language-r}
