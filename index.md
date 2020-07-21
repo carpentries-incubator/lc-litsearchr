@@ -28,10 +28,11 @@ This is an introduction to R and RStudio designed for participants with no progr
 
 > ## Data
 >
-> To complete this lesson you will need to install [R](http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the following files from figshare.
-> * [anderson.refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) 
-> *
-> *
+> To complete this lesson you will need to install [R](http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the following files from Figshare.
+> * [anderson_refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) 
+> * [anderson_refs.rda](https://doi.org/10.6084/m9.figshare.12685472)
+> * [anderson_studies.rda](https://doi.org/10.6084/m9.figshare.12685481)
+> * [anderson_naive](https://doi.org/10.6084/m9.figshare.12685487) 
 >
 > For this lesson we'll be using a published systematic review [Impact of alcohol advertising and media exposure on adolescent alcohol use: a systematic review of longitudinal studies](https://pubmed.ncbi.nlm.nih.gov/19144976/) which assessed the impact of alcohol advertising and media exposure on future adolescent alcohol use.
 >
