@@ -62,10 +62,9 @@ These useful packages are ones we’ll be using during this lesson. There are ma
 After you install a package, you have to load it into your R session. You can do this using the `library()` function.
 
 ~~~
-## If you try to run a function from a package without loading the library,
-you'll get an error message 'could not find function'
+## If you try to run a function from a package without loading the library, you'll get an error message `could not find function`
 
-## First, load the package using library
+## First, load the package library
 library("remotes")
 ~~~
 {: .language-r}
