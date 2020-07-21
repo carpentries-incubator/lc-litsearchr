@@ -155,48 +155,29 @@ Now that you feel more comfortable typing in commands let's practice some more. 
 > 2. `file.create("my_first_script.R")`
 > 3. Write each line of the following code separately in the script pane and identify where the results are found. 
 >
-~~~
-## Run each line separately. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
-2 + 2
-
-sum(2, 2)
-
-sqrt(2)
-
-2 + sqrt(4)
-
-y <- 5
-
-y + y
-
-2 * y
-
-print(y)
-
-View(y)
-
-str(y)
-
-plot(y)
-
-class(y)
-
-is.numeric(y)
-
-z <- c(5, 10, 15)
-
-y + z
-
-sum(y, z)
-
-plot(z)
-
-ls()
-
-rm(y)
-
-history()
-~~~
+> ~~~
+> ## Run each line separately. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
+> 2 + 2
+> sum(2, 2)
+> sqrt(2)
+> 2 + sqrt(4)
+> y <- 5
+> y + y
+> 2 * y
+> print(y)
+> View(y)
+> str(y)
+> plot(y)
+> class(y)
+> is.numeric(y)
+> z <- c(5, 10, 15)
+> y + z
+> sum(y, z)
+> plot(z)
+> ls()
+> rm(y)
+> history()
+> ~~~
 > {: .language-r}
 >
 {: .checklist}
