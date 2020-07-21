@@ -39,7 +39,7 @@ This is an introduction to R and RStudio designed for participants with no progr
 > See [Setup](https://ameliakallaher.github.io/lc-litsearchr/setup.html) for information about how to install R and RStudio.
 {: .prereq}
 
-# Lesson Overview 
+## Lesson Overview 
 
 | Lesson    | Overview |
 | ------- | ---------- |
