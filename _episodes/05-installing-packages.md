@@ -50,7 +50,7 @@ These useful packages are ones we’ll be using during this lesson. There are ma
 >
 > ~~~
 > install_github("elizagrames/litsearchr", ref = "main", force=TRUE)
-> ## select option 3 in the console when it asks for updates 
+> ## select option 3 (or the option for no updates) in the console when it asks for updates 
 > ~~~
 > {: .language-r}
 >
