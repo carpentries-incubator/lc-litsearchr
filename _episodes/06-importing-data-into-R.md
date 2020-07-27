@@ -26,7 +26,7 @@ In order to use your data in R, you must import it and turn it into an R object.
 
 > ## Make sure the files you downloaded are organzied correctly before continuing on.
 >
-> Create three folders on your computer and name them `data`, `anderson_naive`, and `search results`
+> Create three folders on your computer and name them `data`, `anderson_naive`, and `search_results`
 >  
 > Add the following files you downloaded at the beginning of the lesson to the `data `folder. 
 > * anderson_refs.csv
