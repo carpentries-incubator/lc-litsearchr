@@ -59,7 +59,7 @@ head(anderson_refs)
 ~~~
 {: .language-r}
 
-> # The header Argument
+> ## The header Argument
 > The default for read.csv(...) is to set the header argument to TRUE. This means that the first row of values in the .csv is set as header information (column names). 
 > If your data set does not have a header, set the header argument to FALSE.
 >
