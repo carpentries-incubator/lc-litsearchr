@@ -115,7 +115,7 @@ paste(my_char, collapse= " ")
 
 ## The `collapse` argument to the paste() function tells R that
 when we join together the elements of the my_char character
-vector, we'd like to separate them with single spaces.
+vector, we would like to separate them with single spaces.
 ~~~
 {: .language-r}
 
@@ -163,6 +163,19 @@ Sys.Date()
 ~~~
 {: .language-r}
 
+~~~
+## Most functions in R return a value. Functions like Sys.Date() return a value based on your computer's
+environment, while other functions manipulate input data in order to compute a return value.
+
+## The mean() function takes a vector of numbers as input, and returns the average of all of the numbers in
+the input vector. Inputs to functions are often called arguments. Providing arguments to a function is also
+sometimes called passing arguments to that function. Arguments you want to pass to a function go inside the
+function's parentheses. Try passing the argument c(2, 4, 5) to the mean() function.
+
+> mean(c(2, 4, 5))
+[1] 3.666667
+~~~
+{: .language-r}
 
 ## Learning R
 1. `swirl` is a package you can install in R to learn about R and data science interactively. Just type `install.packages("swirl")` into your R console, load the package by typing `library("swirl")`, and then type `swirl()`. Read more at <http://swirlstats.com/>.
