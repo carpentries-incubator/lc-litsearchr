@@ -8,7 +8,6 @@ objectives:
 - "Successfully import data into R"
 keypoints:
 - "There are many ways to get data into R. You can import data from a .csv file using the read.csv(...) function."
-- "Understand some of the key arguments available for importing the data, including header, stringsAsFactors, as.is, and strip.white."
 ---
 
 ## Importing data into R
@@ -59,3 +58,11 @@ head(anderson_refs)
 ##
 ~~~
 {: .language-r}
+
+> # The header Argument
+> The default for read.csv(...) is to set the header argument to TRUE. This means that the first row of values in the .csv is set as header information (column names). 
+> If your data set does not have a header, set the header argument to FALSE.
+>
+{: .callout}
+
+
