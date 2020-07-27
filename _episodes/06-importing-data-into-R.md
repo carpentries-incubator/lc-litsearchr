@@ -48,7 +48,7 @@ In order to use your data in R, you must import it and turn it into an R object.
 {: .callout}
 
 ## Opening a .csv file
-To open a .csv file we will use the built in read.csv(...) function, which reads the data in as a data frame, and assigns the data frame to a variable using the `<-` so that it is stored in R’s memory. 
+To open a .csv file we will use the built in `read.csv(...)` function, which reads the data in as a data frame, and assigns the data frame to a variable using the `<-` so that it is stored in R’s memory. 
 
 ~~~
 ## import the data and look at the first six rows
