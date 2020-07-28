@@ -24,9 +24,71 @@ A data frame is the term in R for a spreadsheet style of data: a grid of rows an
 Matrices behave as two-dimensional vectors. They are faster to access and index than data frames, but less flexible in that every value in a matrix must be of the same data type (integer, numeric, character, etc.). If one is changed, implicit conversion to the next data type that could contain all values is performed.
 
 ~~~
-
+## Create a vector containing the numbers 1 through 20 using the `:` operator.
+Store the result in a variable called my_vector.
+my_vector <- 1:20
 ~~~
 {: .language-r}
+
+~~~
+## View the contents of the vector you just created.
+my_vector
+ [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
+~~~
+{: .language-r}
+
+~~~
+## The dim() function tells us the 'dimensions' of an object.
+dim(my_vector)
+NULL
+
+## Since my_vector is a vector, it doesn't have a
+`dim` attribute (so it's just NULL),
+~~~
+{: .language-r}
+
+~~~
+## Find length of the vector using the length() function. 
+length(my_vector)
+[1] 20
+~~~
+{: .language-r}
+
+~~~
+## If we give my_vector a `dim` attribute, the first number is the number of rows and the second is the number of
+columns. Therefore, we just gave my_vector 4 rows and 5 columns.
+> dim(my_vector) <- c(4, 5)
+~~~
+{: .language-r}
+
+~~~
+## Now it's we have turned the vector into a matrix. View the contents of my_vector now to see what it looks like.
+
+> my_vector
+     [,1] [,2] [,3] [,4] [,5]
+[1,]    1    5    9   13   17
+[2,]    2    6   10   14   18
+[3,]    3    7   11   15   19
+[4,]    4    8   12   16   20
+~~~
+{: .language-r}
+
+~~~
+## We confirm it's actually a matrix by using the class() function. 
+class(my_vector)
+[1] "matrix"
+~~~
+{: .language-r}
+
+~~~
+We will store it in a new variable that
+helps us remember what it is. 
+my_matrix <- my_vector
+~~~
+{: .language-r}
+
+A more direct method of creating the same matrix uses the `matrix()` function.
+
 
 ## Lists
 Lists are simply vectors of other objects. Lists are the R objects which contain elements of different types like − numbers, strings, vectors and another list inside it. This means that we may have lists of matrices, lists of dataframes, lists of lists, or a mixture of essentially any data type. This flexibility makes lists a popular structure. List is created using the `list()` function.
