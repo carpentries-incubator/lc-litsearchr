@@ -59,7 +59,7 @@ head(anderson_refs)
 ~~~
 {: .language-r}
 
-> ## The header Argument
+> ## The `header` Argument
 > The default for `read.csv(...)` is to set the header argument to `TRUE`. This means that the first row of values in the .csv is set as header information (column names). 
 > If your data set does not have a header, set the header argument to `FALSE`.
 >
@@ -70,6 +70,21 @@ head(anderson_refs)
 > This is perhaps the most important argument in `read.csv()`, particularly if you are working with categorical data. 
 > This is because the default behavior of R is to convert character strings into factors, 
 > which may make it difficult to do such things as replace values.
+>
+{: .callout}
+
+> ## The `write.csv` Argument
+>
+> After altering a dataset by replacing columns or updating values you can save the new output with `write.csv(...)`.
+> 
+> ~~~
+> ## To export the data use the write.csv() function. It requires a minimum of two
+> arguments for the data to be saved and the name of the output file.
+> 
+> ## For exmaple, if we had edited the anderson_refs csv file we could use
+> write.csv(anderson_refs, file = 'data/anderson-refs-cleaned.csv')
+> ~~~
+> {: .language-r}
 >
 {: .callout}
 
