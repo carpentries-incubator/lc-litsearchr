@@ -16,12 +16,14 @@ keypoints:
 - "Matrices behave as two-dimensional vectors"
 ---
 
-# Data frames & Matrices 
+# Data frames, Matrices, and lists
 Dataframes and matrices represent 'rectangular' data types, meaning that they are used to store tabular data, with rows and columns. The main difference is that matrices can only contain a single class of data, while data frames can consist of many different classes of data.
 
 A data frame is the term in R for a spreadsheet style of data: a grid of rows and columns. The number of columns and rows is virtually unlimited, but each column must be a vector of the same length. A dataframe can comprise heterogeneous data: in other words, each column can be a different data type. However, because a column is a vector, it has to be a single data type. 
 
 Matrices behave as two-dimensional vectors. They are faster to access and index than data frames, but less flexible in that every value in a matrix must be of the same data type (integer, numeric, character, etc.). If one is changed, implicit conversion to the next data type that could contain all values is performed.
+
+Lists are simply vectors of other objects. Lists are the R objects which contain elements of different types like − numbers, strings, vectors and another list inside it. This means that we may have lists of matrices, lists of dataframes, lists of lists, or a mixture of essentially any data type. This flexibility makes lists a popular structure. List is created using the `list()` function.
 
 ~~~
 ## Create a vector containing the numbers 1 through 20 using the `:` operator.
@@ -81,106 +83,109 @@ class(my_vector)
 {: .language-r}
 
 ~~~
-We will store it in a new variable that
-helps us remember what it is. 
+## We can store it in a new variable that helps us remember what it is. 
 my_matrix <- my_vector
 ~~~
 {: .language-r}
 
 A more direct method of creating the same matrix uses the `matrix()` function.
 
-
-## Lists
-Lists are simply vectors of other objects. Lists are the R objects which contain elements of different types like − numbers, strings, vectors and another list inside it. This means that we may have lists of matrices, lists of dataframes, lists of lists, or a mixture of essentially any data type. This flexibility makes lists a popular structure. List is created using the `list()` function.
-
 ~~~
+## Let's create a matrix containing the same numbers (1-20) and dimensions (4 rows, 5
+columns) by calling the matrix() function. We'll store the result in a variable called
+my_matrix2.
 
-~~~
-{: .language-r}
-
-## Create a data frame
-You will likely be importing datasets for work with systematic reviews, but it is easy to create a data frame on your own if needed. 
-
-Let's create a data frame. 
-
-First let's define three vectors using book titles, author names, number of library checkouts, and if the book is available to be checked out.
-
-~~~
-title <- c("Macbeth","Dracula","1984")
-author <- c("Shakespeare","Stoker","Orwell")
-checkouts <- c(25, 15, 18)
-available <- c(TRUE, FALSE, FALSE)
+my_matrix2 <- matrix(1:20, nrow = 4, ncol = 5, byrow = FALSE)
 ~~~
 {: .language-r}
 
-Now, we'll create a data frame called `ebooks`.
+Now, imagine that the numbers in our table represent some measurements from a
+a library check out, where each row represents one library patron and each column represents
+one variable for how many items they've checked out.
 
 ~~~
-ebooks <- data.frame(title, author, checkouts, stringsAsFactors = F)
-~~~
-{: .language-r}
+## We may want to label the rows, so that we know which numbers belong to which library patron.
+To do this add a column to the matrix, which contains the names of all four library patrons.
 
-You can also `print` small data frames like this to the console using `print(ebooks)`
+## First, we will create a character vector containing the names of our library patrons --
+Erin, Kate, Kelly, and Matt. Remember that double quotes tell R that something is a
+character string. Store the result in a variable called patients.
 
-~~~
-title <- c("Macbeth","Dracula","1984")
-author <- c("Shakespeare","Stoker","Orwell")
-checkouts <- c(25, 15, 18)
+library_patrons <- c("Erin", "Kate", "Kelly", "Matt")
 ~~~
 {: .language-r}
 
 ~~~
-# create a data frame using the data.frame() 
-ebooks <- data.frame(title, author, checkouts, stringsAsFactors = F)
-print(ebooks)
+## Use the cbind() function to 'combine columns'. Don't worry about storing
+the result in a new variable. Just call cbind() with two arguments -- the patients
+vector and my_matrix.
+cbind(library_patrons, my_matrix)
+    library_patrons                     
+[1,] "Erin"   "1" "5" "9"  "13" "17"
+[2,] "Kate"   "2" "6" "10" "14" "18"
+[3,] "Kelly"  "3" "7" "11" "15" "19"
+[4,] "Matt"   "4" "8" "12" "16" "20"
 ~~~
 {: .language-r}
 
-For larger data frames, it’s best to use the View() function: View(ebooks). You can also use head() to see a preview (in this particular case, the data frame is too small to preview).
-
-Excel users might be wondering: how do I click in a cell and edit it?! R doesn't work like that. If you want to manipulate values, it's best to do it with an expression in the R console, and have all modifications documented in your script. 
-
-## Exploring data frames
-There are a number of ways to explore a data frame:
-
 ~~~
-#display information about the data frame
-str(ebooks)
+## Remember, matrices can only contain ONE class of data. When we tried to combine a character
+vector with a numeric matrix, R was forced to 'coerce' the numbers to characters,
+hence the double quotes.
 
-# dimensions: 3 rows, 3 columns
-dim(ebooks)
-## [1] 3 3
-
-# number of rows
-nrow(ebooks)
-## [1] 3
-
-# number of columns
-ncol(ebooks)
-## [1] 3
-
-# column names
-names(ebooks)
-## [1] "title"     "author"    "checkouts"
+## Instead we will create a data frame.
+my_data <- data.frame(library_patrons, my_matrix)
 ~~~
 {: .language-r}
 
-You can use the `$` symbol to work with particular variables.
-
 ~~~
-print(ebooks$title)
+## View the contents of my_data to see what we've come up with.
+my_data
+  library_patrons X1 X2 X3 X4 X5
+1     Erin  1  5  9 13 17
+2     Kate  2  6 10 14 18
+3    Kelly  3  7 11 15 19
+4     Matt  4  8 12 16 20
 
-ebooks$title)
-## [1] "character"
-
-ebooks$checkouts)
-## [1] "numeric"
-
-# use summary() for more detail on a variable
-summary(ebooks$checkouts)
-##  Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-## 15.00   16.50   18.00   19.33   21.50   25.00 
+## the data.frame() function allowed us to store our character vector of
+names right alongside our matrix of numbers.
 ~~~
 {: .language-r}
 
+The `data.frame()` function takes any number of arguments and returns a single object of class `data.frame` that is composed of the original objects.
 
+~~~
+## confirm this by calling the class() function on our newly created data frame.
+class(my_data)
+[1] "data.frame"
+~~~
+{: .language-r}
+
+We can also assign names to the columns of our data frame so that we know what type of library material each column represents.
+
+~~~
+## First, we'll create a character vector called cnames that contains the 
+following values (in order) -- "name", "book", "dvd",
+"laptop", "article", "reference".
+
+> cnames <- c("name", "book", "dvd", "laptop", "article", "reference")
+~~~
+{: .language-r}
+
+~~~
+## Use the colnames() function to set the `colnames` attribute for our data frame.
+colnames(my_data) <- cnames
+~~~
+{: .language-r}
+
+~~~
+## Print the contents of my_data to see if all looks right.
+
+> my_data
+    name  book  dvd laptop article reference
+1    Erin   1    5     9     13       17
+2    Kate   2    6    10     14       18
+3   Kelly   3    7    11     15       19
+4    Matt   4    8    12     16       20
+~~~
+{: .language-r}
