@@ -65,4 +65,11 @@ head(anderson_refs)
 >
 {: .callout}
 
+> ## The `stringsAsFactors` Argument
+>
+> This is perhaps the most important argument in `read.csv()`, particularly if you are working with categorical data. 
+> This is because the default behavior of R is to convert character strings into factors, 
+> which may make it difficult to do such things as replace values.
+>
+{: .callout}
 
