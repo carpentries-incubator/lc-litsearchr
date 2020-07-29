@@ -28,6 +28,7 @@ write_title_search(benchmark)
 {: .language-r}
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}
 
 We can then copy the title search and see if the articles are indexed by searching the databases we are using. When you only have a handful of benchmark articles like in this case, it is fairly easy to manually check if they were retrieved. But what if you had a list of dozens, or even a hundred, benchmark articles and wanted to check whether they are retrieved across databases? That's where partially automated search testing can be especially useful. The other benefit of testing search strategies in R is that the results are then reproducible and you can easily document what modifications were needed to retrieve all the benchmark articles and how those decisions were made.
@@ -47,6 +48,7 @@ medline <- import_results(directory="./data/search_testing/search_results/")
 {: .language-r}
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}
 
 ## Estimating search strategy comprehensiveness
@@ -83,4 +85,5 @@ save(full_search, medline, recall, file="search_test_round1.rda")
 If we then want to read those objects into R again, we can use `load` to read them into our workspace, or we could send the .rda file to a colleague who could also load the objects without having to run all the code or need the files you used to produce them.
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}

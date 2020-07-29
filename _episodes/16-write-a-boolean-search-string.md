@@ -52,4 +52,5 @@ print(full_search)
 {: .language-r}
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}

@@ -80,4 +80,5 @@ outcome <- append(outcome, c("alcohol", "liquor", "drinking", "wine", "beer"))
 {: .language-r}
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}

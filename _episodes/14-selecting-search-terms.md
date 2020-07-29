@@ -43,6 +43,7 @@ naive_graph <- create_network(
 {: .language-r}
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}
 
 Now that we have our network, we need to figure out which terms are the most important. One of the interesting things about keyword co-occurrence networks (and networks in general) is that their importance metrics follow a power law, where there are many terms with low importance and a few terms that are very important. To see what this looks like, we can extract the node `strength` from the network using the `igraph` package, `sort` the terms in order or their strenghts, and `plot` the node strengths.
@@ -100,6 +101,7 @@ plot(strengths, type="l", las=1)
 {: .language-r}
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}
 
 ## Selecting important terms

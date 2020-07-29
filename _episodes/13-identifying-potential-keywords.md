@@ -48,6 +48,7 @@ raked_keywords <- extract_terms(
 {: .language-r}
 
 > ## Check-in with helpers
+> For virtual lessons: head to breakout rooms to check in with helpers.
 {: .discussion}
 
 ## Inspecting identified keywords
