@@ -70,7 +70,7 @@ If you type a command that R doesn’t recognize, R will return an error message
 ~~~
 ## type in 3 % 7
 > 3 % 7
-Error: unexpected input in "3 % 7"
+Error: unexpected input in 3 % 7
 >
 ~~~
 {: .language-r}
