@@ -44,7 +44,7 @@ dim(my_vector)
 NULL
 
 ## Since my_vector is a vector, it doesn't have a
-`dim` attribute (so it's just NULL),
+`dim` attribute (so it is just NULL),
 ~~~
 {: .language-r}
 
