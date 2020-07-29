@@ -39,7 +39,7 @@ In order to use your data in R, you must import it and turn it into an R object.
 > * MEDLINE_501-603
 > * PsycINFO
 >
-> Add the three downloaded files from the search_results zip folder to the `search_results` folder. 
+> Add the three downloaded savedrecs files to the `search_results` folder. 
 > * savedrecs(1)
 > * savedrecs(2)
 > * savedrecs(3)
