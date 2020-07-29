@@ -57,7 +57,7 @@ The simplest and most common data structure in R is the vector. It contains elem
 The c() function is used for creating a vector. Read the help files for `c()` by calling `help(c)` or `?c` to learn more. 
 
 ~~~
-## create a numeric vector num_vect that contains the values 0.5, 55, -10, and 6.
+## create a numeric vector num_vect that contains the values 0.5, 55, -10, and 6. 
 num_vect <- c(0.5, 55, -10, 6)
 ~~~
 {: .language-r}
