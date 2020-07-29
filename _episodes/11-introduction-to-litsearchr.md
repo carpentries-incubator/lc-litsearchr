@@ -1,6 +1,6 @@
 ---
 title: "Introduction to litsearchr"
-teaching: 20
+teaching: 15
 exercises: 0
 questions:
 - "What is litsearchr?"
@@ -27,3 +27,13 @@ Once users have identified search terms, either conventionally and/or with the p
 
 ### Test search strategies
 Finally, litsearchr can help automate the process of testing search strategies, reducing the amount of time it takes to check if the target articles are returned when estimating comprehensiveness and making the process repeatable because everything is documented in code. 
+
+
+### Installing litsearchr
+Because litsearchr is not on the CRAN repository yet, we need to install it with a slightly different approach than we used for other packages. We will use the `remotes` package to install it from GitHub and specify that the branch of the repository we want to install is `main`.
+
+~~~
+library(remotes)
+install_github("elizagrames/litsearchr", ref="main")
+~~~
+{: .language-r}

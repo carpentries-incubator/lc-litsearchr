@@ -1,8 +1,18 @@
 # Library Carpentry: litsearchr
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
-
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
+
+## Library Carpentry
+
+[Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library- and information-related roles. It builds on the work of [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
+
+## License
+
+All Software, Data, and Library Carpentry instructional material is made available under the Creative Commons Attribution
+license. Licensed under CC-BY 4.0 2016–2020 by Library Carpentry.
+
+It is distributed under a https://creativecommons.org/licenses/by/4.0/.
+
 
 ## Contributing
 
@@ -32,6 +42,12 @@ Current maintainers of this lesson are
 ## Authors
 
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
+
+We would like to acknowledge and thank Clarke Lakovakis for allowing us to use his Introduction to R guide while developing this course.
+
+The guide accompanied the first day of instruction for his course at the 2019 FORCE11 Scholarly Communications Institute: “AM4 - Working with Scholarly Literature in R: Pulling, Wrangling, Cleaning, and Analyzing Structured Bibliographic Metadata.” It covers the essentials of what R is. The full guide can be found here: https://ciakovx.github.io/IntroductionToR.html
+
+It is distributed under a https://creativecommons.org/licenses/by/4.0/.
 
 ## Citation
 

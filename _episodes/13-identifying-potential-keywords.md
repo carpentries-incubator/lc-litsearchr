@@ -1,7 +1,7 @@
 ---
 title: "Identifying potential keywords with litsearchr"
-teaching: 40
-exercises: 50
+teaching: 30
+exercises: 15
 questions:
 - "How does litsearchr identify potential keywords?"
 objectives:
@@ -14,7 +14,7 @@ keypoints:
 
 Now that we have our deduplicated results, we can extract a list of potential keywords from them. This is not the list of keywords you will want to consider including in your search (we will get to that in a bit), and is simply all of the terms that the keyword extraction algorithm identifies as being a possible keyword. 
 
-We can identify potential keywords with the `extract_terms` function. To use `extract_terms`, we have to give it the text from which to extract terms. Using the titles, abstracts, and author- or database-tagged keywords makes the most sense, so we will paste those together. 
+We can identify potential keywords with the `extract_terms` function. To use `extract_terms`, we have to give it the text from which to extract terms. Using the titles, abstracts, and author- or database-tagged keywords makes the most sense, so we will paste those together. To subset these columns from our data frame, we can use `$` to extract named elements, which in our case are columns.
 
 ~~~
 my_text <- paste(naive_results$title, 

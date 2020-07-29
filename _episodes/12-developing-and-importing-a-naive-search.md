@@ -1,7 +1,7 @@
 ---
 title: "Developing a naive search and importing search results"
-teaching: 40
-exercises: 50
+teaching: 30
+exercises: 20
 questions:
 - "What is the purpose of a naive search?"
 objectives:
@@ -18,7 +18,7 @@ To identify potential search terms, litsearchr extracts keywords from the result
 
 The reason for this is that litsearchr selects keywords based on how often they co-occur in the same article as other keywords; terms that co-occur frequently with other terms are classified as more important to the research topic since they are well-connected. If there are too many irrelevant articles in the naive search results, the terms that co-occur frequently across all the articles will be generic terms like "linear models" or "positive effect", which clearly are not good keywords.
 
-Coming up with a naive search is very similar to developing a search strategy with conventional methods, except without reading papers to identify terms. Once the components of PICO (or one of its variants, like TOPICS+M) have been identified, come up with a set of the most precise terms you can think of that fit in the concept categories. 
+Coming up with a naive search is very similar to developing a search strategy with conventional methods, except without reading papers to identify terms. First, you want to identify the components of PICO (population, intervention, comparator, and outcome) for the review topic, or one of its variants, like TOPICS+M [(Johnson & Hennessy 2019)](https://doi.org/10.1016/j.socscimed.2019.05.035). Once these components or concept categories have been identified, come up with a set of the most precise terms you can think of that fit in the concept categories. 
 
 For example, if the population of interest is college students, you might come up with the terms "college student", "undergraduates", "post-secondary student", "university student", etc. You would not want to incude just "student" on its own since that could encompass earlier education stages or non-traditional education, and could result in many mis-hits for "Student's t-test" which are not at all relevant.
 
@@ -85,7 +85,22 @@ Some articles may be indexed in multiple databases. We need to remove duplicate 
 
 There are a lot of options for how to detect and remove duplicates. For example, you could remove articles that have the exact same title, or that have the same DOI, or that have abstracts which are highly similar to each other and may just differ by extra information that a database appends to the abstract field (e.g. starting with ABSTRACT: ). There are even more options for customizing deduplication if using the synthesisr package directly, but we will stick with a fairly simple deduplication because if a few duplicate articles are missed, it will not affect the keyword extraction too much.
 
-Here, we will remove any titles that are identical. litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates. 
+
+Here, we will remove any titles that are identical. First, we need to check which fields exist in our dataset and what the name is for titles in our dataset.  
+~~~
+colnames(naive_import)
+##  [1] "publication_type" "status"           "author"           "researcher_id"    "year"             "date_published"  
+##  [7] "title"            "source"           "volume"           "issue"            "n_pages"          "abstract"        
+## [13] "version"          "doi"              "issn"             "nlm_id"           "accession_number" "accession_zr"    
+## [19] "published_elec"   "ZZ"               "orcid_id"         "title_foreign"    "author_group"     "A2"              
+## [25] "AU"               "type"             "journal"          "keywords"         "number"           "pages"           
+## [31] "url"              "school"           "booktitle"        "isbn"             "publisher"        "series"          
+## [37] "filename"        
+
+~~~
+{: .language-r}
+
+litsearchr will automatically ignore case and punctuation, so "TITLE:"", "title--"", and "Title"" are considered duplicates. 
 
 ~~~
 naive_results <- remove_duplicates(naive_import, field = "title", method = "exact")

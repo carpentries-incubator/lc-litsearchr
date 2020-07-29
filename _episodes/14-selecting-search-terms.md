@@ -1,7 +1,7 @@
 ---
 title: "Search term selection with litsearchr"
-teaching: 40
-exercises: 50
+teaching: 30
+exercises: 20
 questions:
 - "How does litsearchr select important keywords?"
 objectives:
@@ -15,6 +15,9 @@ keypoints:
 Because not all the keywords are relevant (and you probaby do not want to run a search with several thousand terms!), the next step is to determine which keywords are important to the topic of the systematic review and manually review those suggestions. 
 
 To do this, `litsearchr` puts all of the terms into a keyword co-occurrence network. What this means is that if two terms both appear in the title/abstract/keywords of an article, they get marked as co-occurring. Terms that co-occur with other terms frequently are considered to be important to the topic because they are well-connected, especially if they are connected to other terms that are also well-connected. Building the keyword co-occurrence network lets litsearchr automatically identify which terms are probably important and suggest them as potential keywords. 
+
+![](../fig/example_KCN.png)
+
 
 ## Assessing how important terms are
 
@@ -68,16 +71,16 @@ strengths <- sort(strength(naive_graph), decreasing=TRUE)
 
 head(strengths, 10)
 
-##      alcohol advertising       alcohol consumption 
-##                      986                       811 
+##      alcohol consumption       alcohol advertising 
+##                     1556                      1106 
+##            public health          alcohol drinking 
+##                     1046                      1026 
 ##        physical activity              young people 
-##                      595                       574 
+##                      993                       896 
+##          school students         drinking patterns 
+##                      839                       820 
 ##            united states alcohol drinking patterns 
-##                      466                       414 
-##              young adult           school students 
-##                      378                       372 
-##       television viewing        alcoholic beverage 
-##                      359                       358 
+##                      722                       660 
 
 # most of them look pretty relevant to the topic, which is good
 
@@ -98,18 +101,18 @@ plot(strengths, type="l", las=1)
 
 We can use this power law relationship as a way to identify important terms. We want all the terms above some cutoff in importance, and do not want to consider the terms in the tail of the distribution. 
 
-To find a cutoff in node importance, we can use the aptly-named `find_cutoff` function. With method `cumulative`, we can tell the function to return a cutoff that gives us the minimum number of terms that gives us 50% of the total importance in the network. 
+To find a cutoff in node importance, we can use the aptly-named `find_cutoff` function. With method `cumulative`, we can tell the function to return a cutoff that gives us the minimum number of terms that gives us 30% of the total importance in the network. 
 
 ~~~
 cutoff <- find_cutoff(
     naive_graph,
     method = "cumulative",
-    percent = .50,
+    percent = .30,
     imp_method = "strength"
   )
   
 print(cutoff)
-## [1] 49
+## [1] 162
 ~~~
 {: .language-r}
 
@@ -126,7 +129,6 @@ Next, we want to reduce our graph (`reduce_graph`) to only terms that have a nod
 reduced_graph <- reduce_graph(naive_graph, cutoff_strength = cutoff)
 
 search_terms <- get_keywords(reduced_graph)
-
 ~~~
 {: .language-r}
 
@@ -137,8 +139,8 @@ search_terms <- get_keywords(reduced_graph)
 
 > ## Bonus Challenge
 > 
-> How many more search terms are retrieved when using a threshold of 80% instead of 50% of the network strength?
+> How many more search terms are retrieved when using a threshold of 50% instead of 30% of the network strength?
 > 
-> Hint: you will need to find cutoff values for both 80% and 50%, create two new reduced graphs with the different
+> Hint: you will need to find cutoff values for both 50% and 30%, create two new reduced graphs with the different
 > cutoff strengths, and check the `length` of the resulting search terms for each graph.
 {: .callout}

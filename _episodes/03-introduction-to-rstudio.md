@@ -1,17 +1,21 @@
 ---
 title: "Introduction to RStudio"
-teaching: 
-exercises: 0
+teaching: 30
+exercises: 15
 questions:
 - "How to navigate RStudio?"
 - "How to run r code?"
 objectives:
 - "Successfully navigate and run r code"
 keypoints:
-- "RStudio is a user interface for working with R"
+- "RStudio is a user interface for working with R."
+- "The Script Pane is sort of like a text editor, or a place to write and save code."
+- "To execute code you use Ctrl+Enter (Cmd+Enter on a Mac)."
+- "If you type an incomplete command and press Enter, R will display a `+` prompt, which means R is waiting for you to type the rest of your command."
+- "If you type a command that R doesn’t recognize, R will return an error message."
+- "The Environment Pane will display the objects that you’ve read into and objects you have defined."
+- "The Navigation Pane has many functions: files, plots, packages, viewer, and help."
 ---
-
-# About R and RStudio
 
 ## What is R?
 R is more of a programming language than a statistics program. You can use R to create, import, and scrape data from the web; clean and reshape it; visualize it; run statistical analysis and modeling operations on it; text and data mine it; and much more. 
@@ -34,6 +38,7 @@ If you were just using the basic R interface, without RStudio, this is all you w
 When you type a command at the prompt and hit Enter, your computer executes the command and shows you the results. Then RStudio displays a fresh prompt for your next command. For example, if you type 1 + 1 and hit Enter, RStudio will display:
 
 ~~~
+## type in 1 plus 1
 > 1+1
 [1] 2
 >
@@ -51,6 +56,7 @@ To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). To create a new .R scri
 If you type an incomplete command and press Enter, R will display a `+` prompt, which means R is waiting for you to type the rest of your command. Either finish the command or hit Escape to start over:
 
 ~~~
+## type in 6 subtracted from and leave it blank
 > 6 -
 +
 + 1
@@ -62,6 +68,7 @@ If you type an incomplete command and press Enter, R will display a `+` prompt, 
 If you type a command that R doesn’t recognize, R will return an error message.
 
 ~~~
+## type in 3 % 7
 > 3 % 7
 Error: unexpected input in "3 % 7"
 >
@@ -69,16 +76,23 @@ Error: unexpected input in "3 % 7"
 {: .language-r}
 
 
-Once you understand the command line, you can easily do anything in R that you would do with a calculator. For example, you could do some basic arithmetic:
+Once you understand the command line, you can easily do anything in R that you would do with a calculator. In its simplest form, R can be used as an interactive calculator. 
 
 ~~~
-2 * 4   
+## type in 5 plus 7
+> 5 + 7
+[1] 12
+
+## type in 2 multiplied by 4
+> 2 * 4   
 ## 8
 
-8 - 1   
+## type in 8 subtracted by 1
+> 8 - 1   
 ## 7
 
-6 / (3 - 1)   
+## type in 6 divided by (3 -1)
+> 6 / (3 - 1)   
 ## 3
 ~~~
 {: .language-r}
@@ -90,7 +104,7 @@ The Environment will display the objects that you’ve read into what is called 
 
 The environment pane will also include any objects you have defined. For example, if you type `y <- 5` into the console, you will now see `y` defined as a value in your environment.
 
-You can list all objects in the environment by typing ls() in the console and pressing Enter on your keyboard. You can clear all objects in the environment by clicking the broom icon to the right of the words “Import Dataset.”" Clear individual objects by using the rm function; for example: rm(y) will delete the y object from your environment.
+You can list all objects in the environment by typing `ls()` in the console and pressing Enter on your keyboard. You can clear all objects in the environment by clicking the broom icon to the right of the words “Import Dataset.”. Clear individual objects by using the `rm()` function; for example: rm(y) will delete the y object from your environment. Practice typing in the following functions. 
 
 ~~~
 ## to create object y type
@@ -117,39 +131,57 @@ This pane has multiple functions:
 * Viewer: View local web content
 
 > ## Challenge
-> Take a few minutes to practice executing commands and typing in the script pane with some basic arithmetic (you can use the same examples from above). 
+> Take a few minutes to practice executing commands and typing in the script pane with some basic arithmetic.  
 >
+{: .challenge}
+>
+>>## Solution
+>>1. To create object y. Answer: type `y <- 5`
+>>2. To multiply. Answer: type `2 * 4`
+>>3. To subtract. Answer: type `8 - 1`
+>>4. To divide. Answer: type `6 / (3 - 1)`
+>{: .solution}
 {: .challenge}
 
 Now that you feel more comfortable typing in commands let's practice some more. Work through the following excercise:
 
 > ## Exercise
+> This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. 
+> We'll cover these in later episodes of this lesson.
+> 
+> 1. Create a new .R file called `my_first_script.R`.
+> 2. Type in `file.create("my_first_script.R")` in the script pane.
+> 3. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
 >
-> 1. Create a new .R file called `my_first_script.R`
-> 2. Write each line of the following code separately in the script pane and identify where the results are found.
+> ~~~
+> ## to create a new .R file
+> file.create("my_first_script.R")
+> ~~~
+> {: .language-r}
 >
-~~~
-2 + 2
-sum(2, 2)
-sqrt(2)
-2 + sqrt(4)
-y <- 5
-y
-y + y
-2 * y
-print(y)
-View(y)
-str(y)
-plot(y)
-class(y)
-is.numeric(y)
-z <- c(5, 10, 15)
-y + z
-sum(y, z)
-plot(z)
-ls()
-rm(y)
-history()
-~~~
+> ~~~
+> ## type and run each line separately
+> 2 + 2
+> sum(2, 2)
+> sqrt(2)
+> 2 + sqrt(4)
+> y <- 5
+> y + y
+> 2 * y
+> print(y)
+> View(y)
+> str(y)
+> plot(y)
+> class(y)
+> is.numeric(y)
+> z <- c(5, 10, 15)
+> y + z
+> sum(y, z)
+> plot(z)
+> ls()
+> rm(y)
+> history()
+> ~~~
+> {: .language-r}
 >
 {: .checklist}

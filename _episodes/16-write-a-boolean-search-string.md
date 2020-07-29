@@ -1,7 +1,7 @@
 ---
 title: "Write a Boolean search string with litsearchr"
-teaching: 30
-exercises: 30
+teaching: 15
+exercises: 5
 questions:
 - "How does litsearchr write a Boolean search from the list of terms?"
 - "What are the different options for writing search strings?"
@@ -40,12 +40,14 @@ By default, litsearchr removes redundant search terms to reduce the total length
 To actually write a Boolean search for our example systematic review, we should give litsearchr our full term list. We can then either copy the output to a database search, or change `writesearch` to `TRUE` and litsearchr will write the search to a plain text file.
 
 ~~~
-write_search(list(population, exposure, outcome), 
-             closure="none", 
-             languages="English", 
-             stemming=TRUE, 
-             exactphrase=TRUE,
-             writesearch=FALSE)
+full_search <- write_search(list(population, exposure, outcome),
+                            closure = "none",
+                            languages = "English",
+                            stemming = TRUE,
+                            exactphrase = TRUE,
+                            writesearch = FALSE
+                            )
+print(full_search)
 ~~~
 {: .language-r}
 

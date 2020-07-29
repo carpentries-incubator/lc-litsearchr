@@ -63,3 +63,16 @@ recall <- check_recall(tolower(gold_standard$title), tolower(medline$title))
 >
 > Were all the benchmark articles retrieved?
 {: .callout}
+
+## Reproducibility of search testing
+
+One of the nice things about testing search strategies in R is that your tests are reproducible. You can re-run the code with the same files and will get the same results. You can also save your workspace so you know exactly what the output was the last time you ran the code. This is especially helpful for testing search strategies, since you may tweak which terms you include in the search and want a record of which articles were retrieved. 
+
+To save the output of running your code, you can either write files like we have been doing (e.g. with `write.csv`) or you can save the R objects themselves. You can save everything in your Global Environment with `save.image` or you can save one or more individual objects with `save`. Here, we will save the full search we wrote, the results we got in MEDLINE, and the recall of our search string and name the file something sensible.
+
+~~~
+save(full_search, medline, recall, file="search_test_round1.rda")
+~~~
+{: .language-r}
+
+If we then want to read those objects into R again, we can use `load` to read them into our workspace, or we could send the .rda file to a colleague who could also load the objects without having to run all the code or need the files you used to produce them.

@@ -1,6 +1,6 @@
 ---
 title: "An overview of systematic reviews"
-teaching: 30
+teaching: 15
 exercises: 10
 questions:
 
@@ -60,9 +60,9 @@ Systematic reviews are intensive, time-consuming projects often involving multi-
 
 The R package litsearchr provides a method to facilitate the harvesting of search terms to develop comprehensive search strategies, and to automatically create Boolean searches from lists of keywords, including incorporation of truncation and phrases.
 
-> ## Think-Pair-Share: Pros and Cons of automation
-> Think about the steps of a systematic review. What steps of the review process could benefit from automation? Are there 
-> any negative impacts to automating parts of the systematic review process? Share your thoughts with a partner, and then 
-> share with the rest of the group.
+> ## Think-Pair-Share: Reproducibility and search strategies
+> Think about the process of developing a search strategy for a systematic review. What aspects of this process are reproducible? 
+> What aspects are more difficult to reproduce? How do you think a tool like R and litsearchr can help to increase the reproducibility of this process? 
+> Share your thoughts with your breakout room group, and then share with the rest of the group by adding a comment to the [Etherpad](https://pad.carpentries.org/litsearchr-alpha_Cornell_20200806).
 {: .callout}
 

@@ -1,7 +1,7 @@
 ---
 title: "Group search terms to concept categories"
-teaching: 30
-exercises: 30
+teaching: 10
+exercises: 15
 questions:
 - "Can you add in more search terms that were not identified by litsearchr?"
 objectives:
@@ -79,6 +79,5 @@ population <- append(population, c("teenager", "teen", "teens",
 exposure <- append(exposure, c("marketing", "television", "TV", "magazine"))
 
 outcome <- append(outcome, c("alcohol", "liquor", "drinking", "wine", "beer"))
-
 ~~~
 {: .language-r}
