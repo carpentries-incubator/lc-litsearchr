@@ -33,7 +33,8 @@ This is an introduction to R and RStudio designed for participants with no progr
 > * [anderson_refs.rda](https://doi.org/10.6084/m9.figshare.12685472)
 > * [anderson_studies.rda](https://doi.org/10.6084/m9.figshare.12685481)
 > * [anderson_naive](https://doi.org/10.6084/m9.figshare.12685487) 
-> * [search_results](https://doi.org/10.6084/m9.figshare.12685550)
+> * [search_results](https://doi.org/10.6084/m9.figshare.12685550.v1)
+> * [suggested_keywords_grouped](https://doi.org/10.6084/m9.figshare.12735275)
 >
 > For this lesson we'll be using a published systematic review [Impact of alcohol advertising and media exposure on adolescent alcohol use: a systematic review of longitudinal studies](https://pubmed.ncbi.nlm.nih.gov/19144976/) which assessed the impact of alcohol advertising and media exposure on future adolescent alcohol use.
 >
