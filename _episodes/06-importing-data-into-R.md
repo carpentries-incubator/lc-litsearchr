@@ -32,6 +32,7 @@ In order to use your data in R, you must import it and turn it into an R object.
 > * anderson_refs.csv
 > * anderson_refs.rda
 > * andersosn_studies.rda
+> * suggested_keywords_grouped
 >
 > Add the three downloaded files from the anderson_naive zip folder to the `anderson_naive` folder.
 > * MEDLINE_1-500
