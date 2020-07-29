@@ -18,7 +18,6 @@ To estimate if a search string is comprehensive, we need a set of benchmark arti
 
 Not all of our benchmark articles will be indexed in the databases we are testing our search strategy in. To test our string, we really want to know if our search string can retrieve an article only if it is included in the database. The easiest way to check this is to search for the titles of the articles we want to retrieve in the databases we are using. To check this, we can use `write_title_search`, which is really just a special case of writing a Boolean search that does not allow stemming and retains all terms in the title. 
 
-
 ~~~
 load("./data/anderson_studies.rda")
 benchmark <- anderson_studies$title
@@ -27,6 +26,9 @@ write_title_search(benchmark)
 
 ~~~
 {: .language-r}
+
+> ## Check-in with helpers
+{: .discussion}
 
 We can then copy the title search and see if the articles are indexed by searching the databases we are using. When you only have a handful of benchmark articles like in this case, it is fairly easy to manually check if they were retrieved. But what if you had a list of dozens, or even a hundred, benchmark articles and wanted to check whether they are retrieved across databases? That's where partially automated search testing can be especially useful. The other benefit of testing search strategies in R is that the results are then reproducible and you can easily document what modifications were needed to retrieve all the benchmark articles and how those decisions were made.
 
@@ -43,6 +45,9 @@ gold_standard <- import_results(file="./data/search_testing/qgs.txt")
 medline <- import_results(directory="./data/search_testing/search_results/")
 ~~~
 {: .language-r}
+
+> ## Check-in with helpers
+{: .discussion}
 
 ## Estimating search strategy comprehensiveness
 
@@ -62,7 +67,7 @@ recall <- check_recall(tolower(gold_standard$title), tolower(medline$title))
 > `recall[which(recall[,'Similarity'] < 1),]`
 >
 > Were all the benchmark articles retrieved?
-{: .callout}
+{: .challenge}
 
 ## Reproducibility of search testing
 
@@ -76,3 +81,6 @@ save(full_search, medline, recall, file="search_test_round1.rda")
 {: .language-r}
 
 If we then want to read those objects into R again, we can use `load` to read them into our workspace, or we could send the .rda file to a colleague who could also load the objects without having to run all the code or need the files you used to produce them.
+
+> ## Check-in with helpers
+{: .discussion}

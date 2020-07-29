@@ -47,6 +47,8 @@ raked_keywords <- extract_terms(
 ~~~
 {: .language-r}
 
+> ## Check-in with helpers
+{: .discussion}
 
 ## Inspecting identified keywords
 

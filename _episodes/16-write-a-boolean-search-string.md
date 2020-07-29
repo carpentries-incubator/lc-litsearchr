@@ -32,7 +32,7 @@ By default, litsearchr removes redundant search terms to reduce the total length
 > To understand the closure rules, play around with some mock search terms by changing the closure, stemming, and exactphrase options and seeing how the outcput changes.
 > `terms <- c("advertise", "advertising", "alcohol advertising", "advertisement")`
 > `write_search(list(terms), closure="left", languages="English", stemming=TRUE, exactphrase=TRUE)`
-{: .callout}
+{: .challenge}
 
 
 ## Writing a Boolean search
@@ -51,3 +51,5 @@ print(full_search)
 ~~~
 {: .language-r}
 
+> ## Check-in with helpers
+{: .discussion}

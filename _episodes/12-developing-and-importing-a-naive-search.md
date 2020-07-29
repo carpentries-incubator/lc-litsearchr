@@ -31,7 +31,7 @@ For example, if the population of interest is college students, you might come u
 > Start by identifying the PICO (or one of its variants, such as PICOTS or PECO) components of the question and then generate all of the most precise synonyms. For 
 > example, you might opt for PECO and will identify the population as adolescents, exposure as alcohol advertising, and the outcome as alcohol use, but not include a 
 > comparator in the search terms.
-{: .checklist}
+{: .challenge}
 
 
 ## Data used in this lesson
@@ -79,6 +79,9 @@ nrow(naive_import)
 ~~~
 {: .language-r}
 
+> ## Check-in with helpers
+{: .discussion}
+
 ## Deduplicating search results
 
 Some articles may be indexed in multiple databases. We need to remove duplicate articles because otherwise the terms found in those articles will be overrepresented in the dataset. 
@@ -111,4 +114,4 @@ naive_results <- remove_duplicates(naive_import, field = "title", method = "exac
 > ## Exercise: Counting unique records
 > Check how many unique records were retained with `nrow`. 
 > Since there were only two databases, how many records can we conclude were unique to PsycINFO and not in the MEDLINE output?
-{: .callout}
+{: .challenge}

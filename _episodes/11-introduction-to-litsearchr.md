@@ -38,4 +38,5 @@ install_github("elizagrames/litsearchr", ref="main")
 ~~~
 {: .language-r}
 
+> ## Check-in with helpers
 {: .discussion}

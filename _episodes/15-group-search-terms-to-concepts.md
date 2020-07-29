@@ -27,7 +27,7 @@ To group keywords into categories, we recommend exporting the suggested list of 
 > Take 3-5 minutes to go through as many terms in the list as you have time for and decide whether they match to the population (adolescents), exposure (alcohol advertising), outcome (alcohol use), or none of the groups. In the 'group' column of the spreadsheet, indicate the group(s) that a term belongs to; for example, "teen binge drinking" would be marked as "population, outcome" in the 'group' column because it matches two of the concept categories. For terms that are not relevant, you can mark the group as "x" or "not relevant" or another term that makes sense to you.
 >
 > You should not expect to finish reviewing terms in that amount of time, but can practice classifying them. We will use a pre-filled out .csv for subsequent practice. 
-{: .callout}
+{: .challenge}
 
 ## Reading grouped terms into R
 
@@ -40,7 +40,6 @@ head(grouped_terms)
 ~~~
 {: .language-r}
 
-
 Once terms have been manually grouped and read into a data frame in R, the terms associated with each concept group can be extracted to a character vector. Because all groups and terms will be different depending on the topic of a review, this stage is not automatically done by litsearchr and requires some custom coding to pull out the different groups.
 
 We can use `grep` to determine which terms belong to each group; `grep` is a way to detect strings (i.e. words). The output of `grep` is a vector of numbers that indicate which elements from grouped_terms$group contain the term 'population' which we can use to subset them out. We can combine this with square brackets `[]` to subset the 'term' column of grouped_terms and extract just the ones that contain the pattern 'population'.
@@ -52,13 +51,12 @@ population <- grouped_terms$term[grep(pattern="population", grouped_terms$group)
 ~~~
 {: .language-r}
 
-
 > ## Exercise: Subsetting terms
 > Using what you just learned to subset the population terms, repeat this process for the outcome and exposure groups and save them to character vectors named `outcome` and `exposure`.
 >
 > `exposure <- grouped_terms$term[grep("exposure", grouped_terms$group)]`
 > `outcome <- grouped_terms$term[grep("outcome", grouped_terms$group)]`
-{: .callout}
+{: .challenge}
 
 ## Adding new terms to a search
 
@@ -70,7 +68,6 @@ For example, we may want to add back the terms from our naive search:
 
 To do this, we can use `append` to add more terms to the end of our character vector. If you do not know if a term was already in the list, add it anyways and use `unique` to keep only unique terms.
 
-
 ~~~
 population <- append(population, c("teenager", "teen", "teens", 
                                   "adolescent", "adolescents", 
@@ -81,3 +78,6 @@ exposure <- append(exposure, c("marketing", "television", "TV", "magazine"))
 outcome <- append(outcome, c("alcohol", "liquor", "drinking", "wine", "beer"))
 ~~~
 {: .language-r}
+
+> ## Check-in with helpers
+{: .discussion}

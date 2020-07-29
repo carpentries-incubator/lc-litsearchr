@@ -42,6 +42,9 @@ naive_graph <- create_network(
 ~~~
 {: .language-r}
 
+> ## Check-in with helpers
+{: .discussion}
+
 Now that we have our network, we need to figure out which terms are the most important. One of the interesting things about keyword co-occurrence networks (and networks in general) is that their importance metrics follow a power law, where there are many terms with low importance and a few terms that are very important. To see what this looks like, we can extract the node `strength` from the network using the `igraph` package, `sort` the terms in order or their strenghts, and `plot` the node strengths.
 
 ~~~
@@ -96,6 +99,8 @@ plot(strengths, type="l", las=1)
 ~~~
 {: .language-r}
 
+> ## Check-in with helpers
+{: .discussion}
 
 ## Selecting important terms
 
@@ -121,7 +126,7 @@ print(cutoff)
 > In some cases, we may want to be more or less flexible with where the cutoff is placed for term importance.
 > Using the code from the lesson as a template, find a new cutoff that returns 80% of the strength of the network.
 > 
-{: .callout}
+{: .challenge}
 
 Next, we want to reduce our graph (`reduce_graph`) to only terms that have a node strength above our cutoff value. We can then get the keywords (`get_keywords`) that are still included in the network, which will give us a vector of important keywords to manually consider whether or not they should be included in the search terms. 
 
@@ -134,7 +139,7 @@ search_terms <- get_keywords(reduced_graph)
 
 > ## Challenge: Counting search terms
 > How many terms has litsearchr suggested we review manually? Hint: `length` will be useful.
-{: .callout}
+{: .challenge}
 
 
 > ## Bonus Challenge
@@ -143,4 +148,4 @@ search_terms <- get_keywords(reduced_graph)
 > 
 > Hint: you will need to find cutoff values for both 50% and 30%, create two new reduced graphs with the different
 > cutoff strengths, and check the `length` of the resulting search terms for each graph.
-{: .callout}
+{: .challenge}
