@@ -147,7 +147,8 @@ Sys.Date()
 ~~~
 ## Most functions in R return a value. Functions like Sys.Date() return a value based on your computer's environment, while other functions manipulate input data in order to compute a return value.
 
-## The mean() function takes a vector of numbers as input, and returns the average of all of the numbers in the input vector. Inputs to functions are often called arguments. Providing arguments to a function is also sometimes called passing arguments to that function. Arguments you want to pass to a function go inside the functions parentheses. Try passing the argument c(2, 4, 5) to the mean() function.
+## The mean() function takes a vector of numbers as input, and returns the average of all of the numbers in the input vector. Inputs to functions are often called arguments. Providing arguments to a function is also sometimes called passing arguments to that function. 
+## Arguments you want to pass to a function go inside the functions parentheses. Try passing the argument c(2, 4, 5) to the mean() function.
 
 > mean(c(2, 4, 5))
 [1] 3.666667
