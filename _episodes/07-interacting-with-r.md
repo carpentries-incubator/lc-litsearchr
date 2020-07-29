@@ -57,7 +57,7 @@ The simplest and most common data structure in R is the vector. It contains elem
 The c() function is used for creating a vector. Read the help files for `c()` by calling `help(c)` or `?c` to learn more. 
 
 ~~~
-## create a numeric vector num_vect that contains the values 0.5, 55, -10, and 6.
+## create a numeric vector num_vect that contains the values 0.5, 55, -10, and 6. 
 num_vect <- c(0.5, 55, -10, 6)
 ~~~
 {: .language-r}
@@ -75,24 +75,16 @@ tf
 
 ## tf is a vector of 4 logical values
 
-## The statement num_vect < 1 is a condition and tf tells us 
-whether each corresponding element of our numeric vector num_vect satisfies this condition.
+## The statement num_vect < 1 is a condition and tf tells us whether each corresponding element of our numeric vector num_vect satisfies this condition.
 
-## The first element of num_vect is 0.5, which is less than 1 and
-therefore the statement 0.5 < 1 is TRUE. The second element of
-num_vect is 55, which is greater than 1, so the statement 55 <
-1 is FALSE. The same logic applies for the third and fourth
-elements.
+## The first element of num_vect is 0.5, which is less than 1 and therefore the statement 0.5 < 1 is TRUE. The second element of num_vect is 55, which is greater than 1, so the statement 55 <1 is FALSE. The same logic applies for the third and fourth elements.
 ~~~
 {: .language-r}
 
 Character vectors are also very common in R. Double quotes are used to distinguish character objects, as in the following example.
 
 ~~~
-## Create a character vector that contains the following words:
-"My", "name", "is". Remember to enclose each word in its own
-set of double quotes, so that R knows they are character
-strings. Store the vector in a variable called my_char.
+## Create a character vector that contains the following words: "My", "name", "is". Remember to enclose each word in its own set of double quotes, so that R knows they are character strings. Store the vector in a variable called my_char.
 
 my_char <- c("My", "name", "is")
 
@@ -102,27 +94,19 @@ my_char
 {: .language-r}
 
 ~~~
-## Right now, my_char is a character vector of length 3. Let's say
-we want to join the elements of my_char together into one
-continuous character string (a character vector of length
-1). We can do this using the paste() function.
+## Right now, my_char is a character vector of length 3. Let's say we want to join the elements of my_char together into one continuous character string (a character vector of length 1). We can do this using the paste() function.
 
-## Type paste(my_char, collapse = " "). Make sure there's a
-space between the double quotes in the `collapse` argument.
+## Type paste(my_char, collapse = " "). Make sure there's a space between the double quotes in the `collapse` argument.
 
 paste(my_char, collapse= " ")
 [1] "My name is"
 
-## The `collapse` argument to the paste() function tells R that
-when we join together the elements of the my_char character
-vector, we would like to separate them with single spaces.
+## The `collapse` argument to the paste() function tells R that when we join together the elements of the my_char character vector, we would like to separate them with single spaces.
 ~~~
 {: .language-r}
 
 ~~~
-## To add your name to the end of my_char, use the c() function like this: c(my_char, "your_name_here"). 
-Place your name in double quotes, "your_name_here". Try
-it and store the result in a new variable called my_name.
+## To add your name to the end of my_char, use the c() function like this: c(my_char, "your_name_here"). Place your name in double quotes, "your_name_here". Try it and store the result in a new variable called my_name.
 
 my_name <- c(my_char, "Amelia")
 
@@ -130,24 +114,21 @@ my_name <- c(my_char, "Amelia")
 my_name
 [1] "My"     "name"   "is"     "Amelia"
 
-## Now, use the paste() function once more to join the words in
-my_name together into a single character string. 
+## Now, use the paste() function once more to join the words in my_name together into a single character string. 
 
 paste(my_name, collapse = " ")
 [1] "My name is Amelia"
 
-## we used the paste() function to collapse the elements of a single character vector.
+## We used the paste() function to collapse the elements of a single character vector.
 ~~~
 {: .language-r}
 
 ~~~
 ## paste() can also be used to join the elements of multiple character vectors.
 
-## In the simplest case, we can join two character vectors that
-are each of length 1 (i.e. join two words). 
+## In the simplest case, we can join two character vectors that are each of length 1 (i.e. join two words). 
 
-## Try paste("Hello", "world!", sep = " "), where the `sep` argument tells R that we
-want to separate the joined elements with a single space.
+## Try paste("Hello", "world!", sep = " "), where the `sep` argument tells R that we want to separate the joined elements with a single space.
 
 > paste("Hello", "world!", sep = " ")
 [1] "Hello world!"
@@ -164,13 +145,10 @@ Sys.Date()
 {: .language-r}
 
 ~~~
-## Most functions in R return a value. Functions like Sys.Date() return a value based on your computer's
-environment, while other functions manipulate input data in order to compute a return value.
+## Most functions in R return a value. Functions like Sys.Date() return a value based on your computer's environment, while other functions manipulate input data in order to compute a return value.
 
-## The mean() function takes a vector of numbers as input, and returns the average of all of the numbers in
-the input vector. Inputs to functions are often called arguments. Providing arguments to a function is also
-sometimes called passing arguments to that function. Arguments you want to pass to a function go inside the
-functions parentheses. Try passing the argument c(2, 4, 5) to the mean() function.
+## The mean() function takes a vector of numbers as input, and returns the average of all of the numbers in the input vector. Inputs to functions are often called arguments. Providing arguments to a function is also sometimes called passing arguments to that function. 
+## Arguments you want to pass to a function go inside the functions parentheses. Try passing the argument c(2, 4, 5) to the mean() function.
 
 > mean(c(2, 4, 5))
 [1] 3.666667

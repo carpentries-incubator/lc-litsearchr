@@ -26,8 +26,7 @@ Matrices behave as two-dimensional vectors. They are faster to access and index 
 Lists are simply vectors of other objects. Lists are the R objects which contain elements of different types like − numbers, strings, vectors and another list inside it. This means that we may have lists of matrices, lists of dataframes, lists of lists, or a mixture of essentially any data type. This flexibility makes lists a popular structure. List is created using the `list()` function.
 
 ~~~
-## Create a vector containing the numbers 1 through 20 using the `:` operator.
-Store the result in a variable called my_vector.
+## Create a vector containing the numbers 1 through 20 using the `:` operator. Store the result in a variable called my_vector.
 my_vector <- 1:20
 ~~~
 {: .language-r}
@@ -57,8 +56,7 @@ length(my_vector)
 {: .language-r}
 
 ~~~
-## If we give my_vector a `dim` attribute, the first number is the number of rows and the second is the number of
-columns. Therefore, we just gave my_vector 4 rows and 5 columns.
+## If we give my_vector a `dim` attribute, the first number is the number of rows and the second is the number of columns. Therefore, we just gave my_vector 4 rows and 5 columns.
 > dim(my_vector) <- c(4, 5)
 ~~~
 {: .language-r}
@@ -91,8 +89,7 @@ my_matrix <- my_vector
 A more direct method of creating the same matrix uses the `matrix()` function.
 
 ~~~
-## Let's create a matrix containing the same numbers (1-20) and dimensions (4 rows, 5
-columns) by calling the matrix() function. We'll store the result in a variable called
+## Let's create a matrix containing the same numbers (1-20) and dimensions (4 rows, 5 columns) by calling the matrix() function. We'll store the result in a variable called
 my_matrix2.
 
 my_matrix2 <- matrix(1:20, nrow = 4, ncol = 5, byrow = FALSE)
@@ -105,20 +102,18 @@ one variable for how many items they've checked out.
 
 ~~~
 ## We may want to label the rows, so that we know which numbers belong to which library patron.
-To do this add a column to the matrix, which contains the names of all four library patrons.
+## To do this add a column to the matrix, which contains the names of all four library patrons.
 
-## First, we will create a character vector containing the names of our library patrons --
-Erin, Kate, Kelly, and Matt. Remember that double quotes tell R that something is a
-character string. Store the result in a variable called patients.
+## First, we will create a character vector containing the names of our library patrons -- Erin, Kate, Kelly, and Matt. 
+## Remember that double quotes tell R that something is a character string. Store the result in a variable called patients.
 
 library_patrons <- c("Erin", "Kate", "Kelly", "Matt")
 ~~~
 {: .language-r}
 
 ~~~
-## Use the cbind() function to 'combine columns'. Don't worry about storing
-the result in a new variable. Just call cbind() with two arguments -- the patients
-vector and my_matrix.
+## Use the cbind() function to 'combine columns'. Don't worry about storing the result in a new variable. 
+## Just call cbind() with two arguments -- the library patrons vector and my_matrix.
 cbind(library_patrons, my_matrix)
     library_patrons                     
 [1,] "Erin"   "1" "5" "9"  "13" "17"
@@ -129,8 +124,7 @@ cbind(library_patrons, my_matrix)
 {: .language-r}
 
 ~~~
-## Remember, matrices can only contain ONE class of data. When we tried to combine a character
-vector with a numeric matrix, R was forced to 'coerce' the numbers to characters,
+## Remember, matrices can only contain ONE class of data. When we tried to combine a character vector with a numeric matrix, R was forced to 'coerce' the numbers to characters,
 hence the double quotes.
 
 ## Instead we will create a data frame.
@@ -147,8 +141,7 @@ my_data
 3    Kelly  3  7 11 15 19
 4     Matt  4  8 12 16 20
 
-## the data.frame() function allowed us to store our character vector of
-names right alongside our matrix of numbers.
+## the data.frame() function allowed us to store our character vector of names right alongside our matrix of numbers.
 ~~~
 {: .language-r}
 
@@ -164,8 +157,7 @@ class(my_data)
 We can also assign names to the columns of our data frame so that we know what type of library material each column represents.
 
 ~~~
-## First, we'll create a character vector called cnames that contains the 
-following values (in order) -- "name", "book", "dvd",
+## First, we'll create a character vector called cnames that contains the  following values (in order) -- "name", "book", "dvd",
 "laptop", "article", "reference".
 
 > cnames <- c("name", "book", "dvd", "laptop", "article", "reference")
