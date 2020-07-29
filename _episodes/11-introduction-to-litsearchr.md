@@ -37,3 +37,5 @@ library(remotes)
 install_github("elizagrames/litsearchr", ref="main")
 ~~~
 {: .language-r}
+
+{: .discussion}
