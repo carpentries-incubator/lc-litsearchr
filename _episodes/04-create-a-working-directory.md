@@ -25,6 +25,32 @@ For this lesson we'll create a new project.
 
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
 
+> ## If you haven't already downloaded the files for this lesson do so now. 
+>
+> Create three folders on your computer desktop and name them `data`, `anderson_naive`, and `search_results`
+>  
+> Add the following files you downloaded at the beginning of the lesson to the `data `folder. 
+> * anderson_refs.csv
+> * anderson_refs.rda
+> * andersosn_studies.rda
+> * suggested_keywords_grouped
+>
+> Add the three downloaded files from the anderson_naive zip folder to the `anderson_naive` folder.
+> * MEDLINE_1-500
+> * MEDLINE_501-603
+> * PsycINFO
+>
+> Add the three downloaded savedrecs files to the `search_results` folder. 
+> * savedrecs(1)
+> * savedrecs(2)
+> * savedrecs(3)
+>
+> Create a folder on your desktop called `litsearchr`. Add your three folders, `data`, `anderson_naive`, and `search_results` to the `litsearchr` folder.
+>
+> If you need to download the files they can be found in [Data](https://ameliakallaher.github.io/lc-litsearchr/index.html) 
+>
+{: .callout}
+
 ## Organize your working directory
 Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make it easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you can create directories or folders for **scripts**, **data**, and **documents**. 
 
