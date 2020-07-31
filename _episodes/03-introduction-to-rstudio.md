@@ -150,7 +150,14 @@ Now that you feel more comfortable typing in commands let's practice some more. 
 > We'll cover these in later episodes of this lesson.
 > 
 > 1. Create a new .R file called `my_first_script.R`.
-> 2. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
+> 2. Type in `file.create("my_first_script.R")` in the script pane.
+> 3. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
+>
+> ~~~
+> ## to create a new .R file
+> file.create("my_first_script.R")
+> ~~~
+> {: .language-r}
 >
 > ~~~
 > ## type and run each line separately
