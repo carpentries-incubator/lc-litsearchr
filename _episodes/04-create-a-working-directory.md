@@ -51,6 +51,25 @@ If for some reason your working directory is not set up correctly you can change
 >
 {: .callout}
 
+## Set your working directory
+The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. 
+
+~~~
+# Determine which directory your R session is using as its current working directory using getwd().
+getwd()
+~~~
+{: .language-r}
+
+To set your new working directory go to:
+1. Under `Session` at the top
+2. Scroll down to `Set Working Directory`
+3. Select `Choose Directory`
+4. Choose the folder `litsearchr` on your desktop
+
+* On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
+* The directory name must be in quotation marks. 
+
+
 ## Organize your working directory
 Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make it easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you can create directories or folders for **scripts**, **data**, and **documents**. 
 
@@ -78,23 +97,6 @@ dir.create("scripts")
 ~~~
 {: .language-r}
 
-## Set your working directory
-The **working directory** is the location on your computer R will use for reading and writing files. Use `getwd()` to print your current working directory to the console. Use `setwd()` to set your working directory. 
-
-~~~
-# Determine which directory your R session is using as its current working directory using getwd().
-getwd()
-~~~
-{: .language-r}
-
-To set your new working directory go to:
-1. Under `Session` at the top
-2. Scroll down to `Set Working Directory`
-3. Select `Choose Directory`
-4. Choose the folder `litsearchr` on your desktop
-
-* On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
-* The directory name must be in quotation marks. 
 
 ## Exploring your working directory
 
