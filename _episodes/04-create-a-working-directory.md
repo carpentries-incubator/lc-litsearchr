@@ -63,7 +63,7 @@ getwd()
 lesson.dir <- getwd()
 
 # Set your working directory to "lesson.dir" with the setwd() command.
-setwd("lesson.dir")
+setwd(lesson.dir)
 ~~~
 {: .language-r}
 
@@ -96,7 +96,7 @@ dir()
 As we go through this lesson, you should be examining the help page for each new function. Check out the help page for list.files with the command `?list.files`.
 
 ~~~
-> ?list.files
+?list.files
 ~~~
 {: .language-r}
 
@@ -106,6 +106,7 @@ Using the `args()` function on a function name is also a handy way to see what a
 
 ~~~
 args(list.files)
+
 function (path = ".", pattern = NULL, all.files = FALSE, 
     full.names = FALSE, recursive = FALSE, ignore.case = FALSE, 
     include.dirs = FALSE, no.. = FALSE) 
