@@ -44,6 +44,8 @@ In order to use your data in R, you must import it and turn it into an R object.
 > * savedrecs(2)
 > * savedrecs(3)
 >
+> Create a folder on your desktop called `litsearchr`. Add your three new folders, `data`, `anderson_naive`, and `search_results` to the `litsearchr` folder.
+>
 > If you need to download the files they can be found in [Data](https://ameliakallaher.github.io/lc-litsearchr/index.html) 
 >
 {: .callout}
