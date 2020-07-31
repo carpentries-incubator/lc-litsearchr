@@ -50,8 +50,7 @@ We can do this easily since `y` only has one element, but if you do this with a 
 You can use R to type *commands* into your code by using the hash symbol `#`. Anything following the hash symbol will not be evaluated. Adding notes, comments, and directions along the way helps to explain your code to someone else as well as document your own steps like a manual you can refer back to. Commenting code, along with documenting how data is collected and explaining what each variable represents, is essential to [reproducibile research](https://ropensci.github.io/reproducibility-guide/sections/introduction/).
 
 ## Vectors
-The simplest and most common data structure in R is the vector. It contains elements of exactly one data type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object. In this episode we'll take a closer look at logical and character
-| vectors.
+The simplest and most common data structure in R is the vector. It contains elements of exactly one data type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object. In this episode we'll take a closer look at logical and character vectors.
 
 ### The `c()` function
 The c() function is used for creating a vector. Read the help files for `c()` by calling `help(c)` or `?c` to learn more. 
@@ -74,12 +73,10 @@ tf
 [1]  TRUE FALSE  TRUE FALSE
 
 ## tf is a vector of 4 logical values
-
-## The statement num_vect < 1 is a condition and tf tells us whether each corresponding element of our numeric vector num_vect satisfies this condition.
-
-## The first element of num_vect is 0.5, which is less than 1 and therefore the statement 0.5 < 1 is TRUE. The second element of num_vect is 55, which is greater than 1, so the statement 55 <1 is FALSE. The same logic applies for the third and fourth elements.
 ~~~
 {: .language-r}
+
+The statement num_vect < 1 is a condition and tf tells us whether each corresponding element of our numeric vector num_vect satisfies this condition. The first element of num_vect is 0.5, which is less than 1 and therefore the statement 0.5 < 1 is TRUE. The second element of num_vect is 55, which is greater than 1, so the statement 55 <1 is FALSE. The same logic applies for the third and fourth elements.
 
 Character vectors are also very common in R. Double quotes are used to distinguish character objects, as in the following example.
 
@@ -93,9 +90,9 @@ my_char
 ~~~
 {: .language-r}
 
-~~~
-## Right now, my_char is a character vector of length 3. Let's say we want to join the elements of my_char together into one continuous character string (a character vector of length 1). We can do this using the paste() function.
+Right now, my_char is a character vector of length 3. Let's say we want to join the elements of my_char together into one continuous character string (a character vector of length 1). We can do this using the paste() function.
 
+~~~
 ## Type paste(my_char, collapse = " "). Make sure there's a space between the double quotes in the `collapse` argument.
 
 paste(my_char, collapse= " ")
@@ -123,11 +120,9 @@ paste(my_name, collapse = " ")
 ~~~
 {: .language-r}
 
+In the simplest case, we can join two character vectors that are each of length 1 (i.e. join two words). paste() can also be used to join the elements of multiple character vectors.
+
 ~~~
-## paste() can also be used to join the elements of multiple character vectors.
-
-## In the simplest case, we can join two character vectors that are each of length 1 (i.e. join two words). 
-
 ## Try paste("Hello", "world!", sep = " "), where the `sep` argument tells R that we want to separate the joined elements with a single space.
 
 > paste("Hello", "world!", sep = " ")
@@ -144,14 +139,51 @@ Sys.Date()
 ~~~
 {: .language-r}
 
-~~~
-## Most functions in R return a value. Functions like Sys.Date() return a value based on your computer's environment, while other functions manipulate input data in order to compute a return value.
+Most functions in R return a value. Functions like Sys.Date() return a value based on your computer's environment, while other functions manipulate input data in order to compute a return value.
 
-## The mean() function takes a vector of numbers as input, and returns the average of all of the numbers in the input vector. Inputs to functions are often called arguments. Providing arguments to a function is also sometimes called passing arguments to that function. 
+The mean() function takes a vector of numbers as input, and returns the average of all of the numbers in the input vector. Inputs to functions are often called arguments. Providing arguments to a function is also sometimes called passing arguments to that function. 
+
+~~~
 ## Arguments you want to pass to a function go inside the functions parentheses. Try passing the argument c(2, 4, 5) to the mean() function.
 
 > mean(c(2, 4, 5))
 [1] 3.666667
+~~~
+{: .language-r}
+
+We've used a couple of functions already in this lesson while you were getting familiar with the RStudio enviroment. Let's revisit some of them more closely.
+
+We can use `names()` to view the column head names in our csv file.
+~~~
+## to view the column head names in anderson_refs use the names() function
+names(anderson_refs)
+~~~
+{: .language-r}
+
+Since we're dealing with categorical data in our csv file we can use the `levels()` function to view all the categories within a particular categorical column.
+~~~
+## to see all of the journals from the search results in anderson_refs use the levels() function
+levels(anderson_refs$source)
+~~~
+{: .language-r}
+
+However, if we try to use the levels() function on a non-categorical column like `volume` R will return a `NULL` 
+~~~
+levels(anderson_refs$volume)
+~~~
+{: .language-r}
+
+We can use the `sort()` function to view all of the publication years sorted from oldest to most recent.
+~~~
+## to arrange publication years by asending order use the sort() function
+sort(anderson_refs$year)
+~~~
+{: .language-r}
+
+We can use the `table()` function to make a table from one of our categorical columns.
+~~~
+## to create a table counting how many times a journal appears in our search results
+table(anderson_refs$source)
 ~~~
 {: .language-r}
 
