@@ -62,6 +62,17 @@ head(anderson_refs)
 ~~~
 {: .language-r}
 
+~~~
+## We can see what R thinks of the data in our dataset by using the class() function with $ operator.
+
+# use the column name `year`
+class(anderson_refs$year)
+
+# use the column name `source`
+class(anderson_refs$source)
+~~~
+{: .language-r}
+
 > ## The `header` Argument
 > The default for `read.csv(...)` is to set the header argument to `TRUE`. This means that the first row of values in the .csv is set as header information (column names). 
 > If your data set does not have a header, set the header argument to `FALSE`.
