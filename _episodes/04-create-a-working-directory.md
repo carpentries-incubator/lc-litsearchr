@@ -25,7 +25,7 @@ For this lesson we'll create a new project.
 
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
 
-> ## If you haven't already downloaded the files for this lesson do so now. 
+> ## Download the data for this lesson
 >
 > Create three folders on your computer desktop and name them `data`, `anderson_naive`, and `search_results`
 >  
@@ -174,12 +174,5 @@ file.copy("myscript.R", "myscript2.R")
 ~~~
 {: .language-r}
 
-> ## Download the data for this lesson
-> For the next part of the lesson we will be using a small dataset of references from a published systematic review on alcohol advertising and teens.
->
-> If you haven't already done so, download the dataset [anderson_refs.csv](https://doi.org/10.6084/m9.figshare.12417554.v1) from Figshare. 
->
-> Save the file to your `Desktop` for now.
->
-{: .callout}
+
 
