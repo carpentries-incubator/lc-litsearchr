@@ -151,7 +151,7 @@ The mean() function takes a vector of numbers as input, and returns the average 
 ~~~
 {: .language-r}
 
-We've used a couple of functions already in this lesson while you were getting familiar with the RStudio enviroment. Let's revisit some of them more closely.
+We've used a couple of functions already in this lesson while you were getting familiar with the RStudio environment. Let's revisit some of them more closely. 
 
 We can use `names()` to view the column head names in our csv file.
 ~~~
