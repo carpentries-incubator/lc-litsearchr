@@ -56,7 +56,8 @@ length(my_vector)
 {: .language-r}
 
 ~~~
-## If we give my_vector a `dim` attribute, the first number is the number of rows and the second is the number of columns. Therefore, we just gave my_vector 4 rows and 5 columns.
+## If we give my_vector a `dim` attribute, the first number is the number of rows and the second is the number of columns. 
+## Therefore, we just gave my_vector 4 rows and 5 columns.
 dim(my_vector) <- c(4, 5)
 ~~~
 {: .language-r}
@@ -90,7 +91,7 @@ A more direct method of creating the same matrix uses the `matrix()` function.
 
 ~~~
 ## Let's create a matrix containing the same numbers (1-20) and dimensions (4 rows, 5 columns) by calling the matrix() function. 
-We'll store the result in a variable called my_matrix2.
+## We will store the result in a variable called my_matrix2.
 
 my_matrix2 <- matrix(1:20, nrow = 4, ncol = 5, byrow = FALSE)
 ~~~
@@ -125,8 +126,8 @@ cbind(library_patrons, my_matrix)
 {: .language-r}
 
 ~~~
-## Remember, matrices can only contain ONE class of data. When we tried to combine a character vector with a numeric matrix, R was forced to 'coerce' the numbers to characters,
-hence the double quotes.
+## Remember, matrices can only contain ONE class of data. 
+## When we tried to combine a character vector with a numeric matrix, R was forced to 'coerce' the numbers to characters, hence the double quotes.
 
 ## Instead we will create a data frame.
 my_data <- data.frame(library_patrons, my_matrix)
