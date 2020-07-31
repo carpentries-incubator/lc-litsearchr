@@ -53,7 +53,7 @@ This is sort of like a text editor, or a place to write and save code. You then 
 
 To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). To create a new .R script file, use File > New File > R Script, and to open a script, use File > Open, or Recent Files to see files you’ve worked with recently. Save the R script by going to File > Save.
 
-If you type an incomplete command and press Enter, R will display a `+` prompt, which means R is waiting for you to type the rest of your command. Either finish the command or hit Escape to start over:
+If you type an incomplete command and you execute it, R will display a `+` prompt, which means R is waiting for you to type the rest of your command. Either finish the command or hit Escape to start over:
 
 ~~~
 ## type in 6 subtracted from and leave it blank
@@ -150,14 +150,7 @@ Now that you feel more comfortable typing in commands let's practice some more. 
 > We'll cover these in later episodes of this lesson.
 > 
 > 1. Create a new .R file called `my_first_script.R`.
-> 2. Type in `file.create("my_first_script.R")` in the script pane.
-> 3. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
->
-> ~~~
-> ## to create a new .R file
-> file.create("my_first_script.R")
-> ~~~
-> {: .language-r}
+> 2. Write each line of the following code separately in the script pane and identify where the results are found. To execute code you use Ctrl+Enter (Cmd+Enter on a Mac). 
 >
 > ~~~
 > ## type and run each line separately
