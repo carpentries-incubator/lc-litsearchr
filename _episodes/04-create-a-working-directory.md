@@ -66,9 +66,6 @@ To set your new working directory go to:
 3. Select `Choose Directory`
 4. Choose the folder `litsearchr` on your desktop
 
-* On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
-* The directory name must be in quotation marks. 
-
 
 ## Organize your working directory
 Using consistent filing naming and folder structure across your projects will help keep things organized. It will also make it easy to find things in the future since systematic reviews typically take months to complete. This can be especially helpful when you are working on multiple reviews or checking in with a review team months after running the initial search. In general, you can create directories or folders for **scripts**, **data**, and **documents**. 
