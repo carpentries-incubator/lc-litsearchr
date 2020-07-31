@@ -58,17 +58,17 @@ The **working directory** is the location on your computer R will use for readin
 ~~~
 # Determine which directory your R session is using as its current working directory using getwd().
 getwd()
-
-# Assign the value of the current working directory to a variable called "lesson.dir".
-lesson.dir <- getwd()
-
-# Set your working directory to "lesson.dir" with the setwd() command.
-setwd(lesson.dir)
 ~~~
 {: .language-r}
 
+To set your new working directory go to:
+1. Under `Session` at the top
+2. Scroll down to `Set Working Directory`
+3. Select `Choose Directory`
+4. Choose the folder `litsearchr` on your desktop
+
 * On Windows computers, directories in file paths are separated with a backslash `\`. However, in R, you must use a forward slash `/`. Tip: you can copy and paste from the Windows Explorer (or Mac Finder) window directly into R and use the find/replace (Ctrl/Cmd + F). 
-* The directory must be in quotation marks. 
+* The directory name must be in quotation marks. 
 
 ## Exploring your working directory
 
