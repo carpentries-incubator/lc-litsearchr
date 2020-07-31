@@ -56,9 +56,9 @@ To open a .csv file we will use the built in `read.csv(...)` function, which rea
 ~~~
 ## import the data and look at the first six rows
 ## use the tab key to get the file option
-anderson_refs <- read.csv(file = 'data/anderson_refs.csv')
+anderson_refs <- read.csv(file = "./data/anderson_refs.csv")
+
 head(anderson_refs)
-##
 ~~~
 {: .language-r}
 
@@ -83,7 +83,7 @@ head(anderson_refs)
 > ## To export the data use the write.csv() function. It requires a minimum of two arguments for the data to be saved and the name of the output file.
 > 
 > ## For exmaple, if we had edited the anderson_refs csv file we could use:
-> write.csv(anderson_refs, file = 'data/anderson-refs-cleaned.csv')
+> write.csv(anderson_refs, file = "./data/anderson-refs-cleaned.csv")
 > ~~~
 > {: .language-r}
 >
