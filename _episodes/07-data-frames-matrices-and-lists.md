@@ -16,7 +16,7 @@ keypoints:
 - "Matrices behave as two-dimensional vectors"
 ---
 
-# Data frames, Matrices, and lists
+# Data frames, Matrices, and Lists
 Dataframes and matrices represent 'rectangular' data types, meaning that they are used to store tabular data, with rows and columns. The main difference is that matrices can only contain a single class of data, while data frames can consist of many different classes of data.
 
 A data frame is the term in R for a spreadsheet style of data: a grid of rows and columns. The number of columns and rows is virtually unlimited, but each column must be a vector of the same length. A dataframe can comprise heterogeneous data: in other words, each column can be a different data type. However, because a column is a vector, it has to be a single data type. 
@@ -57,14 +57,14 @@ length(my_vector)
 
 ~~~
 ## If we give my_vector a `dim` attribute, the first number is the number of rows and the second is the number of columns. Therefore, we just gave my_vector 4 rows and 5 columns.
-> dim(my_vector) <- c(4, 5)
+dim(my_vector) <- c(4, 5)
 ~~~
 {: .language-r}
 
 ~~~
 ## Now it's we have turned the vector into a matrix. View the contents of my_vector now to see what it looks like.
 
-> my_vector
+my_vector
      [,1] [,2] [,3] [,4] [,5]
 [1,]    1    5    9   13   17
 [2,]    2    6   10   14   18
@@ -89,8 +89,8 @@ my_matrix <- my_vector
 A more direct method of creating the same matrix uses the `matrix()` function.
 
 ~~~
-## Let's create a matrix containing the same numbers (1-20) and dimensions (4 rows, 5 columns) by calling the matrix() function. We'll store the result in a variable called
-my_matrix2.
+## Let's create a matrix containing the same numbers (1-20) and dimensions (4 rows, 5 columns) by calling the matrix() function. 
+We'll store the result in a variable called my_matrix2.
 
 my_matrix2 <- matrix(1:20, nrow = 4, ncol = 5, byrow = FALSE)
 ~~~
@@ -98,7 +98,7 @@ my_matrix2 <- matrix(1:20, nrow = 4, ncol = 5, byrow = FALSE)
 
 Now, imagine that the numbers in our table represent some measurements from a
 a library check out, where each row represents one library patron and each column represents
-one variable for how many items they've checked out.
+one variable for how many items they've checked out a particular library item.
 
 ~~~
 ## We may want to label the rows, so that we know which numbers belong to which library patron.
@@ -115,6 +115,7 @@ library_patrons <- c("Erin", "Kate", "Kelly", "Matt")
 ## Use the cbind() function to 'combine columns'. Don't worry about storing the result in a new variable. 
 ## Just call cbind() with two arguments -- the library patrons vector and my_matrix.
 cbind(library_patrons, my_matrix)
+
     library_patrons                     
 [1,] "Erin"   "1" "5" "9"  "13" "17"
 [2,] "Kate"   "2" "6" "10" "14" "18"
@@ -135,6 +136,7 @@ my_data <- data.frame(library_patrons, my_matrix)
 ~~~
 ## View the contents of my_data to see what we've come up with.
 my_data
+
   library_patrons X1 X2 X3 X4 X5
 1     Erin  1  5  9 13 17
 2     Kate  2  6 10 14 18
@@ -157,10 +159,9 @@ class(my_data)
 We can also assign names to the columns of our data frame so that we know what type of library material each column represents.
 
 ~~~
-## First, we'll create a character vector called cnames that contains the  following values (in order) -- "name", "book", "dvd",
-"laptop", "article", "reference".
+## First, we'll create a character vector called cnames that contains the  following values (in order) -- "name", "book", "dvd", "laptop", "article", "reference".
 
-> cnames <- c("name", "book", "dvd", "laptop", "article", "reference")
+cnames <- c("name", "book", "dvd", "laptop", "article", "reference")
 ~~~
 {: .language-r}
 
@@ -173,7 +174,8 @@ colnames(my_data) <- cnames
 ~~~
 ## Print the contents of my_data to see if all looks right.
 
-> my_data
+my_data
+
     name  book  dvd laptop article reference
 1    Erin   1    5     9     13       17
 2    Kate   2    6    10     14       18
