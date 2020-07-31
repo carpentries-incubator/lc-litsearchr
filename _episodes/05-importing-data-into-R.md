@@ -56,7 +56,7 @@ To open a .csv file we will use the built in `read.csv(...)` function, which rea
 ~~~
 ## import the data and look at the first six rows
 ## use the tab key to get the file option
-anderson_refs <- read.csv(file = "./data/anderson_refs.csv")
+anderson_refs <- read.csv(file = "./data/anderson_refs.csv", header = TRUE, sep = ",")
 
 head(anderson_refs)
 ~~~
