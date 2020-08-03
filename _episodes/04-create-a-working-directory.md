@@ -66,7 +66,7 @@ To set your new working directory go to:
 1. Under `Session` at the top
 2. Scroll down to `Set Working Directory`
 3. Select `Choose Directory`
-4. Choose the folder `litsearchr` on your desktop
+4. Choose the folder `lc_litsearchr` on your desktop
 
 
 ## Organize your working directory
