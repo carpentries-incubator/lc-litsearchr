@@ -28,7 +28,7 @@ This is an introduction to R and RStudio designed for participants with no progr
 
 > ## Data
 >
-> To complete this lesson you will need to install [R](http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the following files from Figshare.
+> To complete this lesson you will need to install [R](http://cran.r-project.org/bin/windows/base/release.htm) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download) and download the following files from Figshare. Save the folder to your Desktop.
 > * [zip folder](https://doi.org/10.6084/m9.figshare.12753506.v2)
 >
 > For this lesson we'll be using a published systematic review [Impact of alcohol advertising and media exposure on adolescent alcohol use: a systematic review of longitudinal studies](https://pubmed.ncbi.nlm.nih.gov/19144976/) which assessed the impact of alcohol advertising and media exposure on future adolescent alcohol use.
