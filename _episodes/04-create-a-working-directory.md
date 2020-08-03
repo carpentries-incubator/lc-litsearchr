@@ -25,7 +25,7 @@ For this lesson we'll create a new project.
 
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
 
-> ## Download the data for this lesson
+> ## Make sure the files you downloaded from the zip folder are organized correctly before continuing on. If you need to reorganize your files instructions are below:
 >
 > Create three folders on your computer desktop and name them `data`, `anderson_naive`, and `search_results`
 >  
@@ -45,7 +45,7 @@ If for some reason your working directory is not set up correctly you can change
 > * savedrecs(2)
 > * savedrecs(3)
 >
-> Create a folder on your desktop called `litsearchr`. Add your three folders, `data`, `anderson_naive`, and `search_results` to the `litsearchr` folder.
+> Create a folder on your desktop called `lc_litsearchr`. Add your three new folders, `data`, `anderson_naive`, and `search_results` to the `lc_litsearchr` folder.
 >
 > If you need to download the files they can be found in [Data](https://ameliakallaher.github.io/lc-litsearchr/index.html) 
 >
