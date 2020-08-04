@@ -110,7 +110,7 @@ You can list all objects in the environment by typing `ls()` in the console and 
 ## to create object y type
 y <- 5
 
-## to list all objects in the enviroment type
+## to list all objects in the  environment type
 ls()
 
 ## to remove object y type
@@ -143,7 +143,7 @@ This pane has multiple functions:
 >{: .solution}
 {: .challenge}
 
-Now that you feel more comfortable typing in commands let's practice some more. Work through the following excercise:
+Now that you feel more comfortable typing in commands let's practice some more. Work through the following exercise:
 
 > ## Exercise
 > This exercise is to get you familiar with typing and executing commands in RStudio. Don't worry about understanding the functions just yet. 
