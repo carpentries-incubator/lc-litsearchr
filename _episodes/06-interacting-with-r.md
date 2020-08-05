@@ -26,7 +26,7 @@ As we saw earlier in the lesson, you can use R like a calculator when you type *
 ~~~
 {: .language-r}
 
-You can use R to *assign values*, such as a numeric value like 4, and *create objects*. We will use the assingment operator to do this.This is the angle bracket (AKA the "less than"" symbol): `<`, which you'll get by pressing **Shift + comma** and the hyphen `-` which is located next to the zero key. There is no space between them, and it is designed to look like a left pointing arrow `<-`.   
+You can use R to *assign values*, such as a numeric value like 4, and *create objects*. We will use the assignment operator to do this.This is the angle bracket (AKA the "less than"" symbol): `<`, which you'll get by pressing **Shift + comma** and the hyphen `-` which is located next to the zero key. There is no space between them, and it is designed to look like a left pointing arrow `<-`.   
 
 ~~~
 # assign 4 to y by typing this in the console and pressing Enter
@@ -34,7 +34,7 @@ y <- 4
 ~~~
 {: .language-r}
 
-You have now created a symbol called `y` and *assigned* the numeric value 4 to it. When you assign something to a symbol, nothing happens in the console, but in the Enviroment pane in the upper right, you will notice a new *object*, y. 
+You have now created a symbol called `y` and *assigned* the numeric value 4 to it. When you assign something to a symbol, nothing happens in the console, but in the Environment pane in the upper right, you will notice a new *object*, y. 
 
 You can use R to evaluate expressions. Try typing `y` into the console, and press Enter on your keyboard, R will *evaluate* the expressions. In this case, R will *print* the elements that are assigned to `y`. 
 
@@ -47,10 +47,10 @@ y
 
 We can do this easily since `y` only has one element, but if you do this with a large dataset loaded into R, it will obliterate your console because it will print the entire dataset. 
 
-You can use R to type *commands* into your code by using the hash symbol `#`. Anything following the hash symbol will not be evaluated. Adding notes, comments, and directions along the way helps to explain your code to someone else as well as document your own steps like a manual you can refer back to. Commenting code, along with documenting how data is collected and explaining what each variable represents, is essential to [reproducibile research](https://ropensci.github.io/reproducibility-guide/sections/introduction/).
+You can use R to type *commands* into your code by using the hash symbol `#`. Anything following the hash symbol will not be evaluated. Adding notes, comments, and directions along the way helps to explain your code to someone else as well as document your own steps like a manual you can refer back to. Commenting code, along with documenting how data is collected and explaining what each variable represents, is essential to [reproducible research](https://ropensci.github.io/reproducibility-guide/sections/introduction/).
 
 ## Vectors
-The simplest and most common data structure in R is the vector. It contains elements of exactly one data type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an arugment. Everything you manipulate in R is called an object and vectors are the most basic type of object. In this episode we'll take a closer look at logical and character vectors.
+The simplest and most common data structure in R is the vector. It contains elements of exactly one data type. Those elements within a vector are called components. Components can be numbers, logical values, characters, and dates to name a few. Most base functions in R work when given a vector as an argument. Everything you manipulate in R is called an object and vectors are the most basic type of object. In this episode we'll take a closer look at logical and character vectors.
 
 ### The `c()` function
 The c() function is used for creating a vector. Read the help files for `c()` by calling `help(c)` or `?c` to learn more. 
