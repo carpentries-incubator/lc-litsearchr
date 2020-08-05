@@ -63,7 +63,7 @@ dim(my_vector) <- c(4, 5)
 {: .language-r}
 
 ~~~
-## Now it's we have turned the vector into a matrix. View the contents of my_vector now to see what it looks like.
+## Now we have turned the vector into a matrix. View the contents of my_vector now to see what it looks like.
 
 my_vector
      [,1] [,2] [,3] [,4] [,5]
