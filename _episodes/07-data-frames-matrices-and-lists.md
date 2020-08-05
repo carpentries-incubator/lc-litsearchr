@@ -98,7 +98,7 @@ my_matrix2 <- matrix(1:20, nrow = 4, ncol = 5, byrow = FALSE)
 {: .language-r}
 
 Now, imagine that the numbers in our table represent some measurements from a
-a library check out, where each row represents one library patron and each column represents
+library check out, where each row represents one library patron and each column represents
 one variable for how many items they've checked out a particular library item.
 
 ~~~
