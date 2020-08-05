@@ -169,7 +169,7 @@ levels(anderson_refs$source)
 
 However, if we try to use the levels() function on a non-categorical column like `volume` R will return a `NULL` 
 ~~~
-## try using levels() with a the volumn number column
+## try using levels() with a the volume number column
 levels(anderson_refs$volume)
 
 > levels(anderson_refs$volume)
