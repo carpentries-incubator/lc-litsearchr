@@ -7,7 +7,7 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "lc"
+carpentry: "incubator"
 
 # Overall title for pages.
 title: "Library Carpentry: Introduction to R and litsearchr"
@@ -96,3 +96,5 @@ exclude:
 
 # Turn on built-in syntax highlighting.
 highlighter: rouge
+
+remote_theme: carpentries/carpentries-theme
