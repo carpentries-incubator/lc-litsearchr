@@ -63,6 +63,6 @@ The R package litsearchr provides a method to facilitate the harvesting of searc
 > ## Think-Pair-Share: Reproducibility and search strategies
 > Think about the process of developing a search strategy for a systematic review. What aspects of this process are reproducible? 
 > What aspects are more difficult to reproduce? How do you think a tool like R and litsearchr can help to increase the reproducibility of this process? 
-> Share your thoughts with your breakout room group, and then share with the rest of the group by adding a comment to the [Etherpad](https://pad.carpentries.org/litsearchr-alpha_Cornell_20200806).
+> Share your thoughts with your breakout room group, and then share with the rest of the group by adding a comment to the [Etherpad](https://pad.carpentries.org/litsearchr-alpha-202304).
 {: .callout}
 
