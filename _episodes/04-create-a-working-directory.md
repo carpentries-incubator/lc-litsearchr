@@ -25,6 +25,8 @@ For this lesson we'll create a new project.
 
 If for some reason your working directory is not set up correctly you can change it in the RStudio interface by navigating in the file browser where your working directory should be, and clicking on the blue gear icon "More", and select "Set As Working Directory". 
 
+If you haven't already, [download the workshop files](https://github.com/carpentries-incubator/lc-litsearchr/raw/gh-pages/data/lc_litsearchr.zip), unzip or decompress the folder and place it into your new library-carpentry project directory by dragging and dropping file. 
+
 > ## Make sure the files you downloaded from the zip folder are organized correctly before continuing on. 
 >
 > If you need to reorganize your files the instructions are below:
