@@ -30,7 +30,7 @@ To learn any new tool or skill, it is best to put that skill to use in a practic
 >
 >We'll use this time to move into Zoom breakout rooms and do the following: 
 >1. Round of introductions
->2. Test using [the Etherpad](https://pad.carpentries.org/litsearchr-alpha_Cornell_20200806](https://pad.carpentries.org/litsearchr-alpha-202304) 
+>2. Test using [the Etherpad](https://pad.carpentries.org/litsearchr-alpha-202304) 
 >3. Test Zoom functions including muting/unmuting, Yes/No feature, screen sharing, and remote screen control
 >4. Check that everyone has an appropriate screen and window set up to view Zoom and RStudio, and to access the Etherpad when needed.
 >5. Check that everyone has R and RStudio installed.
