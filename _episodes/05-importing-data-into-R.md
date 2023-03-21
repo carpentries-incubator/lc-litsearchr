@@ -88,7 +88,7 @@ class(anderson_refs$source)
 >
 {: .callout}
 
-> ## The `write.csv` Argument
+> ## The `write.csv` function
 >
 > After altering a dataset by replacing columns or updating values you can save the new output with `write.csv(...)`.
 > 
