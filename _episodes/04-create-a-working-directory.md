@@ -49,10 +49,9 @@ If you haven't already, [download the workshop files](https://github.com/carpent
 > * savedrecs(2)
 > * savedrecs(3)
 >
-> Create a folder on your desktop called `lc_litsearchr`. Add your three new folders, `data`, `anderson_naive`, and `search_results` to the `lc_litsearchr` folder.
->
-> If you need to download the files they can be found in [Data](https://ameliakallaher.github.io/lc-litsearchr/index.html) 
->
+> Add your three new folders, `data`, `anderson_naive`, and `search_results` to the `library-carpentry` folder you just created.
+
+
 {: .callout}
 
 ## Set your working directory
