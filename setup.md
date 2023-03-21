@@ -81,3 +81,7 @@ install RStudio. Once installed, because RStudio is an IDE, RStudio will run R i
   rstudio-x.yy.zzz-amd64.deb` at the terminal).
 * Once it's installed, open RStudio to make sure it works and you don't get any
   error messages.
+  
+### Download data files
+
+We'll be working with a set of data files for the hands-on portion of this lesson. Please [download the zipped file](https://github.com/carpentries-incubator/lc-litsearchr/raw/gh-pages/data/lc_litsearchr.zip), place it on your desktop and decompress or unzip it prior to the workshop.
