@@ -50,7 +50,8 @@ If you haven't already, [download the workshop files](https://github.com/carpent
 > * savedrecs(3)
 >
 > Add your three new folders, `data`, `anderson_naive`, and `search_results` to the `library-carpentry` folder you just created.
-
+>
+>
 
 {: .callout}
 
