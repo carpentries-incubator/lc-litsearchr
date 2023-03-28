@@ -22,7 +22,7 @@ This is an introduction to R and RStudio designed for participants with no progr
 > 
 > This workshop assumes no prior experience with the tools covered in the lesson.
 >
-> To get started, follow the directions in the [Setup](https://ameliakallaher.github.io/lc-litsearchr/setup.html) tab to
+> To get started, follow the directions in the [Setup](https://carpentries-incubator.github.io/lc-litsearchr/setup.html) tab to
 > get access to the required software and data for this workshop.
 {: .prereq}
 
@@ -33,15 +33,15 @@ This is an introduction to R and RStudio designed for participants with no progr
 >
 > For this lesson we'll be using a published systematic review [Impact of alcohol advertising and media exposure on adolescent alcohol use: a systematic review of longitudinal studies](https://pubmed.ncbi.nlm.nih.gov/19144976/) which assessed the impact of alcohol advertising and media exposure on future adolescent alcohol use.
 >
-> See [Setup](https://ameliakallaher.github.io/lc-litsearchr/setup.html) for information about how to install R and RStudio.
+> See [Setup](https://carpentries-incubator.github.io/lc-litsearchr/setup.html) for information about how to install R and RStudio.
 {: .prereq}
 
 ## Lesson Overview 
 
 | Lesson    | Overview |
 | ------- | ---------- |
-| [Day One: Introduction to R and RStudio](https://ameliakallaher.github.io/lc-litsearchr/01-introduction/index.html) | Get an overview of systematic reviews, learn how to interact with R, install packages, and get data into RStudio. |
-| [Day Two: Introduction to litsearchr](https://ameliakallaher.github.io/lc-litsearchr/11-introduction-to-litsearchr/index.html) | Explore, develop, and identify potential search terms before writing, translating, and testing search strategies with litsearchr. |
+| [Day One: Introduction to R and RStudio](https://carpentries-incubator.github.io/lc-litsearchr/01-introduction/index.html) | Get an overview of systematic reviews, learn how to interact with R, install packages, and get data into RStudio. |
+| [Day Two: Introduction to litsearchr](https://carpentries-incubator.github.io/lc-litsearchr/11-introduction-to-litsearchr/index.html) | Explore, develop, and identify potential search terms before writing, translating, and testing search strategies with litsearchr. |
 
 
 {% include links.md %}
