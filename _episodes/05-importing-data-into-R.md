@@ -82,7 +82,12 @@ class(anderson_refs$source)
 {: .callout}
 
 > ## The `na.strings` Argument
-> We often need to deal with missing data in our dataset. A useful argument for the `read.csv()` function is `na.strings`, which allows you to specify how you have represented missing values in the dataset you're importing, and recode those values as NA, which is how R recognizes missing values. For example, if our anderson_refs dataset had missing values coded as lowercase 'na', we can recode these to uppercase 'NA' using the na.strings arguments as follows:
+>
+> We often need to deal with missing data in our dataset. A useful argument for the `read.csv()` 
+> function is `na.strings`, which allows you to specify how you have represented missing values in 
+> the dataset you're importing, and recode those values as NA, which is how R recognizes missing 
+> values. For example, if our anderson_refs dataset had missing values coded as lowercase 'na', we 
+> can recode these to uppercase 'NA' using the na.strings arguments as follows:
 
 ```{r na.strings}
 write.csv(anderson_refs, file = 'data/anderson_refs_clean.csv', na.strings = "na")
@@ -91,7 +96,8 @@ write.csv(anderson_refs, file = 'data/anderson_refs_clean.csv', na.strings = "na
 {: .callout}
 
 > ## The `write.csv` function
-> After altering a dataset by replacing columns or updating values you can save the new output with `write.csv(...)`.
+> After altering a dataset by replacing columns or updating values you can save the new output with 
+> `write.csv(...)`. 
 > 
 {: .callout}
 
@@ -107,10 +113,9 @@ write.csv(anderson_refs, file = 'data/anderson_refs_clean.csv', row.names = FALS
 >  ~~~
 > ## To export the data use the write.csv() function. It requires a minimum of two arguments for the data to be saved and the name of the output file.
 > 
-> ## For exmaple, if we had edited the anderson_refs csv file we could use:
+> ## For example, if we had edited the anderson_refs csv file we could use:
 > write.csv(anderson_refs, file = "./data/anderson-refs-cleaned.csv")
 > ~~~
 > {: .language-r}
 >
-{: .callout}
 
