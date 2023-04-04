@@ -82,23 +82,20 @@ class(anderson_refs$source)
 {: .callout}
 
 > ## The `na.strings` Argument
->
 > We often need to deal with missing data in our dataset. A useful argument for the `read.csv()` function is `na.strings`, which allows you to specify how you have represented missing values in the dataset you're importing, and recode those values as NA, which is how R recognizes missing values. For example, if our anderson_refs dataset had missing values coded as lowercase 'na', we can recode these to uppercase 'NA' using the na.strings arguments as follows:
 
 ```{r na.strings}
 write.csv(anderson_refs, file = 'data/anderson_refs_clean.csv', na.strings = "na")
 ```
-
+>
 {: .callout}
 
 > ## The `write.csv` function
->
 > After altering a dataset by replacing columns or updating values you can save the new output with `write.csv(...)`.
 > 
 {: .callout}
 
 > ## The `row.names` Argument
->
 > This argument for the `write.csv` function allows us to set the names of the rows in the output data file. R’s default for this argument is TRUE, and since it does not know what else to name the rows for the a dataset, it resorts to using row numbers. To correct this, we can set row.names to FALSE:
 
 ```{r row.namesFALSE}
