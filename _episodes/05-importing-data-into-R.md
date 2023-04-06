@@ -81,22 +81,39 @@ class(anderson_refs$source)
 >
 {: .callout}
 
-> ## The `stringsAsFactors` Argument
+> ## The `na.strings` Argument
 >
-> This is perhaps the most important argument in `read.csv()`, particularly if you are working with categorical data. 
-> This is because the default behavior of R is to convert character strings into factors, which may make it difficult to do such things as replace values.
+> We often need to deal with missing data in our dataset. A useful argument for the read.csv() function is na.strings, which allows you to specify how you have represented missing values in the dataset you're importing, and recode those values as NA, which is how R recognizes missing values. For example, if our anderson_refs dataset had missing values coded as lowercase 'na', we can recode these to uppercase 'NA' using the na.strings arguments as follows:
+> ~~~
+> ## To import data use the read.csv() function. To recode missing values to NA, use the `na.strings` argument
+>
+> read.csv(anderson_refs, file = 'data/anderson_refs_clean.csv', na.strings = "na")
+> ~~~
+> {: .language-r}
 >
 {: .callout}
 
-> ## The `write.csv` function
+> ## The `write.csv` Function
 >
 > After altering a dataset by replacing columns or updating values you can save the new output with `write.csv(...)`.
 > 
 > ~~~
 > ## To export the data use the write.csv() function. It requires a minimum of two arguments for the data to be saved and the name of the output file.
 > 
-> ## For exmaple, if we had edited the anderson_refs csv file we could use:
+> ## For example, if we had edited the anderson_refs csv file we could use:
 > write.csv(anderson_refs, file = "./data/anderson-refs-cleaned.csv")
+> ~~~
+> {: .language-r}
+>
+{: .callout}
+
+> ## The `row.names` Argument
+>
+> This argument for the write.csv function allows us to set the names of the rows in the output data file. R’s default for this argument is TRUE, and since it does not know what else to name the rows for the a dataset, it resorts to using row numbers. To correct this, we can set row.names to FALSE:
+> ~~~
+> ## To export data use the write.csv() function. To avoid an addition column with row numbers, set `row.names` to FALSE
+>
+> write.csv(anderson_refs, file = 'data/anderson_refs_clean.csv', row.names = FALSE)
 > ~~~
 > {: .language-r}
 >
