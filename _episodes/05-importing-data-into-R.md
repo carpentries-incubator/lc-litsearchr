@@ -109,9 +109,9 @@ class(anderson_refs$source)
 
 > ## The `row.names` Argument
 >
-> This argument for the write.csv function allows us to set the names of the rows in the output data file. R’s default for this argument is TRUE, and since it does not know what else to name the rows for the a dataset, it resorts to using row numbers. To correct this, we can set row.names to FALSE:
+> This argument for the write.csv function allows us to set the names of the rows in the output data file. R’s default for this argument is TRUE, and since it does not know what else to name the rows for the dataset, it resorts to using row numbers. To correct this, we can set row.names to FALSE:
 > ~~~
-> ## To export data use the write.csv() function. To avoid an addition column with row numbers, set `row.names` to FALSE
+> ## To export data use the write.csv() function. To avoid an additional column with row numbers, set `row.names` to FALSE
 >
 > write.csv(anderson_refs, file = 'data/anderson_refs_clean.csv', row.names = FALSE)
 > ~~~
