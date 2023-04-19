@@ -150,7 +150,7 @@ file.create("mylesson.R")
 ~~~
 {: .language-r}
 
-Typing in `list.files()` shows that the directory only contains mylesson.R.
+Typing in `list.files()` shows that the directory contains mylesson.R.
 
 ~~~
 list.files()
